@@ -5,7 +5,7 @@ Welcome to Nerority's Portfolio, a comprehensive collection of projects and rese
 ## Projects and Research
 
 ### JSON/Natural Language Hybrid Prompts ‐ The Best Prompting Method
-At the start of my journey with mastering prompt engineering, I found a new way to prompt that was pretty much superior in every single way. With the release of GPT-4 Code Intreptor, the benefits of this method have risen to new heights. I believe this is best possible way to prompt an AI model, and will show you exactly why.
+At the start of my journey with mastering prompt engineering, I found a new way to prompt that was pretty much superior in every single way. With the release of GPT-4 Code Interpretor, the benefits of this method have risen to new heights. I believe this is best possible way to prompt an AI model, and will show you exactly why.
 
 ### Semantic Knowledge Structures for Advanced AI Assistance
 
