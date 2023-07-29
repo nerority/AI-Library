@@ -1,6 +1,6 @@
-# Nerority Portfolio
+# Devin Pellegrino's AI Portfolio
 
-Welcome to Nerority's Portfolio, a comprehensive collection of projects and research endeavors in the field of AI. Dive in to explore my groundbreaking work in semantic knowledge structures, advanced AI assistance, solution architecture frameworks, problem-solving algorithms, and more.
+Welcome to my AI Portfolio, a comprehensive collection of projects and research endeavors in the field of AI. Dive in to explore my groundbreaking work in semantic knowledge structures, advanced AI assistance, solution architecture frameworks, problem-solving algorithms, and more.
 
 ## Projects and Research
 
