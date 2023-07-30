@@ -2,21 +2,24 @@
 
 Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI modeling to problem-solving algorithms and system design frameworks.
 
+## Table of Contents:
+### Projects
+1. [1. JSON/Natural Language Hybrid Prompting - The Best Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method)
+2. [Hyper-Dimensional Knowledge Integration for Advanced AI Systems](#Hyper-Dimensional-Knowledge-Integration-for-Advanced-AI-Systems)
+3. [Novel AI Algorithms](#Novel-AI-Algorithms)
+4. [Meta-Logic Capture and Knowledge Encoding](#Meta-Logic-Capture-and-Knowledge-Encoding)
+5. [Complexity Advancement, Navigation, and Control](#Complexity-Advancement,-Navigation,-and-Control)
+6. [Self-Improvement Feedback Loop](#Self-Improvement-Feedback-Loop)
+7. [Zero-Shot Omni-Dimensional Learning (ZSODL): The Evolution of Adaptive AI Learning](#Zero-Shot-Omni-Dimensional-Learning-(ZSODL):-The-Evolution-of-Adaptive-AI-Learning)
+8. [Hypercontextual Conversational AI](#Hypercontextual-Conversational-AI)
+### Resources
+- [Guides and Cheat Sheets](#Guides-and-Cheat-Sheets)
+- [Advanced Prompts](#Advanced-Prompts)
+
 <p align="center">
   <img width="400" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
 </p>
 
-## Table of Contents:
-### Projects
-1. JSON/Natural Language Hybrid Prompts
-2. Hyper-Dimensional Knowledge Integration for Advanced AI Systems
-3. Novel AI Algorithms
-4. Meta-Logic Capture and Knowledge Encoding
-5. Complexity Advancement, Navigation, and Control
-6. Self-Improvement Feedback Loop
-7. Zero-Shot Omni-Dimensional Learning (ZSODL)
-8. Hypercontextual Conversational AI
-   
 ---
 # Projects
 
