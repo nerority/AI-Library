@@ -2,6 +2,9 @@
 
 Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI assistance to problem-solving algorithms and system design methods.
 
+![Knowledge Mapping](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d3326a3-d0af-4af6-8aba-7d1f5f77c341/Untitled.png)
+
+
 ## Projects
 
 ### 1. JSON/Natural Language Hybrid Prompts
