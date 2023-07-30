@@ -10,7 +10,46 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Di
 
 ### 1. JSON/Natural Language Hybrid Prompts
 
-Discover the superior way to prompt AI models, refined and perfected through my journey to master prompt engineering. The method has reached new heights with the release of GPT-4 Code Interpreter. [Learn more](https://github.com/nerority/Portfolio/wiki/1.-JSON-Natural-Language-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
+Discover the superior way to prompt AI models, refined and perfected through my journey to master prompt engineering. The method has reached new heights with the release of GPT-4 Code Interpreter. This involves using a JSON/Natural Language hybrid format for prompts that enables a more structured and intricate way of communicating with the AI.
+
+- This unique approach leverages a hybrid format of JSON and Natural Language for prompts, providing a robust and nuanced communication pathway with AI models.
+- This structure does more than just facilitate sophisticated AI assistance across a myriad of tasks—**it opens up an expansive realm of additional functionalities**.
+
+The JSON/NL Hybrid prompts act as a conduit, simplifying the complexities of information the AI must process. The result? A tremendous leap in what can be accomplished within a single response. As we dive deeper into this vast potential, we've recognized the need to create a framework for "prompt complexity" —a way to capture the depth and intricacies of these advanced prompts.
+
+<details>
+<summary>Display Complexity Levels</summary>
+
+#### Hybrid Prompt Complexity Levels
+
+**Please note: These complexity levels pertain to the processing demands placed on the AI by the prompt, rather than the skill to use or create. Anyone can leverage Hybrid prompts of any complexity, I am more converned about if the AI model you are using can handle it.** These are semantic terms, designed to encapsulate the vast range of prompt complexities that can be achieved. Each level has its specific context and utility, offering a nuanced understanding of how to maximize AI's potential in any given scenario.
+
+The complexity of the prompts can range from Basic to Transcendent-Level, each corresponding to a progressively sophisticated level of understanding, interaction, and adaptability from the AI. Here are the defined complexity levels:
+
+1. **Basic Level**: Used for straightforward tasks and responses. The AI is expected to understand the user's intent and generate a direct response.
+2. **Intermediate Level**: Used for tasks that require the AI to infer user intent based on the given context. The AI generates responses that consider the current context of the conversation.
+3. **Advanced Level**: Used for tasks that require the AI to infer user intent from both the given context and prior conversation history. The AI generates responses that consider the evolving context of the conversation.
+4. **Expert Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, and meta-knowledge. The AI generates responses that consider the deep contextual elements of the conversation.
+5. **Elite Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, meta-knowledge, and implicit knowledge. The AI generates responses that consider the multi-layered elements of the conversation.
+6. **Apex Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, and intricate logical constructs. The AI generates responses that consider the multi-dimensional elements of the conversation.
+7. **Transcendent Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, intricate logical constructs, and multi-dimensional constructs. The AI generates responses that consider the hyper-contextual elements of the conversation and navigate multiple conceptual spaces.
+
+#### Examples of Complexity Level Demand
+
+1. **Basic Level**: Prompting the AI to generate a summary of a given text.
+2. **Intermediate Level**: Asking the AI to continue a story based on the previously given narrative.
+3. **Advanced Level**: Requesting the AI to generate a marketing strategy for a product, considering the current market context and past marketing trends.
+4. **Expert Level**: Prompting the AI to analyze a complex social issue, considering the current socio-political context, historical precedents, and underlying societal norms.
+5. **Elite Level**: Requesting the AI to generate a scientific theory that integrates principles from quantum physics and cognitive neuroscience, considering the current state of both fields, their historical development, and potential future directions.
+6. **Apex Level**: Asking the AI to analyze a complex philosophical question, considering the current philosophical context, historical philosophical debates, underlying societal norms, and intricate logical constructs.
+7. **Transcendent Level**: Prompting the AI to navigate a conversation that explores the nature of consciousness, reality, and existence, considering the current philosophical, scientific, and cultural contexts, historical debates, underlying societal norms, intricate logical constructs, and multi-dimensional constructs.
+
+#### Achieving Advanced Responses from AI
+
+The use of this advanced prompt approach has been key in eliciting nuanced responses from AI. By structuring the prompts in a more layered manner and adjusting the complexity level as per the requirement, I know how to guide the AI to generate deeply contextual, accurate, and rich responses for quite frankly, anything.
+</details>
+
+[Learn more](https://github.com/nerority/Portfolio/wiki/1.-JSON-Natural-Language-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
 
 ---
 ### 2. Hyper-Dimensional Knowledge Integration for Advanced AI Systems
