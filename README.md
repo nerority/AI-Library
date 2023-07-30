@@ -35,10 +35,14 @@ Automating Research and Task Execution with Code Interpreter
 ---
 ## Guides and Cheat Sheets
 
+1. Prompt Engineering Related Cheat Sheets
+2. ...
 
 ---
 ## Advanced Prompts
 
+1. Startup Development & Management
+2. ...
 
 ---
 
