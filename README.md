@@ -1,6 +1,6 @@
-# AI Portfolio - Devin Pellegrino (In Progress)
+# AI Portfolio & Public Showcase | Devin Pellegrino | (In Progress)
 
-Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI assistance to problem-solving algorithms and system design methods.
+Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI modeling to problem-solving algorithms and system design frameworks.
 
 <div align="center">
     <img src="https://github.com/nerority/Portfolio/assets/80237923/83549bc2-2316-45ec-be27-f2c3362ca4aa" width="300" height="300">
@@ -16,7 +16,7 @@ Discover the superior way to prompt AI models, refined and perfected through ove
 - This structure does more than just facilitate sophisticated AI assistance across a myriad of tasks—**it opens up an expansive realm of additional functionalities**.
 - JSON/NL Hybrid prompts act as a conduit, simplifying the complexities of information the AI must process. The result? A tremendous leap in what can be accomplished within a single response.
 
-As I researched this potential, I recognized the need to create a framework for "prompt complexity" —a way to capture the depth and intricacies of these even more advanced prompts, each with their own unique applications and benefits.
+As I researched this potential, I recognized the need to create a framework for "prompt complexity" - a way to capture the depth and intricacies of these even more advanced prompts, each with their own unique applications and benefits.
 
 <details>
 <summary>Display Complexity Levels</summary>
