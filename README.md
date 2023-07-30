@@ -14,7 +14,7 @@ Discover the superior way to prompt AI models, refined and perfected through ove
 
 - This unique approach leverages a hybrid format of JSON and Natural Language for prompts, providing a robust and nuanced communication pathway with AI models.
 - This structure does more than just facilitate sophisticated AI assistance across a myriad of tasks—**it opens up an expansive realm of additional functionalities**.
-- A JSON/NL Hybrid prompt act as a conduit, simplifying the complexities of information the AI must process. The result? A tremendous leap in what can be accomplished within a single response.
+- JSON/NL Hybrid prompts act as a conduit, simplifying the complexities of information the AI must process. The result? A tremendous leap in what can be accomplished within a single response.
 
 As I researched this potential, I recognized the need to create a framework for "prompt complexity" —a way to capture the depth and intricacies of these even more advanced prompts, each with their own unique applications and benefits.
 
