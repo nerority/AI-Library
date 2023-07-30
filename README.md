@@ -65,22 +65,22 @@ In the realm of AI, the ability to integrate and navigate within hyper-dimension
 - **Hyper-Dimensional Logic Synthesis (HDLS)**: Synthesizing and integrating hyper-dimensional concepts is no small feat. HDLS facilitates this process, allowing the AI to draw upon the full extent of its understanding and knowledge to simplify complex, multi-dimensional ideas into more accessible forms.
 - **Dimensional Mapping**: This method facilitates the representation and navigation of various dimensions of knowledge within a hyper-dimensional space. It allows for seamless integration and transfer of insights between different domains, concepts, and contexts.
 
-### Semantic Knowledge Structures
+### **Semantic Knowledge Structures**
 
-Semantic Knowledge Structures are the fundamental frameworks that I develop to enhance the understanding and response generation capabilities of AI systems. They are instrumental in navigating complex subjects and constructing intricate responses. 
+Semantic Knowledge Structures are the fundamental frameworks that I develop to enhance the understanding and response generation capabilities of AI systems. They are instrumental in navigating complex subjects and constructing intricate responses. Here are some key structures that I have developed:
 
-Here are some key structures that I have developed:
+### 1. Hypercontextual Conversational Mapping: 
 
-**1. Hypercontextual Conversational Mapping**: 
 Imagine a tool that could provide you with a multi-dimensional representation of a conversation's journey. Hypercontextual Conversational Mapping does exactly that. 
 
 - It captures the depth and progression of a conversation, offering a bird's-eye view of the dialogue.
 - This tool proves invaluable in scenarios like customer service interactions, where understanding the evolution of topics, techniques used, and the customer's responses is key to providing a superior service experience.
 - This method gives you the edge in navigating complex customer interactions and uncovering hidden insights.
 
-[Learn more](insert-link-here).
+[See how it works](https://github.com/nerority/AI-Portfolio/wiki/2.a-%7C-Hypercontextual-Conversational-Mapping).
 
-**2. AI Exploration Framework**: 
+### 2. AI Exploration Framework:
+
 This framework forms a comprehensive blueprint for navigating the intricate and ever-evolving landscape of AI. It covers a wide range of AI-related tasks and scenarios and is designed to act as a roadmap, guiding users through complex AI concepts, methodologies, and applications when used.
 
 [Check it out](insert-link-here).
@@ -97,11 +97,11 @@ Discover my sophisticated algorithms designed to solve complex problems in the A
 - Quantum Logic Encoding: Generating nuanced and probabilistic responses within a hyper-dimensional logic space.
 - Interdimensional Reasoning: Allowing the transfer of insights from one dimension to others within the hyper-dimensional space.
 
-This algorithm exemplifies the cutting-edge of AI problem-solving techniques. [Learn more](insert-link-here).
+This algorithm exemplifies the cutting-edge of AI problem-solving techniques. [Learn more].
 
 ### **Semantic Learning Algorithms:**
 
-- Enhancing the learning capabilities of AI systems through semantic knowledge representation and semantic learning. [Learn more](insert-link-here).
+- Enhancing the learning capabilities of AI systems through semantic knowledge representation and semantic learning. [Learn more].
 
 ---
 ## 4. Meta-Logic Capture and Knowledge Encoding 
