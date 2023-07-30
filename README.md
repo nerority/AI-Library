@@ -131,6 +131,8 @@ The combination of these methodologies not only allows for a sophisticated repre
   <img width="600" src="https://github.com/nerority/AI-Portfolio/assets/80237923/26f437f2-8f60-4083-9781-71e6956c8fd2">
 </p>
 
+The diagram above provides a visual representation of how Hyper-Weaving and Dimensional Mapping work in the context of AI response generation. The arrows indicate the direction of information flow, starting from the AI, moving through the processes of Hyper-Weaving and Dimensional Mapping, and culminating in the Response to the Prompt.
+
 [Read more about this process here].
 
 ---
