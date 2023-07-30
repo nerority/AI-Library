@@ -6,11 +6,6 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Di
     <img src="(https://github.com/nerority/AI-Portfolio/assets/80237923/c0440ad5-27c9-401e-b9b2-fcec254e87b8)" width="300" height="300">
 </div>
 
-
-
-![Semantic Mapping](https://github.com/nerority/AI-Portfolio/assets/80237923/c0440ad5-27c9-401e-b9b2-fcec254e87b8)
-
-
 # Projects
 
 ## 1. JSON/Natural Language Hybrid Prompting - The Best Prompting Method
