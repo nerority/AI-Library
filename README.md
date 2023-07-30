@@ -2,6 +2,10 @@
 
 Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI modeling to problem-solving algorithms and system design frameworks.
 
+<p align="center">
+  <img width="250" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
+</p>
+
 ## Table of Contents:
 ### Projects
 1. [JSON/Natural Language Hybrid Prompting - The Best Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method)
@@ -15,10 +19,6 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Di
 ### Resources
 - [Guides and Cheat Sheets]
 - [Advanced Prompts]
-
-<p align="center">
-  <img width="400" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
-</p>
 
 ---
 # Projects
