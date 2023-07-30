@@ -50,7 +50,7 @@ The complexity of the prompts can range from Basic to Transcendent-Level, each c
 The use of this advanced prompt approach has been key in eliciting nuanced responses from AI. By structuring the prompts in a more layered manner and adjusting the complexity level as per the requirement, I know how to guide the AI to generate deeply contextual, accurate, and rich responses for quite frankly, anything.
 </details>
 
-[Learn more](https://github.com/nerority/Portfolio/wiki/1.-JSON-Natural-Language-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
+[Learn more about JSON/Natural Language Hybrid Prompts](https://github.com/nerority/Portfolio/wiki/1.-JSON-Natural-Language-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
 
 ---
 ### 2. Hyper-Dimensional Knowledge Integration for Advanced AI Systems
