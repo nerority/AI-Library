@@ -4,7 +4,7 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Di
 
 ## Table of Contents:
 ### Projects
-1. [1. JSON/Natural Language Hybrid Prompting - The Best Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method)
+1. [JSON/Natural Language Hybrid Prompting - The Best Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method)
 2. [Hyper-Dimensional Knowledge Integration for Advanced AI Systems](https://github.com/nerority/AI-Portfolio/blob/main/README.md#2-hyper-dimensional-knowledge-integration-for-advanced-ai-systems)
 3. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms)
 4. [Meta-Logic Capture and Knowledge Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding)
