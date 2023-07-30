@@ -2,7 +2,9 @@
 
 Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI modeling to problem-solving algorithms and system design frameworks.
 
-![Semantic Mapping](https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f)
+<p align="center">
+  <img width="300" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
+</p>
 
 # Projects
 
