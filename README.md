@@ -1,4 +1,4 @@
-# AI Portfolio - Devin Pellegrino
+# AI Portfolio - Devin Pellegrino (In Progress)
 
 Welcome to my AI Portfolio, a comprehensive collection of projects and research endeavors in the field of AI. Dive in to explore my groundbreaking work in semantic knowledge structures, advanced AI assistance, system design methods, self-instruct frameworks, problem-solving algorithms, and more.
 
@@ -21,6 +21,10 @@ I focus on developing sophisticated algorithms capable of addressing complex pro
 
 - **Semantic Learning Algorithms**: A set of algorithms aimed at enhancing the learning capabilities of AI systems. These algorithms leverage the principles of semantic knowledge representation and semantic learning to facilitate efficient and effective knowledge acquisition and utilization in AI systems. Learn more about it [here](insert-link-here).
 
+### Self-Improvement Feedback Loop
+Automating Research and Task Execution with Code Interpretor
+
+### Meta-Logic Capture / Knowledge Encoding
 ---
 
 Stay tuned for more updates on our projects and research. Contributions and discussions are welcome!
