@@ -10,19 +10,20 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Di
 
 ### 1. JSON/Natural Language Hybrid Prompts
 
-Discover the superior way to prompt AI models, refined and perfected through my journey to master prompt engineering. The method has reached new heights with the release of GPT-4 Code Interpreter. This involves using a JSON/Natural Language hybrid format for prompts that enables a more structured and intricate way of communicating with the AI.
+Discover the superior way to prompt AI models, refined and perfected through over a year of iteration and testing. The method has reached new heights with the release of GPT-4 Code Interpreter.
 
 - This unique approach leverages a hybrid format of JSON and Natural Language for prompts, providing a robust and nuanced communication pathway with AI models.
 - This structure does more than just facilitate sophisticated AI assistance across a myriad of tasks—**it opens up an expansive realm of additional functionalities**.
+- A JSON/NL Hybrid prompt act as a conduit, simplifying the complexities of information the AI must process. The result? A tremendous leap in what can be accomplished within a single response.
 
-The JSON/NL Hybrid prompts act as a conduit, simplifying the complexities of information the AI must process. The result? A tremendous leap in what can be accomplished within a single response. As we dive deeper into this vast potential, we've recognized the need to create a framework for "prompt complexity" —a way to capture the depth and intricacies of these advanced prompts.
+As I researched this potential, I recognized the need to create a framework for "prompt complexity" —a way to capture the depth and intricacies of these even more advanced prompts, each with their own unique applications and benefits.
 
 <details>
 <summary>Display Complexity Levels</summary>
 
 #### Hybrid Prompt Complexity Levels
 
-**Please note: These complexity levels pertain to the processing demands placed on the AI by the prompt, rather than the skill to use or create. Anyone can leverage Hybrid prompts of any complexity, I am more converned about if the AI model you are using can handle it.** These are semantic terms, designed to encapsulate the vast range of prompt complexities that can be achieved. Each level has its specific context and utility, offering a nuanced understanding of how to maximize AI's potential in any given scenario.
+**Please note: The complexity levels pertain to the processing demands placed on the AI by the prompt, rather than the skill to use or create. Anyone can leverage Hybrid prompts of any complexity, I am more converned about if the AI model you are using can handle it.** These are semantic terms, designed to encapsulate the vast range of prompt complexities that can be achieved. Each level has its specific context and utility, offering a nuanced understanding of how to maximize AI's potential in any given scenario.
 
 The complexity of the prompts can range from Basic to Transcendent-Level, each corresponding to a progressively sophisticated level of understanding, interaction, and adaptability from the AI. Here are the defined complexity levels:
 
