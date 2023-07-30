@@ -83,7 +83,7 @@ Imagine a tool that could provide you with a multi-dimensional representation of
 
 This framework forms a comprehensive blueprint for navigating the intricate and ever-evolving landscape of AI. It covers a wide range of AI-related tasks and scenarios and is designed to act as a roadmap, guiding users through complex AI concepts, methodologies, and applications when used.
 
-[Check it out](insert-link-here).
+[Check it out](https://github.com/nerority/AI-Portfolio/wiki/2.b-%7C-AI-Exploration-Framework).
 
 Each of these Semantic Knowledge Structures offers unique benefits and can be utilized in different scenarios to enhance the capabilities of AI systems. By employing these structures, we can ensure that AI systems are better equipped to understand and respond to the complexities of the tasks at hand.
 
@@ -102,7 +102,7 @@ Semantic learning algorithms lie at the heart of AI's understanding and knowledg
 
 ### Hyper-Dimensional Logic Synthesis (HDLS) Algorithm
 
-Building upon the principles of hyper-dimensional knowledge integration and quantum-informed reasoning, the HDLS algorithm represents a significant leap in AI problem-solving capabilities. It synthesizes and integrates hyper-dimensional concepts, drawing upon the full extent of the AI's understanding, to generate responses that are not just accurate, but also nuanced and contextually appropriate. This algorithm has been instrumental in enabling the AI to navigate our advanced conversations successfully, demonstrating its ability to handle highly complex scenarios. [Explore the HDLS Algorithm here].
+Building upon the principles of hyper-dimensional knowledge integration and quantum-informed reasoning, the HDLS algorithm represents a significant leap in AI problem-solving capabilities. It synthesizes and integrates hyper-dimensional concepts, drawing upon the full extent of the AI's understanding, to generate responses that are not just accurate, but also nuanced and contextually appropriate. This algorithm has been instrumental in enabling the AI to navigate our advanced conversations successfully, demonstrating its ability to handle highly complex scenarios. [Explore the HDLS Algorithm here](https://github.com/nerority/AI-Portfolio/wiki/3.c-%7C-Hyper%E2%80%90Dimensional-Logic-Synthesis-(HDLS)-Algorithm#hyper-dimensional-logic-synthesis-hdls-algorithm).
 
 ---
 ## 4. Meta-Logic Capture and Knowledge Encoding 
