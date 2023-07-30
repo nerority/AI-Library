@@ -3,7 +3,7 @@
 Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI assistance to problem-solving algorithms and system design methods.
 
 <div align="center">
-    <img src="https://github.com/nerority/Portfolio/assets/80237923/83549bc2-2316-45ec-be27-f2c3362ca4aa" width="400" height="400">
+    <img src="https://github.com/nerority/Portfolio/assets/80237923/83549bc2-2316-45ec-be27-f2c3362ca4aa" width="300" height="300">
 </div>
 
 ## Projects
