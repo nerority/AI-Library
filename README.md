@@ -140,14 +140,14 @@ The diagram above provides a visual representation of how Hyper-Weaving and Dime
 
 Working with AI, you quickly discover that complexity is not just a challenge, it's an opportunity. It's an intricate web that, once navigated, opens up a whole new world of possibilities. My journey in advancing, navigating, and controlling complexity in AI has been marked by two major areas of focus:
 
-**Transcendent Complexity Exploration**:
+### Transcendent Complexity Exploration:
 
 Sounds like a mouthful, right? Let's break it down. This is all about pushing the boundaries of what we think AI can do. 
 - It involves exploring the highest levels of complexity, far beyond what is typically encountered.
 - Think of it as taking a journey into uncharted territory, where each step uncovers new insights and opportunities for AI to learn and grow.
 - More details [here](https://github.com/nerority/Portfolio/wiki/5.-Complexity-Advancement,-Navigation,-and-Control#transcendent-complexity-navigation).
 
-**Hyper-Dimensional Logic Synthesis**:
+### **Hyper-Dimensional Logic Synthesis**:
 
 This is about blending together multiple layers of knowledge, logic, and understanding into a hyper-dimensional model. 
 - Imagine trying to solve a Rubik's Cube that not only has multiple sides but also multiple dimensions. That's what this process is like.
