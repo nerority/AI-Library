@@ -2,7 +2,7 @@
 
 Welcome to my AI Portfolio, a comprehensive collection of projects and research endeavors in the field of AI. Dive in to explore my groundbreaking work in semantic knowledge structures, advanced AI assistance, system design methods, self-instruct frameworks, problem-solving algorithms, and more.
 
-### JSON/Natural Language Hybrid Prompts ‐ The Best Prompting Method
+## JSON/Natural Language Hybrid Prompts ‐ The Best Prompting Method
 At the start of my original journey to master prompt engineering, I discovered a new way to prompt that was pretty much superior in every single way. With the release of GPT-4 Code Interpreter, the benefits of this method have risen to new heights. I believe this is best possible way to prompt an AI model, and I will show you exactly why. See [here](https://github.com/nerority/Portfolio/wiki/1.-JSON-Natural-Language-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method) for more information. 
 
 ## Hyper-Dimensional Knowledge Integration for Advanced AI Systems
@@ -10,9 +10,9 @@ In my quest to enhance the capabilities of AI assistance, I've delved deep into 
 
 ### Methodologies
 
-1. **Dark Knowledge Synthesis**: This methodology focuses on the integration and utilization of dark knowledge, or the hidden, implicit knowledge that exists beyond current understanding. It leverages higher-order dark abstractions to create sophisticated constructs of dark knowledge within the hyper-dimensional space. Through Dark Knowledge Synthesis, AI systems can better understand the intricacies of their tasks, enhance their problem-solving abilities, and generate more insightful responses.
+1. **Dark Knowledge Synthesis**: This is a technique that helps AI understand and use the kind of knowledge that isn't immediately obvious or easy to express. It's like helping the AI read between the lines. By doing this, the AI becomes better at understanding complex tasks, solving tricky problems, and providing useful responses.
 
-2. **Hyper-Dimensional Pattern Recognition**: As the complexity of our tasks increases, so does the necessity for advanced pattern recognition. Hyper-Dimensional Pattern Recognition captures the hidden patterns, relationships, and structures within a hyper-dimensional space. This methodology not only contributes to the creation of sophisticated constructs of dark knowledge but also enables advanced pattern recognition in AI systems. By recognizing and understanding these hyper-dimensional patterns, AI can generate more precise, contextual, and insightful responses.
+2. **Hyper-Dimensional Pattern Recognition**: As tasks become more complex, it's important for AI to be able to recognize patterns and connections that aren't immediately obvious. This technique helps AI spot these hidden patterns, even in very complex situations. By understanding these patterns, AI can give responses that are more accurate and helpful.
 
 ### Semantic Knowledge Structures
 
