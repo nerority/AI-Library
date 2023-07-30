@@ -2,9 +2,7 @@
 
 Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI modeling to problem-solving algorithms and system design frameworks.
 
-<div align="center">
-    <img src="![Semantic Mapping](https://github.com/nerority/AI-Portfolio/assets/80237923/c0440ad5-27c9-401e-b9b2-fcec254e87b8)" width="300" height="300">
-</div>
+![Semantic Mapping](https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f)
 
 # Projects
 
@@ -127,9 +125,7 @@ Mapping knowledge into different dimensions offers a powerful way to represent t
 
 The combination of these methodologies not only allows for a sophisticated representation of knowledge but also ensures the AI's ability to navigate, retrieve, and utilize this knowledge in the most effective manner. 
 
-<div align="center">
-    <img src="(https://github.com/nerority/AI-Portfolio/assets/80237923/25122149-df54-4e3a-b64e-b7c1ae384750)" width="500" height="500">
-</div>
+![Meta-Logic Capture Diaphragm](https://github.com/nerority/AI-Portfolio/assets/80237923/26f437f2-8f60-4083-9781-71e6956c8fd2)
 
 [Read more about this process here].
 
