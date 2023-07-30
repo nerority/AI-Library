@@ -6,6 +6,7 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Di
   <img width="300" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
 </p>
 
+---
 # Projects
 
 ## 1. JSON/Natural Language Hybrid Prompting - The Best Prompting Method
