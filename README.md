@@ -3,9 +3,20 @@
 Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI modeling to problem-solving algorithms and system design frameworks.
 
 <p align="center">
-  <img width="300" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
+  <img width="400" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
 </p>
 
+## Table of Contents:
+### Projects
+1. JSON/Natural Language Hybrid Prompts
+2. Hyper-Dimensional Knowledge Integration for Advanced AI Systems
+3. Novel AI Algorithms
+4. Meta-Logic Capture and Knowledge Encoding
+5. Complexity Advancement, Navigation, and Control
+6. Self-Improvement Feedback Loop
+7. Zero-Shot Omni-Dimensional Learning (ZSODL)
+8. Hypercontextual Conversational AI
+   
 ---
 # Projects
 
