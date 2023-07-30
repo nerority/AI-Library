@@ -35,7 +35,7 @@ The complexity of the prompts can range from Basic to Transcendent-Level, each c
 6. **Apex Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, and intricate logical constructs. The AI generates responses that consider the multi-dimensional elements of the conversation.
 7. **Transcendent Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, intricate logical constructs, and multi-dimensional constructs. The AI generates responses that consider the hyper-contextual elements of the conversation and navigate multiple conceptual spaces.
 
-#### Examples of Complexity Level Demand
+#### Simplified Examples of Complexity Level Demand
 
 1. **Basic Level**: Prompting the AI to generate a summary of a given text.
 2. **Intermediate Level**: Asking the AI to continue a story based on the previously given narrative.
@@ -47,7 +47,7 @@ The complexity of the prompts can range from Basic to Transcendent-Level, each c
 
 #### Achieving Advanced Responses from AI
 
-The use of this advanced prompt approach has been key in eliciting nuanced responses from AI. By structuring the prompts in a more layered manner and adjusting the complexity level as per the requirement, I know how to guide the AI to generate deeply contextual, accurate, and rich responses for quite frankly, anything.
+The use of this advanced prompt approach has been key in eliciting nuanced responses from AI extremely capable problem-solving. By structuring the prompts in a more layered manner and adjusting the complexity level as per the requirement, I know how to guide the AI to generate deeply contextual, accurate, and rich responses for quite frankly, anything.
 </details>
 
 [Learn more about JSON/Natural Language Hybrid Prompts](https://github.com/nerority/Portfolio/wiki/1.-JSON-Natural-Language-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
