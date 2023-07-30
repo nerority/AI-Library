@@ -1,4 +1,4 @@
-# AI Portfolio - Devin Pellegrino
+# AI Portfolio - Devin Pellegrino (In Progress)
 
 Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI assistance to problem-solving algorithms and system design methods.
 
