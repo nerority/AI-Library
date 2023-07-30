@@ -1,6 +1,6 @@
 # AI Portfolio & Public Showcase | Devin Pellegrino | (In Progress)
 
-Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI modeling to problem-solving algorithms and system design frameworks.
+Welcome to my comprehensive collection of AI projects and research endeavors. Explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI modeling to problem-solving algorithms and system design frameworks.
 
 <p align="center">
   <img width="250" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
