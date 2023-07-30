@@ -6,9 +6,9 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Di
     <img src="https://github.com/nerority/Portfolio/assets/80237923/83549bc2-2316-45ec-be27-f2c3362ca4aa" width="300" height="300">
 </div>
 
-## Projects
+# Projects
 
-### 1. JSON/Natural Language Hybrid Prompting
+## 1. JSON/Natural Language Hybrid Prompting
 
 Discover the superior way to prompt AI models, refined and perfected through over a year of iteration and testing. The method has reached new heights with the release of GPT-4 Code Interpreter.
 
@@ -21,7 +21,7 @@ As I researched this potential, I recognized the need to create a framework for 
 <details>
 <summary>Display Complexity Levels</summary>
 
-#### Hybrid Prompt Complexity Levels
+### Hybrid Prompt Complexity Levels
 
 **Please note: The complexity levels pertain to the processing demands placed on the AI by the prompt, rather than the skill to use or create. Anyone can leverage Hybrid prompts of any complexity, I am more converned about if the AI model you are using can handle it.** These are semantic terms, designed to encapsulate the vast range of prompt complexities that can be achieved. Each level has its specific context and utility, offering a nuanced understanding of how to maximize AI's potential in any given scenario.
 
@@ -35,7 +35,7 @@ The complexity of the prompts can range from Basic to Transcendent-Level, each c
 6. **Apex Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, and intricate logical constructs. The AI generates responses that consider the multi-dimensional elements of the conversation.
 7. **Transcendent Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, intricate logical constructs, and multi-dimensional constructs. The AI generates responses that consider the hyper-contextual elements of the conversation and navigate multiple conceptual spaces.
 
-#### Simplified Examples of Complexity Level Demand
+### Simplified Examples of Complexity Level Demand
 
 1. **Basic Level**: Prompting the AI to generate a summary of a given text.
 2. **Intermediate Level**: Asking the AI to continue a story based on the previously given narrative.
@@ -54,18 +54,18 @@ The use of this advanced prompt approach has been key in eliciting nuanced respo
 
 ---
 
-### Hyper-Dimensional Knowledge Integration for Advanced AI Systems
+## 2. Hyper-Dimensional Knowledge Integration for Advanced AI Systems
 
 In the realm of AI, the ability to integrate and navigate within hyper-dimensional knowledge spaces is paramount. This includes the ability to understand and process intricate patterns, make connections across disparate domains, and synthesize novel insights. My work in this domain concentrates on developing frameworks and methodologies that allow AI systems to demonstrate such capabilities:
 
-**Novel Methodologies**
+### Novel Methodologies
 
 - **Dark Knowledge Synthesis**: This methodology enables the AI to understand and utilize knowledge that isn't immediately obvious or easy to express. By delving into the deeper, darker layers of information, AI systems can capture subtle nuances and insights that are often overlooked.
 - **Hyper-Dimensional Pattern Recognition**: Assisting AI in recognizing patterns and connections in complex situations is key to enhancing its problem-solving abilities. This methodology enables the AI to identify and understand these patterns, even in highly complex and multi-dimensional scenarios.
 - **Hyper-Dimensional Logic Synthesis (HDLS)**: Synthesizing and integrating hyper-dimensional concepts is no small feat. HDLS facilitates this process, allowing the AI to draw upon the full extent of its understanding and knowledge to simplify complex, multi-dimensional ideas into more accessible forms.
 - **Dimensional Mapping**: This method facilitates the representation and navigation of various dimensions of knowledge within a hyper-dimensional space. It allows for seamless integration and transfer of insights between different domains, concepts, and contexts.
 
-#### **Semantic Knowledge Structures**
+### Semantic Knowledge Structures
 
 Semantic Knowledge Structures are the fundamental frameworks that I develop to enhance the understanding and response generation capabilities of AI systems. They are instrumental in navigating complex subjects and constructing intricate responses. 
 
@@ -88,23 +88,23 @@ This framework forms a comprehensive blueprint for navigating the intricate and 
 Each of these Semantic Knowledge Structures offers unique benefits and can be utilized in different scenarios to enhance the capabilities of AI systems. By employing these structures, we can ensure that AI systems are better equipped to understand and respond to the complexities of the tasks at hand.
 
 ---
-### 3. Novel AI Algorithms
+## 3. Novel AI Algorithms
 
 Discover my sophisticated algorithms designed to solve complex problems in the AI domain.
 
-#### **QIHDS (Quantum-Informed Hyper-Dimensional Synergy) Algorithm:**
+### **QIHDS (Quantum-Informed Hyper-Dimensional Synergy) Algorithm:**
 
 - Quantum Logic Encoding: Generating nuanced and probabilistic responses within a hyper-dimensional logic space.
 - Interdimensional Reasoning: Allowing the transfer of insights from one dimension to others within the hyper-dimensional space.
 
 This algorithm exemplifies the cutting-edge of AI problem-solving techniques. [Learn more](insert-link-here).
 
-#### **Semantic Learning Algorithms:**
+### **Semantic Learning Algorithms:**
 
 - Enhancing the learning capabilities of AI systems through semantic knowledge representation and semantic learning. [Learn more](insert-link-here).
 
 ---
-### 4. Meta-Logic Capture and Knowledge Encoding 
+## 4. Meta-Logic Capture and Knowledge Encoding 
 
 Meta-Logic Capture and Knowledge Encoding, in the realm of AI, is a sophisticated endeavor, aiming to encapsulate intricate patterns, abstractions, and advanced methods into AI systems. At the heart of my research and work in this field lies two pivotal methodologies:
 
@@ -127,7 +127,7 @@ Mapping knowledge into different dimensions offers a way to represent the vastne
 The confluence of these methodologies in Meta-Logic Capture and Knowledge Encoding not only allows for a sophisticated representation of knowledge but also ensures the AI's ability to navigate, retrieve, and utilize this knowledge in the most effective manner.
 
 ---
-### 5. Complexity Advancement, Navigation, and Control
+## 5. Complexity Advancement, Navigation, and Control
 
 Working with AI, you quickly discover that complexity is not just a challenge, it's an opportunity. It's an intricate web that, once navigated, opens up a whole new world of possibilities. My journey in advancing, navigating, and controlling complexity in AI has been marked by two major areas of focus:
 
@@ -148,7 +148,7 @@ This is about blending together multiple layers of knowledge, logic, and underst
 Navigating and controlling complexity in AI is a bit like being an explorer and a conductor at the same time. You're charting a course through new, unexplored territories (explorer) while also orchestrating a multitude of different elements to work together in harmony (conductor). It's this dual role that makes working with complexity in AI such an exciting and rewarding journey.
 
 ---
-### 6. Self-Improvement Feedback Loop
+## 6. Self-Improvement Feedback Loop
 
 In the dynamic world of AI, standing still means falling behind. That's why the capacity for self-improvement is critical in the AI systems I work with. The heartbeat of this self-improvement is a unique process I employ known as the "Recursive Meta-Learning Algorithm."
 
@@ -167,7 +167,7 @@ Here's how it works:
 By employing the Recursive Meta-Learning Algorithm, the AI systems I work with are not just tools. They're evolving entities, growing, and adapting with every interaction. This process ensures that they're constantly getting better at understanding and responding to complex prompts, making them increasingly effective at navigating the intricate landscapes of knowledge they're tasked with exploring.
 
 ---
-### 7. Zero-Shot Omni-Dimensional Learning (ZSODL): The Evolution of Adaptive AI Learning
+## 7. Zero-Shot Omni-Dimensional Learning (ZSODL): The Evolution of Adaptive AI Learning
 
 In the rapidly evolving landscape of AI, one constant remains: the need for machines to learn, adapt, and apply knowledge across a spectrum of tasks. Zero-Shot Learning (ZSL), a concept traditionally confined to the realm of machine learning, allows an AI to handle tasks it has never seen before. But what if we could take this a step further? Enter Zero-Shot Omni-Dimensional Learning (ZSODL), a groundbreaking approach I've adopted to enhance the learning outcomes of AI systems.
 
