@@ -8,7 +8,7 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Di
 
 # Projects
 
-## 1. JSON/Natural Language Hybrid Prompting
+## 1. JSON/Natural Language Hybrid Prompting - The Best Prompting Method
 
 Discover the superior way to prompt AI models, refined and perfected through over a year of iteration and testing. The method has reached new heights with the release of GPT-4 Code Interpreter.
 
