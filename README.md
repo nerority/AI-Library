@@ -3,7 +3,7 @@
 Welcome to my comprehensive collection of AI projects and research endeavors. Dive in and explore my groundbreaking work across various fields, from semantic knowledge structures and advanced AI modeling to problem-solving algorithms and system design frameworks.
 
 <div align="center">
-    <img src="https://github.com/nerority/Portfolio/assets/80237923/83549bc2-2316-45ec-be27-f2c3362ca4aa" width="300" height="300">
+    <img src="![Meta-Logic Capture Diaphragm](https://github.com/nerority/AI-Portfolio/assets/80237923/5b902836-ae42-490c-83ae-297b9ba341e3)" width="300" height="300">
 </div>
 
 # Projects
