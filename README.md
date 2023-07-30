@@ -5,16 +5,16 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Di
 ## Table of Contents:
 ### Projects
 1. [1. JSON/Natural Language Hybrid Prompting - The Best Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method)
-2. [Hyper-Dimensional Knowledge Integration for Advanced AI Systems](#Hyper-Dimensional-Knowledge-Integration-for-Advanced-AI-Systems)
-3. [Novel AI Algorithms](#Novel-AI-Algorithms)
-4. [Meta-Logic Capture and Knowledge Encoding](#Meta-Logic-Capture-and-Knowledge-Encoding)
-5. [Complexity Advancement, Navigation, and Control](#Complexity-Advancement,-Navigation,-and-Control)
-6. [Self-Improvement Feedback Loop](#Self-Improvement-Feedback-Loop)
-7. [Zero-Shot Omni-Dimensional Learning (ZSODL): The Evolution of Adaptive AI Learning](#Zero-Shot-Omni-Dimensional-Learning-(ZSODL):-The-Evolution-of-Adaptive-AI-Learning)
-8. [Hypercontextual Conversational AI](#Hypercontextual-Conversational-AI)
+2. [Hyper-Dimensional Knowledge Integration for Advanced AI Systems](https://github.com/nerority/AI-Portfolio/blob/main/README.md#2-hyper-dimensional-knowledge-integration-for-advanced-ai-systems)
+3. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms)
+4. [Meta-Logic Capture and Knowledge Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding)
+5. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control)
+6. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop)
+7. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning)
+8. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#8-hypercontextual-conversational-ai)
 ### Resources
-- [Guides and Cheat Sheets](#Guides-and-Cheat-Sheets)
-- [Advanced Prompts](#Advanced-Prompts)
+- [Guides and Cheat Sheets]
+- [Advanced Prompts]
 
 <p align="center">
   <img width="400" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
