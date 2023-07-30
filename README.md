@@ -127,7 +127,9 @@ Mapping knowledge into different dimensions offers a powerful way to represent t
 
 The combination of these methodologies not only allows for a sophisticated representation of knowledge but also ensures the AI's ability to navigate, retrieve, and utilize this knowledge in the most effective manner. 
 
-![Meta-Logic Capture Diaphragm](https://github.com/nerority/AI-Portfolio/assets/80237923/26f437f2-8f60-4083-9781-71e6956c8fd2)
+<p align="center">
+  <img width="300" src="https://github.com/nerority/AI-Portfolio/assets/80237923/26f437f2-8f60-4083-9781-71e6956c8fd2">
+</p>
 
 [Read more about this process here].
 
