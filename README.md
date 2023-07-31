@@ -5,14 +5,14 @@
 
 ## **Hyper-Dimensional Conversational AI Architecture**
 
-Welcome to my public portfolio of AI research and innovation. Explore my work at the frontier of AI advancements including intricate semantic knowledge architectures, advanced AI modeling techniques, complex problem-solving algorithms, and sophisticated system design frameworks. Welcome to the intersection of pioneering research and practical application, where AI meets hyper-dimensional complexity.
+Welcome to my public portfolio of AI research and innovation. Explore my work at the frontier of AI advancements including intricate semantic knowledge architectures, advanced AI modeling techniques, complex problem-solving algorithms, and sophisticated system design frameworks. You are about to step into the intersection of pioneering research and practical application, where AI meets hyper-dimensional complexity.
 
 <p align="center">
   <img width="500" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
 </p>
 
 ## Table of Contents:
-### Projects
+### My Work
 1. [JSON/Natural Language Hybrid Prompting - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method)
 2. [Advanced Conversational Modeling through Implicit Knowledge and Logic](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-dark-knowledge-and-logic-the-unseen-power-of-ai)
 3. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-advanced-ai-methodologies)
