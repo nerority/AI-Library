@@ -88,6 +88,7 @@ The complexity of the prompts can range from Basic to Transcendent-Level, each c
 7. **Transcendent Level**: 
    - Prompt Example: "Explore the nature of consciousness, reality, and existence, considering the current philosophical, scientific, and cultural contexts, historical debates, underlying societal norms, intricate logical constructs, and multi-dimensional constructs."
    - Notable Outcome: The AI embarked on a complex exploration of existential topics, demonstrating its ability to navigate hyper-contextual elements and generate profound insights.
+</details>
 
 [See the full breakdown for JSON/Natural Language Hybrid Prompts](https://github.com/nerority/AI-Portfolio/wiki/1.-JSON-NL-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
 
