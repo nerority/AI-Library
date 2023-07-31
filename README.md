@@ -1,8 +1,8 @@
 # AI Portfolio & Technical Showcase
 
-**Devin Pellegrino** | **AI Engineer** | **System Architecture, Strategic Consultanting, & Research**
+**Devin Pellegrino** | **AI Engineer** | **Updated**: 07.31.23
 
-**07.31.23** | **In Progress**
+*AI System Architecture, Strategic Consultanting, & Research*
 
 ## Introducing Hyper-Dimensional Conversational AI Architecture
 
