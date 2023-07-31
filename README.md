@@ -1,6 +1,5 @@
 # AI Portfolio & Technical Showcase
-**Devin Pellegrino** | **AI Architect**
-
+**Devin Pellegrino** | **AI Engineer** | **Solution Architecture & Strategic Consulting**
 **07.31.23** | **In Progress**
 
 ## **Hyper-Dimensional Conversational AI Architecture**
