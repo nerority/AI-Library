@@ -36,7 +36,7 @@ Discover the best way to prompt transformer-based AI models, refined and perfect
 
 - This distinctive strategy employs a hybrid blend of JSON and Natural Language in crafting prompts, offering a sophisticated and nuanced conduit for communication with AI models.
 - This method does more than just facilitate sophisticated AI assistance across a myriad of tasks — **it unlocks an expansive realm of new advanced functionalities**.
-- JSON/NL Hybrid prompts serve as an effective bridge, distilling the complexities of information the AI needs to process. The outcome? An unprecedented leap in the scope of what can be achieved within a single response.
+- JSON/NL Hybrid prompts serve as an effective bridge, distilling the complexities of information the AI needs to process. The outcome? A tremendous leap in what can be accomplished within a single response.
 
 As I researched this potential, I recognized the need to create a framework for "prompt complexity" - a way to capture the depth and intricacies of these even more advanced prompts, each with their own unique applications and benefits.
 
