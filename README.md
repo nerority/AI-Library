@@ -22,6 +22,7 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Ex
 ### Resources
 - [Guides and Cheat Sheets]
 - [Advanced Prompts]
+- [Refined Meta-Instructions]
 
 ---
 # Projects
