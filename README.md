@@ -1,12 +1,12 @@
 # AI Portfolio & Technical Showcase
 
-**Devin Pellegrino** | **AI Engineer** | **Solution Architecture & Strategic Consulting**
+**Devin Pellegrino** | **AI Engineer** | **System Architecture, Strategic Consultanting, & Research**
 
 **07.31.23** | **In Progress**
 
-## **Hyper-Dimensional Conversational AI Architecture**
+## Introducing Hyper-Dimensional Conversational AI Architecture
 
-Welcome to my public portfolio of AI research and innovation. Explore my work at the frontier of AI advancements including intricate semantic knowledge architectures, advanced AI modeling techniques, complex problem-solving algorithms, and sophisticated system design frameworks. You are about to step into the intersection of pioneering research and practical application, where AI meets hyper-dimensional complexity.
+Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. Here, I present my explorations in the realms of intricate semantic knowledge architectures, sophisticated AI modeling techniques, complex problem-solving algorithms, and advanced system design frameworks. This is the crossroads where AI transcends the bounds of traditional paradigms and delves into hyper-dimensional complexity.
 
 <p align="center">
   <img width="500" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
