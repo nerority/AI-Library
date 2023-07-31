@@ -16,6 +16,7 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Ex
 6. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop)
 7. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning)
 8. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#8-hypercontextual-conversational-ai)
+9. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio/blob/main/README.md#9-my-approach-to-ai-training)
 ### Resources
 - [Guides and Cheat Sheets]
 - [Advanced Prompts]
