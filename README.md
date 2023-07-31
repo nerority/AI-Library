@@ -1,7 +1,9 @@
-# AI Portfolio & Technical Showcase | (In Progress)
-**Devin Pellegrino** | **AI Architect** | **Updated 07.31.23**
+# AI Portfolio & Technical Showcase
+**Devin Pellegrino** | **AI Architect**
 
-**Hyper-Dimensional Conversational AI Architecture**
+**07.31.23** | **In Progress**
+
+## **Hyper-Dimensional Conversational AI Architecture**
 
 Welcome to my public portfolio of AI research and innovation. Explore my work at the frontier of AI advancements including intricate semantic knowledge architectures, advanced AI modeling techniques, complex problem-solving algorithms, and sophisticated system design frameworks. Welcome to the intersection of pioneering research and practical application, where AI meets hyper-dimensional complexity.
 
