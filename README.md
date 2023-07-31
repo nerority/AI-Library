@@ -6,7 +6,7 @@
 Welcome to my public portfolio of AI research and innovation. Explore my work at the frontier of AI advancements including intricate semantic knowledge architectures, advanced AI modeling techniques, complex problem-solving algorithms, and sophisticated system design frameworks. Welcome to the intersection of pioneering research and practical application, where AI meets hyper-dimensional complexity.
 
 <p align="center">
-  <img width="250" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
+  <img width="500" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
 </p>
 
 ## Table of Contents:
