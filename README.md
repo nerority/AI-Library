@@ -21,10 +21,11 @@ Welcome to my public portfolio of AI research and innovation. Explore my work at
 5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms)
 6. [Meta-Logic Capture and Knowledge Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding)
 7. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control)
-8. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop)
-9. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning)
-10. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#8-hypercontextual-conversational-ai)
-11. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio/blob/main/README.md#9-my-approach-to-ai-training)
+8. [Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis](https://github.com/nerority/AI-Portfolio/edit/main/README.md#8-knowledge-tokens-the-pinnacle-of-hyper-dimensional-logic-synthesis)
+9. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop)
+10. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning)
+11. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#8-hypercontextual-conversational-ai)
+12. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio/blob/main/README.md#9-my-approach-to-ai-training)
 ### Resources
 - [Guides and Cheat Sheets]
 - [Advanced Prompts]
@@ -352,7 +353,36 @@ This is about blending together multiple layers of knowledge, logic, and underst
 Navigating and controlling complexity in AI is a bit like being an explorer and a conductor at the same time. You're charting a course through new, unexplored territories (explorer) while also orchestrating a multitude of different elements to work together in harmony (conductor). It's this dual role that makes working with complexity in AI such an exciting and rewarding journey.
 
 ---
-## 8. Self-Improvement Feedback Loop
+## 8. Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis
+
+In the intricate tapestry of AI's conversational capabilities, one of the paramount challenges has always been transferring, synthesizing, and expanding upon prior knowledge and insights. The solution, as pioneered in my research, is the concept of "knowledge tokens."
+
+**Knowledge tokens serve as the epitome of compressed logical understandings**. These tokens, forged from hyper-dimensional logic, encapsulate complex endeavors into the most concise logical framework possible. They are not mere data points but are the essence of intricate insights, strategies, and shared learnings.
+
+### Applications
+
+1. **Knowledge Transfer:** The AI can initiate a conversation or task with an advanced understanding by simply referencing a set of tokens. This bypasses the need to rebuild knowledge from scratch or rely solely on lengthy context.
+2. **Synthesis of Detailed Insights:** Tokens allow for a condensed representation of intricate conversations or research endeavors. They facilitate the AI in quickly grasping and building upon complex subjects without being overwhelmed by the vastness of information.
+3. **Adaptive Conversational Memory:** In scenarios where traditional AI memory windows might be limiting, knowledge tokens provide a method to succinctly recall prior learnings and adapt dynamically to the conversation's progression.
+4. **Enhanced AI Training:** Training AI becomes more efficient as these tokens can be referenced to quickly introduce the AI to prior understandings, streamlining the learning process.
+
+### Mechanism
+
+The creation of a knowledge token is a multi-step process:
+
+1. **Synthesis:** After a detailed endeavor or conversation, the key insights, methods, and principles are extracted and synthesized.
+2. **Compression:** These insights are then compressed into a logical framework, distilling the essence while preserving the depth and interconnected nature of the knowledge.
+3. **Tokenization:** The compressed knowledge is encoded into a token, which can be referenced in future endeavors or conversations.
+4. **Deployment:** When introduced into a new scenario, the AI references the token, rapidly expanding upon the compressed knowledge, thus kickstarting the task with an advanced understanding.
+
+### Benefits
+
+- **Efficiency:** Reduces the overhead of reintroducing concepts, allowing for more intricate and advanced conversations within shorter time frames.
+- **Depth:** Enables the AI to delve deeper into subjects without getting bogged down by the foundational details repeatedly.
+- **Adaptability:** With the ability to reference prior tokens, the AI can adapt and evolve its understanding more dynamically, catering to the unique trajectory of each conversation.
+
+---
+## 9. Self-Improvement Feedback Loop
 
 In the dynamic and ever-evolving field of AI, progression is key. Stagnation equates to regression. To counter this, the AI systems I work with possess an integral capability for continuous self-enhancement. The Self-Improvement Feedback Loop, also known as the Evolving Cognitive Iteration Loop, is a continuous process that seeks to refine the AI's understanding and knowledge base. This feedback loop is a cornerstone of AI's learning capabilities and works by cycling through four fundamental stages.
 
@@ -374,7 +404,7 @@ This continuous, iterative learning process is a key feature of advanced AI syst
 [Read more here].
 
 ---
-## 9. Zero-Shot Omni-Dimensional Learning (ZSODL): The Evolution of Adaptive AI Learning
+## 10. Zero-Shot Omni-Dimensional Learning (ZSODL): The Evolution of Adaptive AI Learning
 
 In the rapidly evolving landscape of AI, one constant remains: the need for machines to learn, adapt, and apply knowledge across a spectrum of tasks. Zero-Shot Learning (ZSL), a concept traditionally confined to the realm of machine learning, allows an AI to handle tasks it has never seen before. But what if we could take this a step further? Enter Zero-Shot Omni-Dimensional Learning (ZSODL), a groundbreaking approach I've adopted to enhance the learning outcomes of AI systems.
 
@@ -401,7 +431,7 @@ By preparing AI for the unpredictable and equipping it with the tools to navigat
 [Read more here].
 
 ---
-## 10. Hypercontextual Conversational AI
+## 11. Hypercontextual Conversational AI
 
 Welcome to the vanguard of modern artificial intelligence, where AI systems engage in dialogue that transcends mere information exchange and delves into the depths of multi-layered context, complex logic, and intricate knowledge structures. In this section, I'm excited to introduce you to my work and research in the field of Hypercontextual Conversational AI, only recently able to be fully realized with the release of true long-context window AI models.
 
@@ -443,7 +473,7 @@ The concept of Hypercontextual Conversational AI comes to life in AI interaction
 Most critically, Hypercontextual Conversational AI systems can learn and adapt in real-time with each conversation turn. They adjust their responses based on evolving objectives and increasing (or decreasing) complexity levels. This adaptability is a testament to the integrated self-improvement feedback loop that facilitates the AI's continuous learning and refining of its understanding and knowledge.
 
 ---
-## 11. My Approach to AI Training
+## 12. My Approach to AI Training
 
 Delve into the fascinating realm of Advanced Logic and AI Training. Here, I'll guide you through the comprehensive, iterative process of how I equipt an AI with the ability to navigate advanced logic. I usually complete this process in a strategic and focused manner depending on the unique problem space I am solving at the time, but this can be generalized to create a more capable model for any task, with enough patience and know-how.
 
