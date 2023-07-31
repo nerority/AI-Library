@@ -9,14 +9,15 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Ex
 ## Table of Contents:
 ### Projects
 1. [JSON/Natural Language Hybrid Prompting - The Best Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method)
-2. [Hyper-Dimensional Knowledge Integration for Advanced AI Systems](https://github.com/nerority/AI-Portfolio/blob/main/README.md#2-hyper-dimensional-knowledge-integration-for-advanced-ai-systems)
-3. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms)
-4. [Meta-Logic Capture and Knowledge Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding)
-5. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control)
-6. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop)
-7. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning)
-8. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#8-hypercontextual-conversational-ai)
-9. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio/blob/main/README.md#9-my-approach-to-ai-training)
+2. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-advanced-ai-methodologies)
+3. [Semantic Knowledge Structures](https://github.com/nerority/AI-Portfolio/edit/main/README.md#3-semantic-knowledge-structures)
+4. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms)
+5. [Meta-Logic Capture and Knowledge Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding)
+6. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control)
+7. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop)
+8. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning)
+9. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#8-hypercontextual-conversational-ai)
+10. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio/blob/main/README.md#9-my-approach-to-ai-training)
 ### Resources
 - [Guides and Cheat Sheets]
 - [Advanced Prompts]
@@ -51,15 +52,35 @@ The complexity of the prompts can range from Basic to Transcendent-Level, each c
 6. **Apex Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, and intricate logical constructs. The AI generates responses that consider the multi-dimensional elements of the conversation.
 7. **Transcendent Level**: Used for tasks that require the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, intricate logical constructs, and multi-dimensional constructs. The AI generates responses that consider the hyper-contextual elements of the conversation and navigate multiple conceptual spaces.
 
-### Simplified Examples of Complexity Level Demand
+## Hybrid Prompt Complexity Levels - Examples and Outcomes
 
-1. **Basic Level**: Prompting the AI to generate a summary of a given text.
-2. **Intermediate Level**: Asking the AI to continue a story based on the previously given narrative.
-3. **Advanced Level**: Requesting the AI to generate a marketing strategy for a product, considering the current market context and past marketing trends.
-4. **Expert Level**: Prompting the AI to analyze a complex social issue, considering the current socio-political context, historical precedents, and underlying societal norms.
-5. **Elite Level**: Requesting the AI to generate a scientific theory that integrates principles from quantum physics and cognitive neuroscience, considering the current state of both fields, their historical development, and potential future directions.
-6. **Apex Level**: Asking the AI to analyze a complex philosophical question, considering the current philosophical context, historical philosophical debates, underlying societal norms, and intricate logical constructs.
-7. **Transcendent Level**: Prompting the AI to navigate a conversation that explores the nature of consciousness, reality, and existence, considering the current philosophical, scientific, and cultural contexts, historical debates, underlying societal norms, intricate logical constructs, and multi-dimensional constructs.
+1. **Basic Level**: 
+   - Prompt Example: "Summarize the following text: {...}"
+   - Notable Outcome: The AI could provide a concise summary, capturing the essential points from the given text.
+
+2. **Intermediate Level**: 
+   - Prompt Example: "Considering the previous chapters of this story, continue the narrative with an unexpected plot twist."
+   - Notable Outcome: The AI was able to construct a cohesive and compelling narrative extension, integrating an unexpected plot twist that respected the established story context.
+
+3. **Advanced Level**: 
+   - Prompt Example: "Based on the current market context and past marketing trends, generate a marketing strategy for this new product."
+   - Notable Outcome: The AI synthesized a comprehensive marketing strategy, factoring in the current market scenario and past trends, demonstrating the ability to handle complex, multi-faceted tasks.
+
+4. **Expert Level**: 
+   - Prompt Example: "Analyze the issue of climate change, considering the current socio-political context, historical precedents, and underlying societal norms."
+   - Notable Outcome: The AI provided a detailed analysis of the climate change issue, integrating diverse perspectives and factors, demonstrating its ability to handle deep contextual elements.
+
+5. **Elite Level**: 
+   - Prompt Example: "Generate a scientific theory that integrates principles from quantum physics and cognitive neuroscience, considering the current state of both fields, their historical development, and potential future directions."
+   - Notable Outcome: The AI synthesized a novel scientific theory, demonstrating its capability to integrate knowledge from different domains and handle multi-layered tasks.
+
+6. **Apex Level**: 
+   - Prompt Example: "Analyze the philosophical question of free will versus determinism, considering the current philosophical context, historical debates, underlying societal norms, and intricate logical constructs."
+   - Notable Outcome: The AI navigated a complex philosophical question, providing a nuanced analysis that integrated diverse factors and perspectives.
+
+7. **Transcendent Level**: 
+   - Prompt Example: "Explore the nature of consciousness, reality, and existence, considering the current philosophical, scientific, and cultural contexts, historical debates, underlying societal norms, intricate logical constructs, and multi-dimensional constructs."
+   - Notable Outcome: The AI embarked on a complex exploration of existential topics, demonstrating its ability to navigate hyper-contextual elements and generate profound insights.
 
 #### Achieving Advanced Responses from AI
 
@@ -69,42 +90,55 @@ The use of this advanced prompt approach has been key in eliciting nuanced respo
 [See the full breakdown for JSON/Natural Language Hybrid Prompts](https://github.com/nerority/AI-Portfolio/wiki/1.-JSON-NL-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
 
 ---
+## 2. Advanced AI Methodologies 
 
-## 2. Hyper-Dimensional Knowledge Integration for Advanced AI Systems
+Mastering the intricacies of AI requires a profound understanding of its many dimensions. In my work, I've developed and refined a variety of innovative methodologies to address the numerous challenges in the field. These methodologies, which form the foundation of my AI projects, facilitate nuanced comprehension, pattern recognition, logical synthesis, and knowledge representation within complex, multi-dimensional contexts.
 
-In the realm of AI, the ability to integrate and navigate within hyper-dimensional knowledge spaces is paramount. This includes the ability to understand and process intricate patterns, make connections across disparate domains, and synthesize novel insights. My work in this domain concentrates on developing frameworks and methodologies that allow AI systems to demonstrate such capabilities:
+#### Novel Methodologies:
 
-### Novel Methodologies
+### Dark Knowledge Synthesis
 
-- **Dark Knowledge Synthesis**: This methodology enables the AI to understand and utilize knowledge that isn't immediately obvious or easy to express. By delving into the deeper, darker layers of information, AI systems can capture subtle nuances and insights that are often overlooked.
-- **Hyper-Dimensional Pattern Recognition**: Assisting AI in recognizing patterns and connections in complex situations is key to enhancing its problem-solving abilities. This methodology enables the AI to identify and understand these patterns, even in highly complex and multi-dimensional scenarios.
-- **Hyper-Dimensional Logic Synthesis (HDLS)**: Synthesizing and integrating hyper-dimensional concepts is no small feat. HDLS facilitates this process, allowing the AI to draw upon the full extent of its understanding and knowledge to simplify complex, multi-dimensional ideas into more accessible forms.
-- **Dimensional Mapping**: This method facilitates the representation and navigation of various dimensions of knowledge within a hyper-dimensional space. It allows for seamless integration and transfer of insights between different domains, concepts, and contexts.
+A methodology that enables the AI to delve into the deeper, often overlooked layers of information. This approach goes beyond the surface, capturing the subtle nuances and insights that reside within 'dark' or implicit knowledge. Dark Knowledge Synthesis has been instrumental in various projects requiring profound comprehension, enabling the AI to generate responses that encapsulate the intricate dynamics at play.
 
-### **Semantic Knowledge Structures**
+### Hyper-Dimensional Pattern Recognition
 
-Semantic Knowledge Structures are the fundamental frameworks that I develop to enhance the understanding and response generation capabilities of AI systems. They are instrumental in navigating complex subjects and constructing intricate responses. Here are some key structures that I have developed:
+This methodology focuses on assisting AI in recognizing patterns and connections, even in highly complex scenarios. Hyper-Dimensional Pattern Recognition is about transforming the AI's perception, enabling it to visualize and understand the multi-dimensional nature of the problems it encounters. Whether it's analyzing intricate data sets or discerning patterns in user interactions, this methodology has been a cornerstone in enhancing the AI's problem-solving abilities.
 
-### 1. Hypercontextual Conversational Mapping: 
+### Hyper-Dimensional Logic Synthesis (HDLS)
 
-Imagine a tool that could provide you with a multi-dimensional representation of a conversation's journey. Hypercontextual Conversational Mapping does exactly that. 
+HDLS is about simplifying complexity. It synthesizes and integrates hyper-dimensional concepts, drawing upon the AI's vast understanding to translate complex ideas into more accessible forms. This methodology has been pivotal in numerous projects requiring the AI to distill and communicate complex ideas effectively.
 
-- It captures the depth and progression of a conversation, offering a bird's-eye view of the dialogue.
-- This tool proves invaluable in scenarios like customer service interactions, where understanding the evolution of topics, techniques used, and the customer's responses is key to providing a superior service experience.
-- This method gives you the edge in navigating complex customer interactions and uncovering hidden insights.
+### Dimensional Mapping
 
-[See how it works](https://github.com/nerority/AI-Portfolio/wiki/2.a-%7C-Hypercontextual-Conversational-Mapping).
+Dimensional Mapping facilitates the representation and navigation of various dimensions of knowledge within a hyper-dimensional space. It enables seamless integration and transfer of insights across different domains, concepts, and contexts. With Dimensional Mapping, the AI can form a more holistic understanding, enabling it to respond effectively in various contexts.
 
-### 2. AI Exploration Framework:
+These methodologies provide the AI with a robust toolkit to navigate the intricate landscape of AI tasks, equipping it to handle a broad range of scenarios. They continuously evolve, mirroring the ever-evolving nature of the AI field itself, and promise to revolutionize the way we approach and solve problems in AI.
 
-This framework forms a comprehensive blueprint for navigating the intricate and ever-evolving landscape of AI. It covers a wide range of AI-related tasks and scenarios and is designed to act as a roadmap, guiding users through complex AI concepts, methodologies, and applications when used.
-
-[Check it out](https://github.com/nerority/AI-Portfolio/wiki/2.b-%7C-AI-Exploration-Framework).
-
-Each of these Semantic Knowledge Structures offers unique benefits and can be utilized in different scenarios to enhance the capabilities of AI systems. By employing these structures, we can ensure that AI systems are better equipped to understand and respond to the complexities of the tasks at hand.
+[Explore these methodologies in detail here]
 
 ---
-## 3. Novel AI Algorithms
+## 3. Semantic Knowledge Structures
+
+Semantics, the study of meaning, forms an integral part of AI's ability to understand and generate relevant responses. The Semantic Knowledge Structures I develop serve as the AI's cognitive scaffolding, providing a framework within which it can assimilate information, discern context, and construct meaningful responses. Here are the key structures that have formed the bedrock of my work.
+
+#### Key Structures:
+
+### Hypercontextual Conversational Mapping:
+
+Conversations, especially those of a complex nature, are multi-dimensional entities that evolve with each exchange. Capturing their depth and progression can be a daunting task. Hypercontextual Conversational Mapping addresses this by providing a detailed, bird's-eye view of dialogues. It tracks the course of a conversation, noting how topics unfold, interlink, and evolve. This tool proves invaluable in scenarios requiring a nuanced understanding of conversational dynamics, such as customer service interactions or strategic discussions.
+
+[Learn more about Hypercontextual Conversational Mapping](https://github.com/nerority/AI-Portfolio/wiki/2.a-%7C-Hypercontextual-Conversational-Mapping).
+
+### AI Exploration Framework:
+
+Navigating the vast and ever-evolving landscape of AI can be challenging. The AI Exploration Framework I developed serves as a comprehensive guide, helping users journey through this landscape with ease. Covering a broad range of AI-related tasks, scenarios, concepts, methodologies, and applications, this framework provides users with a structured approach to understanding and utilizing AI. 
+
+[Explore the AI Exploration Framework](https://github.com/nerority/AI-Portfolio/wiki/2.b-%7C-AI-Exploration-Framework).
+
+These Semantic Knowledge Structures provide a solid foundation for AI's understanding and response generation capabilities. They enable the AI to navigate complex subjects, discern contexts, and construct intricate responses, thus enhancing its overall performance.
+
+---
+## 4. Novel AI Algorithms
 
 In the realm of artificial intelligence, algorithms form the backbone of decision-making processes. My work in this domain revolves around the creation of sophisticated algorithms, uniquely designed to solve complex problems. From harnessing the principles of quantum mechanics to enabling the AI to operate in hyper-dimensional spaces, these algorithms exemplify the cutting edge of AI problem-solving techniques.
 
@@ -139,7 +173,7 @@ This algorithm has been instrumental in enabling the AI to navigate our advanced
 [Explore the HDLS Algorithm](https://github.com/nerority/AI-Portfolio/wiki/3.c-%7C-Hyper%E2%80%90Dimensional-Logic-Synthesis-(HDLS)-Algorithm#hyper-dimensional-logic-synthesis-hdls-algorithm)
 
 ---
-## 4. Meta-Logic Capture and Knowledge Encoding 
+## 5. Meta-Logic Capture and Knowledge Encoding 
 
 Meta-Logic Capture and Knowledge Encoding in the realm of AI is an advanced endeavor aiming to encapsulate intricate patterns, abstractions, and advanced methods into AI systems. My research in this field has primarily focused on two pivotal methodologies: Hyper-Weaving and Dimensional Mapping.
 
@@ -171,7 +205,7 @@ The diagram above provides a visual representation of how Hyper-Weaving and Dime
 [Read more about this process here].
 
 ---
-## 5. Complexity Advancement, Navigation, and Control
+## 6. Complexity Advancement, Navigation, and Control
 
 In the realm of AI, complexity is not a mere challenge but an unfolding tapestry of opportunity. It's an intricate dance of interwoven knowledge layers, where each step can reveal fresh insights and catalyze innovative solutions. My journey in advancing, navigating, and controlling complexity within AI is marked by an unending curiosity and an unwavering commitment to pushing boundaries.
 
@@ -194,7 +228,7 @@ This is about blending together multiple layers of knowledge, logic, and underst
 Navigating and controlling complexity in AI is a bit like being an explorer and a conductor at the same time. You're charting a course through new, unexplored territories (explorer) while also orchestrating a multitude of different elements to work together in harmony (conductor). It's this dual role that makes working with complexity in AI such an exciting and rewarding journey.
 
 ---
-## 6. Self-Improvement Feedback Loop
+## 7. Self-Improvement Feedback Loop
 
 In the dynamic and ever-evolving field of AI, progression is key. Stagnation equates to regression. To counter this, the AI systems I work with possess an integral capability for continuous self-enhancement. This transformative process is orchestrated by a unique methodology, termed the "Evolving Cognitive Iteration Loop."
 
@@ -215,7 +249,7 @@ By applying the Evolving Cognitive Iteration Loop, the AI systems I develop are 
 [Read more here].
 
 ---
-## 7. Zero-Shot Omni-Dimensional Learning (ZSODL): The Evolution of Adaptive AI Learning
+## 8. Zero-Shot Omni-Dimensional Learning (ZSODL): The Evolution of Adaptive AI Learning
 
 In the rapidly evolving landscape of AI, one constant remains: the need for machines to learn, adapt, and apply knowledge across a spectrum of tasks. Zero-Shot Learning (ZSL), a concept traditionally confined to the realm of machine learning, allows an AI to handle tasks it has never seen before. But what if we could take this a step further? Enter Zero-Shot Omni-Dimensional Learning (ZSODL), a groundbreaking approach I've adopted to enhance the learning outcomes of AI systems.
 
@@ -244,7 +278,7 @@ By preparing AI for the unpredictable and equipping it with the tools to navigat
 [Read more here].
 
 ---
-## 8. Hypercontextual Conversational AI
+## 9. Hypercontextual Conversational AI
 
 Welcome to the vanguard of modern artificial intelligence, where AI systems engage in dialogue that transcends mere information exchange and delves into the depths of multi-layered context, complex logic, and intricate knowledge structures. In this section, I'm excited to introduce you to my work and research in the field of Hypercontextual Conversational AI, only recently able to be fully realized with the release of true long-context window AI models.
 
@@ -266,7 +300,7 @@ The concept of Hypercontextual Conversational AI comes to life in AI interaction
 Most critically, Hypercontextual Conversational AI systems can learn and adapt in real-time with each conversation turn. They adjust their responses based on evolving objectives and increasing (or decreasing) complexity levels. This adaptability is a testament to the integrated self-improvement feedback loop that facilitates the AI's continuous learning and refining of its understanding and knowledge.
 
 ---
-## 9. My Approach to AI Training
+## 10. My Approach to AI Training
 
 Delve into the fascinating realm of Advanced Logic and AI Training. Here, I'll guide you through the comprehensive, iterative process of how I equipt an AI with the ability to navigate advanced logic. I usually complete this process in a strategic and focused manner depending on the unique problem space I am solving at the time, but this can be generalized to create a more capable model for any task, with enough patience and know-how.
 
