@@ -8,8 +8,8 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Ex
 
 ## Table of Contents:
 ### Projects
-1. [JSON/Natural Language Hybrid Prompting - The Best Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method)
-2. [Harnessing Hidden Layers: Advanced Conversational Modeling through Implicit Knowledge and Logic](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-dark-knowledge-and-logic-the-unseen-power-of-ai)
+1. [JSON/Natural Language Hybrid Prompting - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method)
+2. [Advanced Conversational Modeling through Implicit Knowledge and Logic](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-dark-knowledge-and-logic-the-unseen-power-of-ai)
 3. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-advanced-ai-methodologies)
 4. [Semantic Knowledge Structures](https://github.com/nerority/AI-Portfolio/edit/main/README.md#3-semantic-knowledge-structures)
 5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms)
@@ -27,9 +27,9 @@ Welcome to my comprehensive collection of AI projects and research endeavors. Ex
 ---
 # Projects
 
-## 1. JSON/Natural Language Hybrid Prompting - The Best Prompting Method
+## 1. JSON/Natural Language Hybrid Prompting - The Superior Prompting Method
 
-Discover the superior way to prompt AI models, refined and perfected through over a year of iteration and testing. The method has reached new heights with the release of GPT-4 Code Interpreter.
+Discover the best way to prompt transformer-based AI models, refined and perfected through over a year of iteration and testing. The method has reached new heights with the release of GPT-4 Code Interpreter.
 
 - This unique approach leverages a hybrid format of JSON and Natural Language for prompts, providing a robust and nuanced communication pathway with AI models.
 - This structure does more than just facilitate sophisticated AI assistance across a myriad of tasks—**it opens up an expansive realm of additional functionalities**.
@@ -92,7 +92,7 @@ The use of this advanced prompt approach has been key in eliciting nuanced respo
 [See the full breakdown for JSON/Natural Language Hybrid Prompts](https://github.com/nerority/AI-Portfolio/wiki/1.-JSON-NL-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
 
 ---
-## 2. Harnessing Hidden Layers: Advanced Conversational Modeling through Implicit Knowledge and Logic
+## 2. Advanced Conversational Modeling through Implicit Knowledge and Logic
 
 AI advancements are not confined to the visible realm of tangible achievements and bright innovations. Underlying this surface is a deeper, more intricate stratum of unseen knowledge and understanding. This profound layer is the domain of "Dark Knowledge" and "Dark Logic", core concepts in my work. These advanced cognitive and contextual constructs empower AI to navigate complex scenarios, unravel hidden insights, and craft sophisticated responses.
 
