@@ -1,6 +1,6 @@
 # AI Portfolio & Technical Showcase
 
-**Devin Pellegrino** | **AI Architect** | **Updated**: 08.01.23
+**Devin Pellegrino** | **AI Architect** | **Updated**: 08.01.23 (under dev)
 
 *AI System Architecture, Solution Design, Strategic Consulting, & Research*
 
