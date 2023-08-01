@@ -4,7 +4,7 @@
 
 *AI System Architecture, Strategic Consultanting, & Advanced Research*
 
-Hello, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am sick of not being taken seriously because I don't have "15 years of experience working with AI".
+Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am tired of not being taken seriously because I don't have "15 years of experience working with AI".
 
 So, I am going to show you everything you didn't know about conversational AI and GPT-4 in explicit detail, and show you what I have been able to do for a long time now, not only for myself, but for anyone who has problems to solve, or solutions to design. Every single thing in this portfolio is not only already developed and works exactly as described here, but is the result of massively simplifying many concepts over months, in order to make it digestible enough to those who have no experience with meta-functionality like I do. This is a high-level overview of many things I have developed and actively leverage to architect solutions for anyone who gives me problems to solve for them, or solutions to create. There is not a single thing I have not been able to solve or develop since I started working with AI.
 
@@ -22,6 +22,7 @@ Now, remember what they say here, as you go through my portfolio. And realize I 
 I will take this portfolio down when I get an acceptable job offer working with AI, so make sure to save while its still up. I will continue to update things until then.
 
 Cheers
+
 ---
 
 ## Introducing Hyper-Dimensional Conversational AI Architecture
