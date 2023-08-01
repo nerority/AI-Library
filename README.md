@@ -38,17 +38,17 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 
 ## Table of Contents:
 ### Completed Projects & Research
-1. [JSON/Natural Language Hybrid Prompting - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method). This technique leverages the structured format of JSON along with the flexibility of natural language to give detailed instructions to the AI. The blend of structure and flexibility allows for more control over AI's responses while preserving the conversational flow.
-2. [Advanced Conversational Modeling through Implicit Knowledge and Logic](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-dark-knowledge-and-logic-the-unseen-power-of-ai). The AI is equipped to understand and utilize implicit knowledge present in the conversation. This not only includes the data not explicitly mentioned but also the underlying logical structures and inferences that can be drawn from the context.
+1. [Hybrid Instruction Processing - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method). This technique leverages the structured format of JSON along with the flexibility of natural language to give detailed instructions to the AI. The blend of structure and flexibility allows for more control over AI's responses while preserving the conversational flow.
+2. [Advanced Conversational Modeling through Implicit Information Integration](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-dark-knowledge-and-logic-the-unseen-power-of-ai). The AI is equipped to understand and utilize implicit knowledge present in the conversation. This not only includes the data not explicitly mentioned but also the underlying logical structures and inferences that can be drawn from the context.
 3. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-advanced-ai-methodologies). My approach involves integrating principles from diverse fields such as quantum physics and multi-dimensional mathematics to advance AI's capabilities. For instance, Hyper-Dimensional Logic Synthesis brings together multiple knowledge layers and logic types into a hyper-dimensional model. Similarly, the use of Meta-Rules optimizes the navigation of AI's response generation, and Zero-Shot Omni-Dimensional Learning (ZSODL) integrates the principles of Zero-Shot Learning with a multi-dimensional representation of knowledge
 4. [Semantic Knowledge Structures](https://github.com/nerority/AI-Portfolio/edit/main/README.md#3-semantic-knowledge-structures). These structures encapsulate the meaning and interrelations of concepts, allowing the AI to develop a deeper understanding of various domains. Semantic knowledge structures help the AI navigate complex discussions and generate more insightful responses.
 5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms). New AI algorithms that push the boundaries of what's currently possible in AI research. These algorithms often involve the application of principles from diverse fields such as quantum physics and multi-dimensional mathematics.
-6. [Meta-Logic Capture and Knowledge Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding). This method allows the AI to understand and process complex logic structures within a conversation. The AI can make sense of the underlying meta-logic, which is the logic about logic, and use it to generate more nuanced and sophisticated responses.
+6. [Higher-Order Logic Processing & Information Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding). This method allows the AI to understand and process complex logic structures within a conversation. The AI can make sense of the underlying meta-logic, which is the logic about logic, and use it to generate more nuanced and sophisticated responses.
 7. [Meta-Rules: The Solution to Efficient Navigation with Advanced AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-meta-rules-a-new-horizon-in-ai-conversational-design). Meta-rules serve as higher-level instructions that guide the AI's decision-making process. They can be seen as a form of meta-heuristics, providing a set of strategies or general patterns of approach to problem-solving. Meta-rules can help the AI to navigate the vast space of possible responses, enabling it to generate more contextually appropriate and insightful responses. They play an instrumental role in managing the complexity of AI responses, ensuring they align with the user's goals and expectations.
-8. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control). In my approach, the AI does not shy away from complexity but rather embraces it as an opportunity for growth and advancement. The AI is designed to manage, navigate, and control complexity rather than being daunted by it. Techniques like Meta-Sequence Optimization and Transcendent Complexity Exploration are employed to optimize conversational sequences and explore new territories of complexity. Hyper-Dimensional Logic Synthesis further enhances the AI's ability to handle complex scenarios.
-9. [Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis](https://github.com/nerority/AI-Portfolio/edit/main/README.md#8-knowledge-tokens-the-pinnacle-of-hyper-dimensional-logic-synthesis). Techniques like Knowledge Tokens allow for the encoding of detailed insights, strategies, and principles in a compact form. These tokens serve as transferable units of knowledge, which can be easily utilized by the AI in various contexts.
-10. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop). The AI uses feedback from each interaction to improve its understanding and responses. This iterative process, reminiscent of reinforcement learning, ensures that the AI continues to evolve and refine its capabilities over time.
-11. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning). ZSODL combines the principles of Zero-Shot Learning (ZSL) with a multi-dimensional representation of knowledge. This approach allows the AI to draw connections across various domains, concepts, and contexts, thereby enhancing its comprehension and problem-solving capabilities.
+8. [Complexity Management](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control). In my approach, the AI does not shy away from complexity but rather embraces it as an opportunity for growth and advancement. The AI is designed to manage, navigate, and control complexity rather than being daunted by it. Techniques like Meta-Sequence Optimization and Transcendent Complexity Exploration are employed to optimize conversational sequences and explore new territories of complexity. Hyper-Dimensional Logic Synthesis further enhances the AI's ability to handle complex scenarios.
+9. [Information Modules: Discrete Tokens of Knowledge](https://github.com/nerority/AI-Portfolio/edit/main/README.md#8-knowledge-tokens-the-pinnacle-of-hyper-dimensional-logic-synthesis). Techniques like Knowledge Tokens allow for the encoding of detailed insights, strategies, and principles in a compact form. These tokens serve as transferable units of knowledge, which can be easily utilized by the AI in various contexts.
+10. [Continuous Learning Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop). The AI uses feedback from each interaction to improve its understanding and responses. This iterative process, reminiscent of reinforcement learning, ensures that the AI continues to evolve and refine its capabilities over time.
+11. [Unsupervised Multi-Dimensional Learning](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning). ZSODL combines the principles of Zero-Shot Learning (ZSL) with a multi-dimensional representation of knowledge. This approach allows the AI to draw connections across various domains, concepts, and contexts, thereby enhancing its comprehension and problem-solving capabilities.
 12. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#8-hypercontextual-conversational-ai). This approach enables AI systems to engage in intricate conversations that are rich in context, complexity, and depth. Hypercontextual Conversational AI integrates principles from Contextual Understanding, Complex Logic Processing, and Knowledge Representation, creating a multi-layered and dynamic conversational framework.
 13. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio/blob/main/README.md#9-my-approach-to-ai-training). My approach to AI training combines traditional methodologies with advanced principles. This includes techniques like Hypercontextual Data Collection, Hybrid Prompt Synergy, Hyper-Dimensional Logic Synthesis, and Evolving Cognitive Iteration Loop.
 
@@ -61,7 +61,7 @@ Taken together, these methodologies and techniques represent a comprehensive app
 ---
 # Projects
 
-## 1. JSON/Natural Language Hybrid Prompting - The Superior Prompting Method
+## 1. Hybrid Instruction Processing - The Superior Prompting Method
 
 Allow me to introduce you to the best way to prompt a transformer-based AI model. The JSON/Natural Language Hybrid Prompting method, discovered over 6 months ago and pushed to new limits with the introduction of GPT-4 Code Interpreter, combines the structure and precision of JSON with the expressiveness of natural language.
 
@@ -93,7 +93,7 @@ Prompt complexity can range from Basic to Transcendent-Level, each corresponding
 [See the full breakdown for JSON/Natural Language Hybrid Prompts](https://github.com/nerority/AI-Portfolio/wiki/1.-JSON-NL-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
 
 ---
-## 2. Advanced Conversational Modeling through Implicit Knowledge and Logic
+## 2. Advanced Conversational Modeling through Implicit Information Integration
 
 The advancements in AI are not only marked by the tangible achievements and notable innovations that we observe but also by the intricate layers of unobserved knowledge and understanding that underpin these developments. This intricate stratum, often less noticed, is known as "Dark Knowledge" and "Dark Logic", which are the core concepts propelling the progress of AI in my work. 
 
@@ -235,7 +235,7 @@ The Advanced Semantic Learning Algorithms I have developed bring semantics to th
 [Explore more]
 
 ---
-## 6. Meta-Logic Capture and Knowledge Encoding 
+## 6. Higher-Order Logic Processing & Information Encoding 
 
 Meta-Logic Capture and Knowledge Encoding represent advanced endeavors within AI research, aiming to encapsulate intricate patterns, abstractions, and advanced methods into AI systems. Two pivotal methodologies: Hyper-Weaving and Dimensional Mapping, serve as the cornerstone of my pursuit.
 
@@ -285,7 +285,7 @@ These methodologies, while unique, can be understood and appreciated within the 
 For a more detailed understanding of how these methodologies are applied in practice, you can read more [here].
 
 ---
-## 7. Meta-Rules: A New Horizon in AI Conversational Design
+## 7. Meta-Rules: The Solution to Efficient Navigation with Advanced AI
 
 Artificial Intelligence has witnessed tremendous growth over the past few years, with a significant focus on improving conversational AI's capabilities. Among the various approaches and methodologies developed in the field, one concept stands out for its transformative potential - Meta-Rules. These advanced constructs operate at a higher level of abstraction, serving as a beacon to guide AI systems, ensuring nuanced, accurate, and contextually appropriate responses. By incorporating Meta-Rules into an AI system, we can achieve a new level of adaptability and responsiveness in AI conversations that aligns with the latest research and best practices in the field.
 
@@ -403,7 +403,7 @@ To appreciate the depth of this approach, consider the advancements in AI resear
 The journey to navigate and control complexity in AI is akin to the dual role of an explorer and a conductor. As an explorer, we venture into uncharted territories, uncovering new insights and opportunities. Simultaneously, as a conductor, we orchestrate a multitude of elements, ensuring they harmonize to create a sophisticated, evolving symphony of AI comprehension and interaction. This intricate dance with complexity makes AI research an incredibly exciting and rewarding journey.
 
 ---
-## 9. Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis
+## 9. Information Modules: Discrete Tokens of Knowledge
 
 Within the landscape of artificial intelligence, two prevailing paradigms have dominated: neural networks, which excel at pattern recognition and generalization but struggle with explicit knowledge representation, and symbolic AI, which shines in logical reasoning and clear knowledge representation but lacks the adaptability of neural networks. The concept of "knowledge tokens," developed in this research, proposes an elegant solution to bridge this gap.
 
@@ -432,7 +432,7 @@ Creating a knowledge token involves several steps, which can be related to vario
 - **Adaptability:** By referencing prior tokens, the AI can dynamically adapt its understanding to the unique trajectory of each conversation, akin to the principles of lifelong learning in AI.
 
 ---
-## 10. Self-Enhancement Feedback Paradigm in AI
+## 10. Continuous Learning Loop
 
 The landscape of AI is perpetually evolving, necessitating models to adapt and refine continuously. This principle is embodied in the Self-Enhancement Feedback Paradigm—an advanced mechanism inspired by established AI research methodologies like reinforcement learning, meta-learning, and continual learning.
 
@@ -455,7 +455,7 @@ The Self-Enhancement Feedback Paradigm represents a convergence of classical AI 
 [Explore further insights here].
 
 ---
-## 11. Zero-Shot Omni-Dimensional Learning (ZSODL): A Fusion of Zero-Shot Learning and Multi-Dimensional Knowledge Representation
+## 11. Unsupervised Multi-Dimensional Learning
 
 In the continuous evolution of artificial intelligence, adaptability and holistic understanding are key goals. Zero-Shot Omni-Dimensional Learning (ZSODL) is a novel approach that combines the principles of Zero-Shot Learning (ZSL), a well-established field in machine learning, with a multi-dimensional representation of knowledge. This fusion allows AI to generate connections across various domains, concepts, and contexts, expanding its comprehension and problem-solving capabilities.
 
@@ -614,7 +614,6 @@ Drawing from fields like quantum physics and multi-dimensional mathematics, thes
 
 ---
 ## Upcoming
-- Meta-Rule Sythesis, Activatation, and Control
 - Self-Instruct Frameworks
 - System Design Frameworks
 
