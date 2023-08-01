@@ -45,7 +45,7 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 4. [Semantic Knowledge Structures](https://github.com/nerority/AI-Portfolio/edit/main/README.md#3-semantic-knowledge-structures)
 5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms)
 6. [Meta-Logic Capture and Knowledge Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding)
-7. [Meta-Rules: The Solution to Efficient Navigation with Advanced AI]
+7. [Meta-Rules: The Solution to Efficient Navigation with Advanced AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-meta-rules-a-new-horizon-in-ai-conversational-design)
 8. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control)
 9. [Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis](https://github.com/nerority/AI-Portfolio/edit/main/README.md#8-knowledge-tokens-the-pinnacle-of-hyper-dimensional-logic-synthesis)
 10. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop)
