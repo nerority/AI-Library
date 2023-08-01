@@ -37,7 +37,7 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 </p>
 
 ## Table of Contents:
-### My Work
+### Completed Projects & Research
 1. [JSON/Natural Language Hybrid Prompting - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio/blob/main/README.md#1-jsonnatural-language-hybrid-prompting---the-best-prompting-method). This technique leverages the structured format of JSON along with the flexibility of natural language to give detailed instructions to the AI. The blend of structure and flexibility allows for more control over AI's responses while preserving the conversational flow.
 2. [Advanced Conversational Modeling through Implicit Knowledge and Logic](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-dark-knowledge-and-logic-the-unseen-power-of-ai). The AI is equipped to understand and utilize implicit knowledge present in the conversation. This not only includes the data not explicitly mentioned but also the underlying logical structures and inferences that can be drawn from the context.
 3. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio/edit/main/README.md#2-advanced-ai-methodologies). My approach involves integrating principles from diverse fields such as quantum physics and multi-dimensional mathematics to advance AI's capabilities. For instance, Hyper-Dimensional Logic Synthesis brings together multiple knowledge layers and logic types into a hyper-dimensional model. Similarly, the use of Meta-Rules optimizes the navigation of AI's response generation, and Zero-Shot Omni-Dimensional Learning (ZSODL) integrates the principles of Zero-Shot Learning with a multi-dimensional representation of knowledge
