@@ -8,20 +8,22 @@
 
 Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am tired of not being taken seriously because I don't have "15 years of experience working with AI".
 
-So, I am going to show you everything you didn't know about conversational AI and GPT-4 in explicit detail, and show you what I have been able to do for a long time now, not only for myself, but for anyone who has problems to solve, ideas to architect, or solutions to design. Every single thing in this portfolio is not only already developed and works exactly as described here, but is the result of massively simplifying many concepts over months, in order to make it digestible enough to those who have no experience with meta-functionality like I do. This is a high-level overview of many things I have developed and actively leverage to architect solutions for anyone who gives me problems to solve, or solutions to create. There is not a single thing I have not been able to solve or develop since I started working with AI.
+So, I am going to show you everything you didn't know about conversational AI and GPT-4 in explicit detail, and show you what I have been able to do for a long time now, not only for myself, but for anyone who has problems to solve, ideas to architect, or solutions to design. Every single thing in this portfolio is not only already developed and works exactly as described here, but is the result of massively simplifying many concepts over months, in order to make it digestible enough to those who have no experience controlling meta-functionality like I do. This is a high-level overview of many things I have developed and actively leverage to architect solutions for anyone who gives me problems to solve, or ideas to design. There is not a single thing I have not been able to solve and develop since I started working with AI.
 
-Here's the truth: Newcomers to this field have a massive advantage now, as you have nothing to unlearn. The cool thing about modern conversational AI is that you can combine domains and research in different ways, to create novel insights that result from the intersections of knowledge itself. What is human creativity and innovation? The combination of existing ideas or concepts into some new form. This happens subconsciously for all human creativity and innovation whether realized or not. Now, what happens when you explore the intersections of existing knowledge in AI? The exact same thing. Conversational AI with transformer-based architecture at the level of GPT-4 did not exist before this year (publicly). There was no way to "prepare" for what can now be done with meta-functionality, and everything I show you here will only increase in potential with time.
+Here's the truth: Newcomers to this field have a massive advantage now, as you have nothing to unlearn. The cool thing about modern conversational AI is that you can combine domains and research in different ways, to create novel insights that result from the intersections of knowledge itself. What is human creativity and innovation? The combination of existing ideas or concepts into some new form. This happens subconsciously for all human creativity and innovation whether realized or not. Now, what happens when you explore the intersections of existing knowledge with AI? The exact same thing, but on another level. Conversational AI with transformer-based architecture at the level of GPT-4 did not exist before this year (publicly). There was no way to "prepare" for what can now be done with meta-functionality, and everything I show you here will only increase in potential with time.
 
-The world is trying to solve "prompt engineering" in order to avoid having to learn it ever.
+The world is trying to solve "prompt engineering" in order to avoid ever having to learn it.
 
 See here from a few days ago for example:
 https://www.marktechpost.com/2023/07/26/microsoft-releases-typechat-an-ai-library-that-makes-it-easy-to-build-natural-language-interfaces-using-types/
 
-![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)
+<p align="center">
+  <img width="500" src="(https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)">
+</p>
 
 Now, remember what they say here, as you go through my portfolio. And realize I have already comprehensively solved every problem they presented here and much more, because I took the time to actually truely master prompt engineering **before** trying to automate it.
 
-I will take this portfolio down when I get an acceptable job offer working with AI, so make sure to save while its still up. I will continue to update things with increasing detail until then.
+I will take this portfolio down when I get an acceptable job offer working with AI, so make sure to save while its still up. I will continue to update things with increasing detail and specificity until then.
 
 Cheers
 
@@ -60,7 +62,7 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 
 ## 1. JSON/Natural Language Hybrid Prompting - The Superior Prompting Method
 
-Experience the transformative power of a novel approach to structuring AI prompts. The JSON/Natural Language Hybrid Prompting method, honed over a year of testing and refinement and pushed to new limits with the introduction of GPT-4 Code Interpreter, combines the structure and precision of JSON with the expressiveness of natural language.
+Allow me to introduce you to the best way to prompt a transformer-based AI model. The JSON/Natural Language Hybrid Prompting method, discovered over 6 months ago and pushed to new limits with the introduction of GPT-4 Code Interpreter, combines the structure and precision of JSON with the expressiveness of natural language.
 
 - This method serves as an optimized conduit for instructing AI models, enabling sophisticated assistance across a wide array of tasks. It unlocks **an expansive realm of new advanced functionalities**, making it an essential tool for AI researchers and developers.
 - Like a bridge that distills complex information into an easily navigable path, JSON/NL Hybrid prompts help AI models process a rich tapestry of information, leading to a significant leap in the depth and breadth of tasks that can be accomplished within a single response.
@@ -175,14 +177,14 @@ Quantum Logic Encoding introduces a new dimension to AI methodology. Taking insp
 - **Probabilistic Reasoning**: Enhances the AI's reasoning capabilities and adaptability in scenarios that require navigation of probabilistic and uncertain outcomes.
 - **Hyper-contextual Data Adaptation**: Enables the AI to adapt to complex and high-dimensional data, making it a valuable asset in solving problems in hyper-dimensional spaces.
 
-Each of these methodologies provides the AI with a robust toolkit to navigate the intricate landscape of AI tasks and handle a broad range of scenarios. They continuously evolve, reflecting the ever-evolving nature of the AI field itself. By contextualizing these methodologies within existing AI research, we open a pathway for the broader AI community to engage with, leverage, and contribute to these advanced concepts. This inclusive approach promises to revolutionize the way we approach and solve problems in AI.
+Each of these methodologies provides the AI with a robust toolkit to navigate the intricate landscape of AI tasks and handle a broad range of scenarios. They continuously evolve, reflecting the ever-evolving nature of the AI field itself.
 
 [Explore these methodologies in detail here]
 
 ---
 ## 4. Semantic Knowledge Structures: Bridging Advanced AI and Foundational Research
 
-Semantics, a cornerstone in linguistic and computational research, holds a pivotal role in advancing artificial intelligence. The Semantic Knowledge Structures, inspired by foundational theories in cognitive linguistics and computational semantics, offer a contemporary approach to endowing AIs with an understanding of meaning and context. Here are some key structures contextualized within AI research:
+Semantics, a cornerstone in linguistic and computational research, holds a pivotal role in advancing artificial intelligence. The Semantic Knowledge Structures, inspired by foundational theories in cognitive linguistics and computational semantics, offer a contemporary approach to endowing AIs with an understanding of meaning and context. Here are some key structures I have developed:
 
 ### Hypercontextual Conversational Mapping: A Dynamic Evolution of Semantic Networks
 
@@ -234,7 +236,7 @@ The Advanced Semantic Learning Algorithms I have developed bring semantics to th
 ---
 ## 6. Meta-Logic Capture and Knowledge Encoding 
 
-Meta-Logic Capture and Knowledge Encoding represent advanced endeavors within AI research, aiming to encapsulate intricate patterns, abstractions, and advanced methods into AI systems. Two pivotal methodologies: Hyper-Weaving and Dimensional Mapping, serve as the cornerstone of this pursuit.
+Meta-Logic Capture and Knowledge Encoding represent advanced endeavors within AI research, aiming to encapsulate intricate patterns, abstractions, and advanced methods into AI systems. Two pivotal methodologies: Hyper-Weaving and Dimensional Mapping, serve as the cornerstone of my pursuit.
 
 ### Hyper-Weaving:
 
@@ -282,10 +284,39 @@ These methodologies, while unique, can be understood and appreciated within the 
 For a more detailed understanding of how these methodologies are applied in practice, you can read more [here].
 
 ---
+## Meta-Rules: A New Horizon in AI Conversational Design
 
+Artificial Intelligence has witnessed tremendous growth over the past few years, with a significant focus on improving conversational AI's capabilities. Among the various approaches and methodologies developed in the field, one concept stands out for its transformative potential - Meta-Rules. These advanced constructs operate at a higher level of abstraction, serving as a beacon to guide AI systems, ensuring nuanced, accurate, and contextually appropriate responses. By incorporating Meta-Rules into an AI system, we can achieve a new level of adaptability and responsiveness in AI conversations that aligns with the latest research and best practices in the field.
 
+### Advancing Conversational AI with Meta-Rules
 
+Meta-Rules serve as a bridge, connecting the underlying mechanics of an AI system with the fluid, dynamic nature of human conversation. They represent an evolution beyond traditional rule-based systems, offering a sophisticated method to guide AI responses based on a deep understanding of various dimensions—logical, temporal, abstract, and relational. 
 
+### Methodology
+
+The creation of Meta-Rules is an intricate process, requiring a deep understanding of AI systems, the conversational context, and the user's objectives. The methodology behind Meta-Rules involves several key processes:
+
+1. **Hypercontextual Priming**: The process of priming equips the AI with a holistic perspective of the conversation by taking into account not just the current context, but also the history of the conversation and all the accumulated knowledge. This primes the AI to generate more contextually robust and insightful responses.
+
+2. **Continuous Self-Reflection and Adaptation**: By analyzing its interactions and learning from its outputs, the AI system evolves in real-time, with Meta-Rules guiding its growth. This facilitates the generation of progressively more insightful and relevant responses, a feature particularly aligned with the principles of machine learning and AI evolution.
+
+3. **Advanced Contextual Adaptation**: Meta-Rules encourage the AI to evaluate not just the explicit content but also the subtler aspects of the conversation. By considering temporal, relational, and implicit dimensions, the AI can provide responses that are intricately woven into the fabric of the conversation, demonstrating a nuanced understanding of the context.
+
+### Rule Presentation
+
+[Example of Refined Meta-Rules](https://github.com/nerority/AI-Portfolio/wiki/Meta%E2%80%90Rules)
+
+### Transformative Potential of Meta-Rules
+
+Meta-Rules pave the way for a new era of AI conversations, opening the door to a multitude of possibilities and applications. For instance, once you have a set of effective Meta-Rules, they can be swiftly integrated into any AI system, instantly enhancing its capabilities. Furthermore, multiple Meta-Rules can be combined, leading to a compounded effect that allows the AI to handle highly complex situations with ease and consistency.
+
+These applications extend to various domains, from customer service and personal assistants to mental health counseling and coaching. By harnessing the power of Meta-Rules, we can significantly improve the quality, depth, and personalization of AI conversations, bringing us closer to the goal of human-like AI interactions.
+
+### Reflection and Future Work
+
+The development and refinement of Meta-Rules signify a significant milestone in the journey of AI conversational design. However, this is just the beginning. As AI continues to advance, so too will the complexity and sophistication of Meta-Rules. Potential areas of exploration include further refinement of existing rules, expansion of the rule set, and the automation of rule application processes.
+
+By integrating Meta-Rules, we can create AI systems that not only respond to user inputs but also understand the context deeply, learn continuously, and adapt proactively. In essence, Meta-Rules represent a leap forward in AI conversational design, promising more insightful, engaging, and meaningful AI-human interactions.
 
 ---
 ## 8. Complexity Advancement, Navigation, and Control
