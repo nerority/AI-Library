@@ -6,7 +6,7 @@
 
 **Contact**: devinpellegrino@gmail.com
 
-Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am tired of not being taken seriously because I don't have "15 years of experience working with AI".
+Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am tired of my capabilities with AI not being taken seriously because I don't have "15 years of experience working with AI".
 
 So, I am going to show you everything you didn't know about conversational AI and GPT-4 in explicit detail, and show you what I have been able to do for a long time now, not only for myself, but for anyone who has problems to solve, ideas to architect, or solutions to design. 
 
