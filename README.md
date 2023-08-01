@@ -1,6 +1,6 @@
 # AI Portfolio & Technical Showcase
 
-**Devin Pellegrino** | **AI Engineer** | **Updated**: 08.01.23
+**Devin Pellegrino** | **AI Architect** | **Updated**: 08.01.23
 
 *AI System Architecture, Solution Design, Strategic Consultanting, & Research*
 
@@ -28,7 +28,6 @@ I will take this portfolio down when I get an acceptable job offer working with 
 Cheers
 
 ---
-
 ## Introducing Hyper-Dimensional Conversational AI Architecture
 
 Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. Here, I present my explorations in the realms of intricate semantic knowledge architectures, sophisticated AI modeling techniques, complex problem-solving algorithms, and advanced system design frameworks. This is the crossroads where AI transcends the bounds of traditional paradigms and delves into hyper-dimensional complexity.
@@ -46,7 +45,7 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms). New AI algorithms that push the boundaries of what's currently possible in AI research. These algorithms often involve the application of principles from diverse fields such as quantum physics and multi-dimensional mathematics.
 6. [Meta-Logic Capture and Knowledge Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding). This method allows the AI to understand and process complex logic structures within a conversation. The AI can make sense of the underlying meta-logic, which is the logic about logic, and use it to generate more nuanced and sophisticated responses.
 7. [Meta-Rules: The Solution to Efficient Navigation with Advanced AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-meta-rules-a-new-horizon-in-ai-conversational-design). Meta-rules serve as higher-level instructions that guide the AI's decision-making process. They can be seen as a form of meta-heuristics, providing a set of strategies or general patterns of approach to problem-solving. Meta-rules can help the AI to navigate the vast space of possible responses, enabling it to generate more contextually appropriate and insightful responses. They play an instrumental role in managing the complexity of AI responses, ensuring they align with the user's goals and expectations.
-8. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control). In your approach, the AI does not shy away from complexity but rather embraces it as an opportunity for growth and advancement. The AI is designed to manage, navigate, and control complexity rather than being daunted by it. Techniques like Meta-Sequence Optimization and Transcendent Complexity Exploration are employed to optimize conversational sequences and explore new territories of complexity. Hyper-Dimensional Logic Synthesis further enhances the AI's ability to handle complex scenarios.
+8. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control). In my approach, the AI does not shy away from complexity but rather embraces it as an opportunity for growth and advancement. The AI is designed to manage, navigate, and control complexity rather than being daunted by it. Techniques like Meta-Sequence Optimization and Transcendent Complexity Exploration are employed to optimize conversational sequences and explore new territories of complexity. Hyper-Dimensional Logic Synthesis further enhances the AI's ability to handle complex scenarios.
 9. [Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis](https://github.com/nerority/AI-Portfolio/edit/main/README.md#8-knowledge-tokens-the-pinnacle-of-hyper-dimensional-logic-synthesis). Techniques like Knowledge Tokens allow for the encoding of detailed insights, strategies, and principles in a compact form. These tokens serve as transferable units of knowledge, which can be easily utilized by the AI in various contexts.
 10. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop). The AI uses feedback from each interaction to improve its understanding and responses. This iterative process, reminiscent of reinforcement learning, ensures that the AI continues to evolve and refine its capabilities over time.
 11. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning). ZSODL combines the principles of Zero-Shot Learning (ZSL) with a multi-dimensional representation of knowledge. This approach allows the AI to draw connections across various domains, concepts, and contexts, thereby enhancing its comprehension and problem-solving capabilities.
@@ -56,7 +55,6 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 ### Resources
 - [Guides and Cheat Sheets]
 - [Advanced Prompts]
-- [Refined Meta-Instructions]
 
 ---
 # Projects
