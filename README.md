@@ -2,7 +2,7 @@
 
 **Devin Pellegrino** | **AI Architect** | **Updated**: 08.01.23
 
-*AI System Architecture, Solution Design, Strategic Consultanting, & Research*
+*AI System Architecture, Solution Design, Strategic Consulting, & Research*
 
 **Contact**: devinpellegrino@gmail.com
 
