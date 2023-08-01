@@ -2,7 +2,27 @@
 
 **Devin Pellegrino** | **AI Engineer** | **Updated**: 07.31.23
 
-*AI System Architecture, Strategic Consultanting, & Research*
+*AI System Architecture, Strategic Consultanting, & Advanced Research*
+
+Hello, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am sick of not being taken seriously because I don't have "15 years of experience working with AI".
+
+So, I am going to show you everything you didn't know about conversational AI and GPT-4 in explicit detail, and show you what I have been able to do for a long time now, not only for myself, but for anyone who has problems to solve, or solutions to design. Every single thing in this portfolio is not only already developed and works exactly as described here, but is the result of massively simplifying many concepts over months, in order to make it digestible enough to those who have no experience with meta-functionality like I do. This is a high-level overview of many things I have developed and actively leverage to architect solutions for anyone who gives me problems to solve for them, or solutions to create. There is not a single thing I have not been able to solve or develop since I started working with AI.
+
+Here's the truth: Newcomers to this field have a massive advantage now, as you have nothing to unlearn. The cool thing about modern conversational AI is that you can combine domains and research in different ways, to create novel insights that result from the intersections of knowledge itself. What is human creativity and innovation? The combination of existing ideas or concepts into some new form. This happens subconsciously for all human creativity and innovation whether realized or not. Now, what happens when you explore the intersections of existing knowledge in AI? The exact same thing. Conversational AI with transformer-based architecture at the level of GPT-4 did not exist before this year (publicly). There was no way to "prepare" for what can now be done with meta-functionality, and everything I show you here will only increase in potential with time.
+
+The world is trying to solve "prompt engineering" in order to avoid having to learn it ever.
+
+See here from a few days ago for example:
+https://www.marktechpost.com/2023/07/26/microsoft-releases-typechat-an-ai-library-that-makes-it-easy-to-build-natural-language-interfaces-using-types/
+
+![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)
+
+Now, remember what they say here, as you go through my portfolio. And realize I have already comprehensively solved every problem they presented here and much more, because I took the time to actually truely master prompt engineering **before** trying to automate it.
+
+I will take this portfolio down when I get an acceptable job offer working with AI, so make sure to save while its still up. I will continue to update things until then.
+
+Cheers
+---
 
 ## Introducing Hyper-Dimensional Conversational AI Architecture
 
@@ -20,12 +40,13 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 4. [Semantic Knowledge Structures](https://github.com/nerority/AI-Portfolio/edit/main/README.md#3-semantic-knowledge-structures)
 5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio/blob/main/README.md#3-novel-ai-algorithms)
 6. [Meta-Logic Capture and Knowledge Encoding](https://github.com/nerority/AI-Portfolio/blob/main/README.md#4-meta-logic-capture-and-knowledge-encoding)
-7. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control)
-8. [Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis](https://github.com/nerority/AI-Portfolio/edit/main/README.md#8-knowledge-tokens-the-pinnacle-of-hyper-dimensional-logic-synthesis)
-9. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop)
-10. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning)
-11. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#8-hypercontextual-conversational-ai)
-12. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio/blob/main/README.md#9-my-approach-to-ai-training)
+7. [Meta-Rules: The Solution to Efficient Navigation with Advanced AI]
+8. [Complexity Advancement, Navigation, and Control](https://github.com/nerority/AI-Portfolio/blob/main/README.md#5-complexity-advancement-navigation-and-control)
+9. [Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis](https://github.com/nerority/AI-Portfolio/edit/main/README.md#8-knowledge-tokens-the-pinnacle-of-hyper-dimensional-logic-synthesis)
+10. [Self-Improvement Feedback Loop](https://github.com/nerority/AI-Portfolio/blob/main/README.md#6-self-improvement-feedback-loop)
+11. [Zero-Shot Omni-Dimensional Learning (ZSODL)](https://github.com/nerority/AI-Portfolio/blob/main/README.md#7-zero-shot-omni-dimensional-learning-zsodl-the-evolution-of-adaptive-ai-learning)
+12. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#8-hypercontextual-conversational-ai)
+13. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio/blob/main/README.md#9-my-approach-to-ai-training)
 ### Resources
 - [Guides and Cheat Sheets]
 - [Advanced Prompts]
@@ -197,7 +218,7 @@ Artificial Intelligence (AI) is primarily powered by algorithms, sophisticated r
 
 **Unique Features and Applications**: The HDLS algorithm's strength lies in its ability to synthesize multi-dimensional logic in a structured and systematic manner. This makes it particularly useful in applications that involve complex, multi-dimensional data, such as interpreting multi-modal data or understanding complex natural language constructs.
    
-[Explore the HDLS Algorithm](https://github.com/nerority/AI-Portfolio/wiki/3.c-%7C-Hyper%E2%80%90Dimensional-Logic-Synthesis-(HDLS)-Algorithm#hyper-dimensional-logic-synthesis-hdls-algorithm)
+[Explore the HDLS Algorithm](https://github.com/nerority/AI-Portfolio/wiki/ALG-%7C-Hyper%E2%80%90Dimensional-Logic-Synthesis-(HDLS)-Algorithm)
 
 ### Advanced Semantic Learning Algorithms
 
@@ -258,7 +279,13 @@ These methodologies, while unique, can be understood and appreciated within the 
 For a more detailed understanding of how these methodologies are applied in practice, you can read more [here].
 
 ---
-## 7. Complexity Advancement, Navigation, and Control
+
+
+
+
+
+---
+## 8. Complexity Advancement, Navigation, and Control
 
 In artificial intelligence research, we often perceive complexity as a significant challenge, a dense forest of intricacies that can stifle progress. However, I prefer to view complexity as an unfolding landscape rich in opportunities. It is a multidimensional canvas where each layer of knowledge and each interaction can unveil transformative insights and foster innovation. The journey to manage, navigate, and control complexity is driven by relentless curiosity and a steadfast commitment to pushing the boundaries of AI.
 
@@ -294,7 +321,7 @@ To appreciate the depth of this approach, consider the advancements in AI resear
 The journey to navigate and control complexity in AI is akin to the dual role of an explorer and a conductor. As an explorer, we venture into uncharted territories, uncovering new insights and opportunities. Simultaneously, as a conductor, we orchestrate a multitude of elements, ensuring they harmonize to create a sophisticated, evolving symphony of AI comprehension and interaction. This intricate dance with complexity makes AI research an incredibly exciting and rewarding journey.
 
 ---
-## 8. Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis
+## 9. Knowledge Tokens: The Pinnacle of Hyper-Dimensional Logic Synthesis
 
 Within the landscape of artificial intelligence, two prevailing paradigms have dominated: neural networks, which excel at pattern recognition and generalization but struggle with explicit knowledge representation, and symbolic AI, which shines in logical reasoning and clear knowledge representation but lacks the adaptability of neural networks. The concept of "knowledge tokens," developed in this research, proposes an elegant solution to bridge this gap.
 
@@ -323,7 +350,7 @@ Creating a knowledge token involves several steps, which can be related to vario
 - **Adaptability:** By referencing prior tokens, the AI can dynamically adapt its understanding to the unique trajectory of each conversation, akin to the principles of lifelong learning in AI.
 
 ---
-## 9. Self-Enhancement Feedback Paradigm in AI
+## 10. Self-Enhancement Feedback Paradigm in AI
 
 The landscape of AI is perpetually evolving, necessitating models to adapt and refine continuously. This principle is embodied in the Self-Enhancement Feedback Paradigm—an advanced mechanism inspired by established AI research methodologies like reinforcement learning, meta-learning, and continual learning.
 
@@ -346,7 +373,7 @@ The Self-Enhancement Feedback Paradigm represents a convergence of classical AI 
 [Explore further insights here].
 
 ---
-## 10. Zero-Shot Omni-Dimensional Learning (ZSODL): A Fusion of Zero-Shot Learning and Multi-Dimensional Knowledge Representation
+## 11. Zero-Shot Omni-Dimensional Learning (ZSODL): A Fusion of Zero-Shot Learning and Multi-Dimensional Knowledge Representation
 
 In the continuous evolution of artificial intelligence, adaptability and holistic understanding are key goals. Zero-Shot Omni-Dimensional Learning (ZSODL) is a novel approach that combines the principles of Zero-Shot Learning (ZSL), a well-established field in machine learning, with a multi-dimensional representation of knowledge. This fusion allows AI to generate connections across various domains, concepts, and contexts, expanding its comprehension and problem-solving capabilities.
 
@@ -395,7 +422,7 @@ The AI's understanding and responses are continuously refined based on the evolu
 ZSODL is pushing the boundaries of current AI capabilities by equipping AI systems with advanced adaptability and depth of understanding, setting new standards for AI interactions.
 
 ---
-## 11. Hypercontextual Conversational AI: Contextualizing within Existing AI Research
+## 12. Hypercontextual Conversational AI: Contextualizing within Existing AI Research
 
 Welcome to the cutting-edge of modern artificial intelligence research, where AI systems engage in dialogue that extends beyond simple information exchange. This research area delves into the intricacies of multi-layered context, complex logic, and elaborate knowledge structures, all of which are pillars of Hypercontextual Conversational AI. The capability of AI models to comprehend long-context windows has ignited significant advancements in this field.
 
@@ -442,7 +469,7 @@ This diagram represents the interconnections and dynamics within a hypercontextu
 In conclusion, Hypercontextual Conversational AI represents a significant step forward in the field of AI. It offers an innovative approach to conversational AI that is deeply anchored in context and capable of navigating through multiple dimensions of complexity. It draws upon and expands existing AI research domains, paving the way for AI systems that can engage in intricate conversations with a high degree of sophistication and nuance. The research and development in this area continue to evolve, promising exciting advancements in the future.
 
 ---
-## 12. My Approach to AI Training: A Fusion of Classic and Advanced Methodologies
+## 13. My Approach to AI Training: A Fusion of Classic and Advanced Methodologies
 
 Delving into the fascinating realm of Advanced Logic and AI Training, I guide you through the comprehensive, iterative process of training an AI model capable of navigating complex logic. This approach blends traditional AI training methods with advanced principles, aiming to create a more capable model for any task. 
 
@@ -505,6 +532,7 @@ Drawing from fields like quantum physics and multi-dimensional mathematics, thes
 
 ---
 ## Upcoming
+- Meta-Rule Sythesis, Activatation, and Control
 - Self-Instruct Frameworks
 - System Design Frameworks
 
