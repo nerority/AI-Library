@@ -19,9 +19,7 @@ The world is trying to solve "prompt engineering" in order to avoid ever having 
 See here from a few days ago for example:
 https://www.marktechpost.com/2023/07/26/microsoft-releases-typechat-an-ai-library-that-makes-it-easy-to-build-natural-language-interfaces-using-types/
 
-<p align="center">
-  <img width="300" src="(https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)">
-</p>
+![pic](https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)">
 
 Now, remember what they say here, as you go through my portfolio. And realize I have already comprehensively solved every problem they presented here and much more, because I took the time to actually truely master prompt engineering **before** trying to automate it.
 
