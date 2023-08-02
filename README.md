@@ -61,7 +61,7 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 - [Advanced Prompts]
 
 ---
-# Projects
+# Successful Projects & Research
 
 ## 1. Hybrid Instruction Processing - The Superior Prompting Method
 
