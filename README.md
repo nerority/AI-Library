@@ -29,7 +29,7 @@ Enjoy the portfolio.
 
 Cheers
 
-- Devin
+Devin
 
 ---
 ## Introducing Hyper-Dimensional Conversational AI Architecture
