@@ -163,7 +163,7 @@ HIES-empowered AI systems promise outputs that are nuanced and contextually rele
 
 ### Example Application 1
 
-1. **Client:** A hospital network
+**Client:** A hospital network
 
 **Challenge:** The hospital network is experiencing inefficiencies in managing patient records, difficulty in predicting patient health risks, and is in need of a more personalized approach to patient care.
 
