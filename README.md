@@ -58,7 +58,7 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 15. [Current Research Endeavors](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors). Current Research & Projects under Development.
 
 ### Resources
-- [Advanced Prompt Templates](https://github.com/nerority/AI-Portfolio/blob/main/README.md#advanced-prompt-templates).
+- [Advanced Prompt Templates](https://github.com/nerority/AI-Portfolio/blob/main/README.md#advanced-prompt-templates)
 - [Cheat Sheets](https://github.com/nerority/AI-Portfolio/blob/main/README.md#cheat-sheets)
 - [Guides](https://github.com/nerority/AI-Portfolio/blob/main/README.md#guides)
 
