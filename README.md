@@ -6,24 +6,24 @@
 
 **Contact**: devinpellegrino@gmail.com
 
-Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am tired of my capabilities with AI not being taken seriously because I don't have "15 years of experience working with AI".
+Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am tired of my skill working with AI not being taken seriously because I don't have "15 years of experience working with AI/ML".
 
-So, I am going to show you everything you didn't know about conversational AI and GPT-4 in explicit detail, and what I have been able to do for a long time now, not only for myself, but for anyone who has problems to solve, ideas to architect, or solutions to design. 
+So, I am going to show you everything you didn't know about advanced AI and GPT-4 in explicit detail, and what I have been able to do for a long time now, not only for myself, but for anyone who has problems to solve, ideas to design, or solutions to build.
 
-Every single concept presented in this portfolio is not only already developed and works exactly as described, but has been simplified and contextualized over months, in order to make it accessible to those without experience in this domain. This is a high-level overview of the projects, techinques, and solutions I have developed and actively leverage to architect cutting-edge AI solutions for any problem space. There is not a single thing I have not been able to solve and develop since I started working with AI, using the exact methods I will show you here.
+Every single concept presented in this portfolio is not only already fully developed and works exactly as described, but has been simplified and contextualized over months, in order to make it accessible to those without experience in this domain. This is a high-level overview of the projects, techniques, and solutions I have developed and actively leverage to architect cutting-edge AI solutions for any problem space. There is not a single thing I have not been able to solve and develop since I started working with AI, using the exact methods I will show you here.
 
-Let me give you an example.
+Let me give you a quick example.
 
 See here from a not long ago:
 https://www.marktechpost.com/2023/07/26/microsoft-releases-typechat-an-ai-library-that-makes-it-easy-to-build-natural-language-interfaces-using-types/
 
 ![pic](https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)
 
-Now, remember the mentioned article text, as you go through my portfolio. And realize I have already comprehensively solved every problem presented by the article and much more, because I took the time to actually master prompt engineering **before** trying to automate it or reduce its potential.
+As you review my portfolio, keep in mind the previously mentioned article text. As I have comprehensively solved every problem presented in the article and have gone beyond by mastering prompt engineering before attempting to automate or limit its potential. While the creators of this natural language interface have a commendable approach to making prompt engineering more accessible, I have already accomplished a comprehensive solution that is more holistic, capable, and accessible to the average person. In fact, the solution I speak of is the very first technique I discovered in my journey to master AI, and is the first showcase in this portfolio below.
 
-While the pursuit of user-friendly AI is commendable, it is crucial to recognize that the proficiency of an AI solution hinges largely on the caliber of its pre-constructed framework for unique problem spaces or business needs. This pre-construction, or pre-framing, requires adept prompt design skills, delicately crafting the AI's operational context to deliver optimal results.
+While the pursuit of user-friendly AI is commendable, it is crucial to recognize that the proficiency of an AI solution hinges largely on the caliber of its pre-constructed framework for the unique problem space or business needs. This pre-construction, or pre-framing, requires adept prompt design skills, delicately crafting the AI's operational context to deliver optimal results. The desire for Prompt Engineering (PE) to disappear is equivalent to the aspiration for achieving full Artificial General Intelligence (AGI). Only by attaining AGI can we surpass the need for PE without compromising the potential of the AI solution.
 
-Software engineering prowess, while undeniably valuable, cannot independently match the potential of a meticulously primed AI system anymore. The dynamics of AI capability and complexity demand not just the architecture of algorithms, but also the insightful crafting of prompts. And I can do both.
+Software engineering prowess, while undeniably valuable, cannot independently match the potential of a meticulously primed AI system. The dynamics of AI capability and complexity demand not just the architecture of algorithms, but also the insightful crafting of prompts. And I can do both.
 
 Cheers
 
