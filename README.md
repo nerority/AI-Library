@@ -6,28 +6,30 @@
 
 **Contact**: devinpellegrino@gmail.com
 
-Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am tired of my skill in working with AI not being taken seriously because I don't have "15 years of experience working with AI/ML". Forgive my directness, but this needs to be put in the past, once and for all.
+Hi, my name is Devin. I am currently one of the most capable AI Engineers on this planet without an NDA, and my expertise is unparalleled in the current landscape. Despite this, I am tired of constantly having my skills dismissed and time wasted due to not having the "15 years of experience in AI/ML" plaguing the market right now. Forgive my directness, but I intend to dismantle this absurd notion once and for all.
 
-So, I am going to show you everything you didn't know about working with modern AI and GPT-4 in explicit detail, and what I have been able to do for a while now, not only for myself, but for anyone who has problems to solve, ideas to design, or solutions to build.
+To do this, I am going to show you everything you didn't know about modern AI and GPT-4 in explicit detail, and what I have been able to do for a while now. Not just for myself, but for anyone who has problems to solve, ideas to design, or solutions to build.
 
-Every single concept presented in this portfolio is not only already fully developed and works exactly as described, but has been simplified and contextualized over months, in order to make it accessible to those without experience in this domain. This is a high-level overview of the projects, techniques, and solutions I have developed and actively leverage to architect cutting-edge AI solutions for any problem space. There is not a single thing I have not been able to solve and develop since I started working with AI, using the exact methods I will show you here.
+Every single concept presented in this portfolio is not only already fully developed and works exactly as described, but has been simplified and contextualized over months, in order to make it accessible to those without experience in this domain. This is a high-level overview of the research, projects, and methods I have developed and actively leverage to architect cutting-edge AI solutions for any problem space. There is not a single thing I have not been able to solve and develop since I started working with AI, using the exact methods I will show you here.
 
 Let me give you a quick example.
 
-See here from a not long ago:
+See here from not long ago:
 https://www.marktechpost.com/2023/07/26/microsoft-releases-typechat-an-ai-library-that-makes-it-easy-to-build-natural-language-interfaces-using-types/
 
 ![pic](https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)
 
-As you review my portfolio, keep in mind the previously mentioned article text. As I have comprehensively solved every problem presented in the displayed text and have gone beyond by mastering prompt engineering before attempting to automate or limit its potential. While the creators of this natural language interface have a commendable approach to making prompt engineering more accessible, I have already accomplished a comprehensive solution that is more holistic, capable, and accessible to the average person. In fact, the solution I speak of is the very first technique I discovered in my journey to master AI, and is the first showcase in this portfolio below.
+Now as you review my portfolio, keep in mind the previously mentioned article text. As I have comprehensively solved every problem presented in the displayed text and have gone beyond by mastering prompt engineering before attempting to automate or limit its potential. While the creators of this natural language interface have a commendable approach to making prompt engineering more accessible, I have already accomplished a comprehensive solution that is more holistic, capable, and accessible to the average person. In fact, the solution I speak of is the very first technique I discovered in my journey to master AI, and is the first showcase in this portfolio below.
 
-While the pursuit of user-friendly AI is commendable, it is crucial to recognize that the proficiency of an AI solution hinges largely on the caliber of its pre-constructed framework for the unique problem space or business needs. This pre-construction, or pre-framing, requires adept prompt design skills, delicately crafting the AI's operational context to deliver optimal results. The desire for Prompt Engineering (PE) to disappear is equivalent to the aspiration for achieving full Artificial General Intelligence (AGI). Only by attaining AGI can we surpass the need for PE without compromising the potential of the AI solution.
+While the pursuit of user-friendly AI is commendable, it is crucial to recognize that the proficiency of an AI solution hinges largely on the caliber of its pre-constructed framework for its unique problem space or business needs. This pre-construction, or pre-framing, requires adept prompt design skills, delicately crafting the AI's operational context to deliver optimal results. The desire for Prompt Engineering (PE) to disappear is equivalent to the aspiration for achieving full Artificial General Intelligence (AGI). Only by attaining AGI can we surpass the need for PE without compromising the potential of the AI solution.
 
 Software engineering prowess, while undeniably valuable, cannot independently match the potential of a meticulously primed AI system. The dynamics of AI capability and complexity demand not just the architecture of algorithms, but also the insightful crafting of prompts. And I can do both.
 
-Cheers and enjoy the portfolio,
+Enjoy the portfolio.
 
-Devin
+Cheers
+
+- Devin
 
 ---
 ## Introducing Hyper-Dimensional Conversational AI Architecture
@@ -42,7 +44,7 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 
 ### Successful Projects & Research
 1. [Hybrid Instruction Processing - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio#1-hybrid-instruction-processing---the-superior-prompting-method).
-2. [System Design Frameworks]
+2. [System Design Frameworks](https://github.com/nerority/AI-Portfolio/blob/main/README.md#2-system-design-frameworks)
 3. [Advanced Conversational Modeling through Implicit Information Integration](https://github.com/nerority/AI-Portfolio#2-advanced-conversational-modeling-through-implicit-information-integration).
 4. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio#3-advanced-ai-methodologies).
 5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio#5-novel-ai-algorithms).
@@ -66,13 +68,47 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 ---
 # Successful Projects & Research
 
-## 1. Hybrid Instruction Processing - The Superior Prompting Method
+## 1. JSON/Natural Language Hybrid Prompting - The Superior Prompting Method
 
-Allow me to introduce you to the best way to prompt a transformer-based AI model. The JSON/Natural Language Hybrid Prompting method, a technique I discovered over 6 months ago and pushed to new limits with the introduction of GPT-4 Code Interpreter, combines the structure and precision of JSON (structured data) with the expressiveness of natural language.
+Allow me to introduce to you the best way to prompt transformer-based AI models. The JSON/Natural Language Hybrid Prompting method, a technique I discovered over 6 months ago, combines the structure and precision of JSON (structured data) with the expressiveness of natural language to incredible results.
 
-- This method serves as an optimized conduit for instructing AI models, enabling sophisticated assistance across a wide array of tasks. It unlocks **an expansive realm of new advanced functionalities**, making it an essential tool for AI researchers and developers.
-- Like a bridge that distills complex information into an easily navigable path, JSON/NL Hybrid prompts help AI models process a rich tapestry of information, leading to a significant leap in the depth and breadth of tasks that can be accomplished within a single response.
+### The Pinnacle of Schema Engineering:
 
+The Hybrid Prompting method stands as an unmatched achievement in "schema engineering". Through its unique combination of precision and expressiveness, this method excels in diverse scenarios, consistently yielding successful outcomes. It is designed to meet the highest standards of efficacy, offering an unparalleled tool in the field of AI prompt design.
+
+### Extensive New Functionalities:
+
+The Hybrid Prompting method not only lacks any kind of downside but also enables an expansive array of new advanced functionalities. It serves as an optimized conduit for instructing AI models, enabling sophisticated assistance across a wide range of tasks. This method's innovative design allows AI models to process a rich tapestry of information, significantly enhancing the depth and breadth of tasks that can be accomplished within a single response.
+
+### Ease of AI Integration:
+
+Training AI systems with the Hybrid Prompting method is a seamless process. With the appropriate training, AI models can harness this method to craft intricate, purpose-specific prompts for any situation, effectively expanding the possibilities of AI interactions.
+
+### Transformative Implications:
+
+Emergent intelligence, by definition, refers to higher-order intelligence that arises when a system's components interact in a manner such that the whole becomes more than the sum of its parts. This phenomenon can be observed in many complex systems in nature and, in the realm of artificial intelligence, it refers to novel insights, solutions, or behaviors that emerge from the intricate interactions of simpler tasks or functions. 
+
+The JSON/Natural Language Hybrid Prompting method is more than just a tool for developing AI systems—it's a transformative framework that facilitates emergent intelligence, leading to advanced AI solutions that redefine what's possible with AI prompting. This results from the following mechanics at play:
+
+1. **Holistic Integration of Structured and Unstructured Data:** 
+   By blending the precision of JSON's structured data with the expressiveness of natural language, the method allows for a richer and more nuanced representation of information. This dual representation can foster unexpected connections and insights that wouldn't arise from either modality alone.
+
+2. **Facilitation of Complex Problem Decomposition:**
+   The hybrid prompting approach enables the decomposition of intricate problems into manageable sub-tasks. These sub-tasks, when processed in tandem or sequentially, can lead to novel solutions that emerge from their collective processing.
+
+3. **Enhanced Context Retention and Application:**
+   The structured nature of JSON ensures that specific details and nuances are retained, while the natural language aspect allows for the capture of broader context and intent. When AI models utilize this comprehensive context, they can generate responses that reflect a deeper understanding of the problem space, leading to emergent solutions.
+
+4. **Dynamic Feedback Loops:**
+   The clarity and precision of the hybrid prompts facilitate more accurate feedback mechanisms. As the AI interacts with these refined prompts and receives feedback, it can adjust its approaches in real-time, leading to iterative solutions that capture emergent intelligence.
+
+5. **Increased System Flexibility:**
+   The hybrid method provides a flexible framework that can adapt to a wide array of tasks and domains. This adaptability ensures that the AI system can navigate diverse problem spaces, making connections across them and leading to emergent insights.
+
+6. **Facilitation of Multi-modal Interactions:**
+   The combination of structured and unstructured data can cater to multi-modal interactions, where the AI model processes and integrates data from varied sources. These multi-faceted interactions can lead to solutions that are richer and more comprehensive, exhibiting emergent intelligence.
+
+### New Levels of Complexity
 In developing this approach, I recognized the need for a framework to capture the depth and complexities of these advanced prompts. This led to the creation of the "prompt complexity" scale, which helps users understand the potential applications and benefits of these prompts.
 
 <details>
@@ -80,16 +116,16 @@ In developing this approach, I recognized the need for a framework to capture th
 
 ### Hybrid Prompt Complexity Levels
 
-**Note: The complexity levels refer to the processing demands placed on the AI model by the prompt, not the skill required to use or create them. Regardless of experience, anyone can leverage Hybrid prompts of any complexity.** These semantic levels encapsulate the range of prompt complexities achievable, each with its unique applications and benefits.
+**Note: The complexity levels refer to the processing demands placed on the AI model by the prompt, not the skill required to use or create them. Regardless of experience, anyone can leverage Hybrid prompts of any complexity.** These semantic levels encapsulate the range of prompt complexities achievable, each with its unique applications and benefits. If you have ideas for a better naming scheme, feel free to suggest.
 
-Prompt complexity can range from Basic to Transcendent-Level, each corresponding to a progressively more sophisticated level of understanding, interaction, and adaptability expected from the AI model. Here are the defined complexity levels:
+Prompt complexity for Hybrid prompts can range from Basic to Transcendent-Level, each corresponding to a progressively more sophisticated level of understanding, interaction, and adaptability expected from the AI model. Here are the defined complexity levels:
 
 1. **Basic Level**: For straightforward tasks and responses. The AI model is expected to understand the user's intent and generate a direct response.
 2. **Intermediate Level**: For tasks that require the AI to infer user intent based on the given context. The AI model generates responses that consider the current context of the conversation.
 3. **Advanced Level**: For tasks requiring the AI to infer user intent from both the given context and prior conversation history. The AI generates responses considering the evolving context of the conversation.
 4. **Expert Level**: For tasks requiring the AI to infer user intent from the current context, prior conversation history, and meta-knowledge. The AI model generates responses that consider the deep contextual elements of the conversation.
 5. **Elite Level**: For tasks requiring the AI to infer user intent from the current context, prior conversation history, meta-knowledge, and implicit knowledge. The AI model generates responses considering the multi-layered elements of the conversation.
-6. **Apex Level**: For tasks requiring the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, and intricate logical constructs. The AI model generates responses considering the multi-dimensional elements of the conversation.
+6. **Master Level**: For tasks requiring the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, and intricate logical constructs. The AI model generates responses considering the multi-dimensional elements of the conversation.
 7. **Transcendent Level**: For tasks requiring the AI to infer user intent from the current context, prior conversation history, meta-knowledge, implicit knowledge, intricate logical constructs, and multi-dimensional constructs. The AI model generates responses considering the hyper-contextual elements of the conversation and navigating multiple conceptual spaces.
 
 </details>
