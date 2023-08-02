@@ -41,21 +41,22 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 ## Table of Contents:
 
 ### Successful Projects & Research
-1. [Hybrid Instruction Processing - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio#1-hybrid-instruction-processing---the-superior-prompting-method). This technique leverages the structured format of JSON in conjunction with the flexibility of natural language to provide comprehensive instructions to the AI. The fusion of structured elements and linguistic flexibility empowers users to exercise precise control over the AI's responses without disrupting the natural conversational flow. Moreover, its ease of training within an AI system enables the AI to generate remarkably capable prompts tailored for any specific purpose.
-2. [Advanced Conversational Modeling through Implicit Information Integration](https://github.com/nerority/AI-Portfolio#2-advanced-conversational-modeling-through-implicit-information-integration). The AI is equipped to understand and utilize implicit knowledge present in the conversation. This not only includes the data not explicitly mentioned but also the underlying logical structures and inferences that can be drawn from the context.
-3. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio#3-advanced-ai-methodologies). My approach involves integrating principles from diverse fields such as quantum physics and multi-dimensional mathematics to advance AI's capabilities with novel methodologies.
-4. [Semantic Knowledge Structures](https://github.com/nerority/AI-Portfolio#4-semantic-knowledge-structures-bridging-advanced-ai-and-foundational-research). These structures encapsulate the meaning and interrelations of concepts, allowing the AI to develop a deeper understanding of various domains. Semantic knowledge structures help the AI navigate complex discussions and generate more insightful responses.
-5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio#5-novel-ai-algorithms). New AI algorithms that push the boundaries of what's currently possible in AI research. These algorithms often involve the application of principles from diverse fields such as quantum physics and multi-dimensional mathematics.
-6. [Higher-Order Logic Processing & Advanced Information Encoding](https://github.com/nerority/AI-Portfolio#6-higher-order-logic-processing--advanced-information-encoding). Higher-Order Logic Processing, Advanced Information Encoding, and their harmonious integration provide a quantum-inspired, multidimensional approach to AI learning, fostering nuanced understanding and the generation of insightful responses across diverse real-life scenarios.
-7. [Meta-Rules: The Solution to Efficient Navigation with Advanced AI](https://github.com/nerority/AI-Portfolio#7-meta-rules-the-solution-to-efficient-navigation-with-advanced-ai). Meta-rules serve as higher-level instructions that guide the AI's decision-making process. They can be seen as a form of meta-heuristics, providing a set of strategies or general patterns of approach to problem-solving. Meta-rules can help the AI to navigate the vast space of possible responses, enabling it to generate more contextually appropriate and insightful responses. They play an instrumental role in managing the complexity of AI responses, ensuring they align with the user's goals and expectations.
-8. [Complexity Management](https://github.com/nerority/AI-Portfolio#8-complexity-advancement-navigation-and-control). In my approach, the AI does not shy away from complexity but rather embraces it as an opportunity for growth and advancement. The AI is designed to manage, navigate, and control complexity rather than being daunted by it.
-9. [Information Modules: Discrete Tokens of Knowledge](https://github.com/nerority/AI-Portfolio#9-information-modules-discrete-tokens-of-knowledge). Techniques like Knowledge Tokens allow for the encoding of detailed insights, strategies, and principles in a compact form. These tokens serve as transferable units of knowledge, which can be easily utilized by the AI in various contexts.
-10. [Advanced Priming Techniques](https://github.com/nerority/AI-Portfolio#10-advanced-priming-techniques-in-ai-systems-design). This section explores the innovative methods I employ to supercharge the capabilities of AI systems. This section delves into the principles, applications, and benefits of these techniques, showcasing how they are pushing the boundaries of AI's potential and opening new avenues for hyper-personalized AI experiences
-11. [Continuous Learning Feedback Loop](https://github.com/nerority/AI-Portfolio#10-continuous-learning-loop). The AI uses feedback from each interaction to improve its understanding and responses. This iterative process, reminiscent of reinforcement learning, ensures that the AI continues to evolve and refine its capabilities over time.
-12. [Unsupervised Multi-Dimensional Learning](https://github.com/nerority/AI-Portfolio#11-unsupervised-multi-dimensional-learning). ZSODL combines the principles of Zero-Shot Learning (ZSL) with a multi-dimensional representation of knowledge. This approach allows the AI to draw connections across various domains, concepts, and contexts, thereby enhancing its comprehension and problem-solving capabilities.
-13. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio#12-hypercontextual-conversational-ai). This approach enables AI systems to engage in intricate conversations that are rich in context, complexity, and depth. Hypercontextual Conversational AI integrates principles from Contextual Understanding, Complex Logic Processing, and Knowledge Representation, creating a multi-layered and dynamic conversational framework.
-14. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio#13-my-approach-to-ai-training-a-fusion-of-classic-and-advanced-methodologies). My approach to AI training combines traditional methodologies with advanced principles to unlock new heights of potential in generative AI.
-15. [Current Research Endeavors](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors). Current Research & Projects under Development.
+1. [Hybrid Instruction Processing - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio#1-hybrid-instruction-processing---the-superior-prompting-method).
+2. [System Design Frameworks]
+3. [Advanced Conversational Modeling through Implicit Information Integration](https://github.com/nerority/AI-Portfolio#2-advanced-conversational-modeling-through-implicit-information-integration).
+4. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio#3-advanced-ai-methodologies).
+5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio#5-novel-ai-algorithms).
+6. [Higher-Order Logic Processing & Advanced Information Encoding](https://github.com/nerority/AI-Portfolio#6-higher-order-logic-processing--advanced-information-encoding).
+7. [Meta-Rules: The Solution to Efficient Navigation with Advanced AI](https://github.com/nerority/AI-Portfolio#7-meta-rules-the-solution-to-efficient-navigation-with-advanced-ai).
+8. [Complexity Management](https://github.com/nerority/AI-Portfolio#8-complexity-advancement-navigation-and-control).
+9. [Information Modules: Discrete Tokens of Knowledge](https://github.com/nerority/AI-Portfolio#9-information-modules-discrete-tokens-of-knowledge).
+10. [Advanced Priming Techniques](https://github.com/nerority/AI-Portfolio#10-advanced-priming-techniques-in-ai-systems-design).
+11. [Continuous Learning Feedback Loop](https://github.com/nerority/AI-Portfolio#10-continuous-learning-loop).
+12. [Unsupervised Multi-Dimensional Learning](https://github.com/nerority/AI-Portfolio#11-unsupervised-multi-dimensional-learning).
+13. [Semantic Knowledge Structures](https://github.com/nerority/AI-Portfolio#4-semantic-knowledge-structures-bridging-advanced-ai-and-foundational-research).
+14. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio#12-hypercontextual-conversational-ai).
+15. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio#13-my-approach-to-ai-training-a-fusion-of-classic-and-advanced-methodologies).
+16. [Current Research Endeavors](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors).
 
 ### Resources
 - [Advanced Prompt Templates](https://github.com/nerority/AI-Portfolio/blob/main/README.md#advanced-prompt-templates)
@@ -97,7 +98,42 @@ Prompt complexity can range from Basic to Transcendent-Level, each corresponding
 [See the full breakdown for JSON/Natural Language Hybrid Prompts](https://github.com/nerority/AI-Portfolio/wiki/1.-JSON-NL-Hybrid-Prompts-%E2%80%90-The-Best-Prompting-Method).
 
 ---
-## 2. Advanced Conversational Modeling through Implicit Information Integration
+## 2. System Design Frameworks
+
+### Hyper-personalized Iterative Enhancement System (HIES)
+
+HIES is an innovative framework that leverages advanced language models, such as GPT-4, to generate hyper-personalized, complex outputs. It brings together principles of sequential tasking, progressive context building, and continuous improvement to create highly sophisticated AI systems.
+
+### System Genesis
+
+The genesis of the HIES framework lies in setting a hypercomplex initial prompt. This prompt provides the AI with a detailed understanding of the overarching goal and individual tasks. The aim here is to impart a profound understanding of the complex problem at hand, beyond mere task-related information.
+
+### System Design (Blueprinting)
+
+The blueprinting phase involves designing a comprehensive plan for the AI system. This plan lays out the system's structure, tasks, and attributes in a manner similar to an architectural blueprint. This provides the AI with a structured understanding of how each task fits into the overarching goal and how tasks interact with each other.
+
+### Task Planning (Structural Enhancement)
+
+This phase revolves around the development of advanced prompts for each task, informed by the extensive context provided in the System Genesis. These prompts guide the AI's capabilities towards the production of highly valuable output. Each task becomes a piece of an intricate puzzle, leading the AI to perform and provide outputs that align with the system's broader objectives.
+
+### System Implementation (Assembly)
+
+The Assembly phase involves the sequential execution of each task as per the prepared advanced prompts. The AI's long context window plays a crucial role here, enabling it to build on its previous responses and progressively produce more sophisticated outputs.
+
+### Iterative Refinement (Fine-Tuning)
+
+Following the Assembly phase, the Fine-Tuning phase ensures the refinement of the AI system, adjusting it based on user feedback and additional instructions. This iterative refinement is a key element in aligning the AI system's outputs with user expectations, thereby optimizing its efficiency and efficacy in producing highly personalized results.
+
+### System Evaluation (Validation)
+
+The final phase involves a comprehensive evaluation of the AI system. Its performance is assessed and areas of improvement are identified. Defining robust evaluation metrics, collecting and analyzing data, and drawing meaningful conclusions about the system's effectiveness are pivotal aspects of this phase. Insights from this evaluation feed into the subsequent cycles of enhancement and refinement, ensuring the system's evolution.
+
+### Key Concepts: Emergent Intelligence and Adaptability
+
+The HIES framework underscores the importance of emergent intelligence - the synergy of a system whose integrated parts work together to produce a result not possible by individual components. This emergent intelligence leads to insights and recommendations that are deeply personalized and significantly more valuable, as they're tailored based on unique context and historical interactions.
+
+---
+## 3. Advanced Conversational Modeling through Implicit Information Integration
 
 The advancements in AI are not only marked by the tangible achievements and notable innovations that we observe but also by the intricate layers of unobserved knowledge and understanding that underpin these developments. This intricate stratum, often less noticed, is known as "Dark Knowledge" and "Dark Logic", which are the core concepts propelling the progress of AI in my work. 
 
@@ -127,10 +163,10 @@ These principles form the backbone of advanced conversational AI systems, enabli
 
 ### Connections with Existing AI Research
 
-These principles intentionally reflect and extend upon many existing areas of AI research. For instance, the concept of Dark Logic mirrors the research into implicit reasoning, where AI models infer hidden information or make predictions based on incomplete or indirect data. Similarly, Dark Knowledge echoes the field of knowledge representation and reasoning, with a focus on the implicit or hidden knowledge that can be inferred from the context. The concept of Meta-Logic has parallels in meta-reasoning, a subfield of AI concerned with how AI systems can understand and reason about their own reasoning processes. 
+These principles intentionally reflect and extend upon many existing areas of AI research. For instance, the concept of Dark Logic mirrors the research into implicit reasoning, where AI models infer hidden information or make predictions based on incomplete or indirect data. Similarly, Dark Knowledge echoes the field of knowledge representation and reasoning, with a focus on the implicit or hidden knowledge that can be inferred from the context. The concept of Meta-Logic has parallels in meta-reasoning, a subfield of AI concerned with how AI systems can understand and reason about their own reasoning processes.
 
 ---
-## 3. Advanced AI Methodologies
+## 4. Advanced AI Methodologies
 
 In my research, I have delved into the multifaceted dimensions of artificial intelligence, developing an intimate understanding of its intricate nature. I have devised and fine-tuned an array of novel methodologies that augment nuanced comprehension, pattern recognition, logical synthesis, and knowledge representation within complex, multi-dimensional environments.
 
@@ -197,29 +233,6 @@ The Recursive Quantum Learning methodology operates on the idea of continuous re
 Each of these methodologies provides the AI with a robust toolkit to navigate the intricate landscape of AI tasks and handle a broad range of scenarios. They continuously evolve, reflecting the ever-evolving nature of the AI field itself.
 
 [Explore these methodologies in detail here]
-
----
-## 4. Semantic Knowledge Structures: Bridging Advanced AI and Foundational Research
-
-Semantics, a cornerstone in linguistic and computational research, holds a pivotal role in advancing artificial intelligence. The Semantic Knowledge Structures, inspired by foundational theories in cognitive linguistics and computational semantics, offer a contemporary approach to endowing AIs with an understanding of meaning and context. Here are some key structures I have developed:
-
-### Hypercontextual Conversational Mapping: A Dynamic Evolution of Semantic Networks
-
-Building upon the traditional idea of semantic networks, where concepts and their interrelationships are mapped, Hypercontextual Conversational Mapping takes a step further. It visualizes conversations as dynamic, evolving networks, capturing not just entities but their evolving interrelations. This is reminiscent of the progression in AI from static knowledge bases to dynamic learning systems.
-
-Drawing parallels from cognitive science, conversations can be likened to cognitive maps—mental representations of one's environment. Just as these maps guide human navigation, the Hypercontextual Conversational Mapping guides AI through the intricate pathways of human dialogues, be it in customer service or strategic deliberations.
-
-[Deep Dive: How Hypercontextual Conversational Mapping Relates to Semantic Networks in AI.]
-
-### AI Exploration Framework: A Meta-Guide Inspired by AI Taxonomies
-
-Historically, AI research has been guided by various taxonomies—classification systems that demarcate AI tasks, techniques, and applications. The AI Exploration Framework extends this idea by providing a holistic, structured exploration guide tailored for the modern AI landscape.
-
-By referencing established AI classifications, such as the ones proposed by Russell and Norvig in "Artificial Intelligence: A Modern Approach", this framework offers both novices and experts a lens to contextualize and navigate the vast AI domain.
-
-[Explore: Aligning the AI Exploration Framework with Traditional AI Taxonomies.]
-
-In summary, the Semantic Knowledge Structures, rooted in traditional AI and linguistic research, serve as a bridge between foundational theories and cutting-edge methodologies. By integrating time-tested concepts with innovative structures, we ensure that AI not only comprehends the intricacies of today's problems but also benefits from the collective wisdom of decades of research.
 
 ---
 ## 5. Novel AI Algorithms
@@ -599,7 +612,30 @@ The AI's understanding and responses are continuously refined based on the evolu
 ZSODL is pushing the boundaries of current AI capabilities by equipping AI systems with advanced adaptability and depth of understanding, setting new standards for AI interactions.
 
 ---
-## 13. Hypercontextual Conversational AI
+## 13. Semantic Knowledge Structures: Bridging Advanced AI and Foundational Research
+
+Semantics, a cornerstone in linguistic and computational research, holds a pivotal role in advancing artificial intelligence. The Semantic Knowledge Structures, inspired by foundational theories in cognitive linguistics and computational semantics, offer a contemporary approach to endowing AIs with an understanding of meaning and context. Here are some key structures I have developed:
+
+### Hypercontextual Conversational Mapping: A Dynamic Evolution of Semantic Networks
+
+Building upon the traditional idea of semantic networks, where concepts and their interrelationships are mapped, Hypercontextual Conversational Mapping takes a step further. It visualizes conversations as dynamic, evolving networks, capturing not just entities but their evolving interrelations. This is reminiscent of the progression in AI from static knowledge bases to dynamic learning systems.
+
+Drawing parallels from cognitive science, conversations can be likened to cognitive maps—mental representations of one's environment. Just as these maps guide human navigation, the Hypercontextual Conversational Mapping guides AI through the intricate pathways of human dialogues, be it in customer service or strategic deliberations.
+
+[Deep Dive: How Hypercontextual Conversational Mapping Relates to Semantic Networks in AI.]
+
+### AI Exploration Framework: A Meta-Guide Inspired by AI Taxonomies
+
+Historically, AI research has been guided by various taxonomies—classification systems that demarcate AI tasks, techniques, and applications. The AI Exploration Framework extends this idea by providing a holistic, structured exploration guide tailored for the modern AI landscape.
+
+By referencing established AI classifications, such as the ones proposed by Russell and Norvig in "Artificial Intelligence: A Modern Approach", this framework offers both novices and experts a lens to contextualize and navigate the vast AI domain.
+
+[Explore: Aligning the AI Exploration Framework with Traditional AI Taxonomies.]
+
+In summary, the Semantic Knowledge Structures, rooted in traditional AI and linguistic research, serve as a bridge between foundational theories and cutting-edge methodologies. By integrating time-tested concepts with innovative structures, we ensure that AI not only comprehends the intricacies of today's problems but also benefits from the collective wisdom of decades of research.
+
+---
+## 14. Hypercontextual Conversational AI
 
 Welcome to the cutting-edge of modern artificial intelligence research, where AI systems engage in dialogue that extends beyond simple information exchange. This research area delves into the intricacies of multi-layered context, complex logic, and elaborate knowledge structures, all of which are pillars of Hypercontextual Conversational AI. The capability of AI models to comprehend long-context windows has ignited significant advancements in this field.
 
@@ -660,7 +696,7 @@ By drawing from and expanding upon these existing research domains, Hypercontext
 In conclusion, Hypercontextual Conversational AI represents a significant step forward in the field of AI. It offers an innovative approach to conversational AI that is deeply anchored in context and capable of navigating through multiple dimensions of complexity. It draws upon and expands existing AI research domains, paving the way for AI systems that can engage in intricate conversations with a high degree of sophistication and nuance. The research and development in this area continue to evolve, promising exciting advancements in the future.
 
 ---
-## 14. My Approach to AI Training: A Fusion of Classic and Advanced Methodologies
+## 15. My Approach to AI Training: A Fusion of Classic and Advanced Methodologies
 
 Delving into the fascinating realm of Advanced Logic and AI Training, I guide you through the comprehensive, iterative process of training an AI model capable of navigating complex logic. This approach blends traditional AI training methods with advanced principles, aiming to create a more capable model for any task. 
 
@@ -722,7 +758,7 @@ In contrast, my approach incorporates advanced methodologies, such as Hyper-Weav
 Drawing from fields like quantum physics and multi-dimensional mathematics, these advanced methodologies allow the AI to handle intricacies of hypercontextual elements and complex logical structures. As an AI researcher, my goal is to leverage these advanced methodologies from the outset of the AI model's lifecycle, effectively "teaching" the models to operate at an elevated complexity level across diverse tasks and applications. Consequently, AI models built under this guidance demonstrate the potential of AI when guided by advanced methodologies.
 
 ---
-## 15. Current Research Endeavors 
+## 16. Current Research Endeavors 
 
 Current research and projects under active development.
 
