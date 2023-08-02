@@ -25,7 +25,9 @@ While the pursuit of user-friendly AI is commendable, it is crucial to recognize
 
 Software engineering prowess, while undeniably valuable, cannot independently match the potential of a meticulously primed AI system. The dynamics of AI capability and complexity demand not just the architecture of algorithms, but also the insightful crafting of prompts. And I can do both.
 
-Cheers
+Cheers and enjoy the portfolio,
+
+Devin
 
 ---
 ## Introducing Hyper-Dimensional Conversational AI Architecture
