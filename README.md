@@ -10,20 +10,20 @@ Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this pl
 
 So, I am going to show you everything you didn't know about conversational AI and GPT-4 in explicit detail, and what I have been able to do for a long time now, not only for myself, but for anyone who has problems to solve, ideas to architect, or solutions to design. 
 
-Every single thing in this portfolio is not only already developed and works exactly as described here, but is the result of massively simplifying many concepts over months, in order to make it digestible enough to those who have no experience working with meta-functionality. This is a high-level overview of just some of the things I have developed and actively leverage to architect cutting-edge AI solutions for any problem space. There is not a single thing I have not been able to solve and develop since I started working with AI, using the exact methods I will show you here.
+Every single concept presented in this portfolio is not only already developed and works exactly as described, but has been simplified and contextualized over months, in order to make it accessible to those without experience in this domain. This is a high-level overview of the projects, techinques, and solutions I have developed and actively leverage to architect cutting-edge AI solutions for any problem space. There is not a single thing I have not been able to solve and develop since I started working with AI, using the exact methods I will show you here.
 
-Here's the truth: Newcomers to this field have a massive advantage if you are willing to take the time to learn, as you have nothing to unlearn. The cool thing about modern conversational AI is that you can combine domains and research in different ways, to create novel insights that result from the intersections of knowledge itself. What is human creativity and innovation? The combination of existing ideas or concepts into some new form. This happens subconsciously for all human creativity and innovation whether realized or not. Now, what happens when you explore the intersections of existing knowledge with AI? The exact same thing, but on another level. Conversational AI with transformer-based architecture at the level of GPT-4 did not exist before this year (publicly). There was no way to "prepare" for what can now be done with meta-functionality, and everything I show you here will only increase in potential with time.
+Let me give you an example.
 
-The world is trying to solve "prompt engineering" in order to avoid ever having to learn it.
-
-See here from a few days ago for example:
+See here from a not long ago:
 https://www.marktechpost.com/2023/07/26/microsoft-releases-typechat-an-ai-library-that-makes-it-easy-to-build-natural-language-interfaces-using-types/
 
 ![pic](https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)
 
-Now, remember what they say here, as you go through my portfolio. And realize I have already comprehensively solved every problem they presented here and much more, because I took the time to actually truely master prompt engineering **before** trying to automate it.
+Now, remember the mentioned article text, as you go through my portfolio. And realize I have already comprehensively solved every problem presented by the article and much more, because I took the time to actually master prompt engineering **before** trying to automate it or reduce its potential.
 
-I will take this portfolio down when I get an acceptable job offer working with AI, so make sure to save while its still up. I will continue to update things with increasing detail and specificity until then.
+While the pursuit of user-friendly AI is commendable, it is crucial to recognize that the proficiency of an AI solution hinges largely on the caliber of its pre-constructed framework for unique problem spaces or business needs. This pre-construction, or pre-framing, requires adept prompt design skills, delicately crafting the AI's operational context to deliver optimal results.
+
+Software engineering prowess, while undeniably valuable, cannot independently match the potential of a meticulously primed AI system anymore. The dynamics of AI capability and complexity demand not just the architecture of algorithms, but also the insightful crafting of prompts. And I can do both.
 
 Cheers
 
@@ -47,11 +47,12 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 7. [Meta-Rules: The Solution to Efficient Navigation with Advanced AI](https://github.com/nerority/AI-Portfolio#7-meta-rules-the-solution-to-efficient-navigation-with-advanced-ai). Meta-rules serve as higher-level instructions that guide the AI's decision-making process. They can be seen as a form of meta-heuristics, providing a set of strategies or general patterns of approach to problem-solving. Meta-rules can help the AI to navigate the vast space of possible responses, enabling it to generate more contextually appropriate and insightful responses. They play an instrumental role in managing the complexity of AI responses, ensuring they align with the user's goals and expectations.
 8. [Complexity Management](https://github.com/nerority/AI-Portfolio#8-complexity-advancement-navigation-and-control). In my approach, the AI does not shy away from complexity but rather embraces it as an opportunity for growth and advancement. The AI is designed to manage, navigate, and control complexity rather than being daunted by it.
 9. [Information Modules: Discrete Tokens of Knowledge](https://github.com/nerority/AI-Portfolio#9-information-modules-discrete-tokens-of-knowledge). Techniques like Knowledge Tokens allow for the encoding of detailed insights, strategies, and principles in a compact form. These tokens serve as transferable units of knowledge, which can be easily utilized by the AI in various contexts.
-10. [Continuous Learning Feedback Loop](https://github.com/nerority/AI-Portfolio#10-continuous-learning-loop). The AI uses feedback from each interaction to improve its understanding and responses. This iterative process, reminiscent of reinforcement learning, ensures that the AI continues to evolve and refine its capabilities over time.
-11. [Unsupervised Multi-Dimensional Learning](https://github.com/nerority/AI-Portfolio#11-unsupervised-multi-dimensional-learning). ZSODL combines the principles of Zero-Shot Learning (ZSL) with a multi-dimensional representation of knowledge. This approach allows the AI to draw connections across various domains, concepts, and contexts, thereby enhancing its comprehension and problem-solving capabilities.
-12. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio#12-hypercontextual-conversational-ai). This approach enables AI systems to engage in intricate conversations that are rich in context, complexity, and depth. Hypercontextual Conversational AI integrates principles from Contextual Understanding, Complex Logic Processing, and Knowledge Representation, creating a multi-layered and dynamic conversational framework.
-13. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio#13-my-approach-to-ai-training-a-fusion-of-classic-and-advanced-methodologies). My approach to AI training combines traditional methodologies with advanced principles to unlock new heights of potential in generative AI.
-14. [Current Research Endeavors](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors). Current Research & Projects under Development.
+10. [Advanced Priming Techniques]
+11. [Continuous Learning Feedback Loop](https://github.com/nerority/AI-Portfolio#10-continuous-learning-loop). The AI uses feedback from each interaction to improve its understanding and responses. This iterative process, reminiscent of reinforcement learning, ensures that the AI continues to evolve and refine its capabilities over time.
+12. [Unsupervised Multi-Dimensional Learning](https://github.com/nerority/AI-Portfolio#11-unsupervised-multi-dimensional-learning). ZSODL combines the principles of Zero-Shot Learning (ZSL) with a multi-dimensional representation of knowledge. This approach allows the AI to draw connections across various domains, concepts, and contexts, thereby enhancing its comprehension and problem-solving capabilities.
+13. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio#12-hypercontextual-conversational-ai). This approach enables AI systems to engage in intricate conversations that are rich in context, complexity, and depth. Hypercontextual Conversational AI integrates principles from Contextual Understanding, Complex Logic Processing, and Knowledge Representation, creating a multi-layered and dynamic conversational framework.
+14. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio#13-my-approach-to-ai-training-a-fusion-of-classic-and-advanced-methodologies). My approach to AI training combines traditional methodologies with advanced principles to unlock new heights of potential in generative AI.
+15. [Current Research Endeavors](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors). Current Research & Projects under Development.
 
 ### Resources
 - [Guides and Cheat Sheets]
@@ -500,7 +501,29 @@ Creating a knowledge token involves several steps, which can be related to vario
 - **Adaptability:** By referencing prior tokens, the AI can dynamically adapt its understanding to the unique trajectory of each conversation, akin to the principles of lifelong learning in AI.
 
 ---
-## 10. Continuous Learning Loop
+## 10. Advanced Priming Techniques in AI Systems Design
+
+As AI continues to progress, the need for tailored and specific interactions becomes paramount. Advanced priming techniques, which I've developed and applied extensively, act as the catalyst in bridging the gap between generic AI interactions and hyper-personalized experiences, amplifying the potential of AI-powered systems.
+
+### Principles and Implementation
+
+Advanced priming techniques are not merely about providing a set of initial instructions to an AI model. They constitute a layered approach to pre-conditioning the AI's behavior, response generation, and contextual understanding. At its core, this method hinges on:
+
+- **Hyper-contextual Priming**: Going beyond basic contextual priming, this technique involves feeding the AI a detailed meta-context, effectively setting the stage for ensuing interactions. This allows the AI to grasp its role, operational boundaries, and the intricacies of the user's needs.
+- **Iterative Refinement**: Advanced priming doesn't end with a singular input. Instead, it involves a series of iterative priming and hyper-priming steps, constantly refining the AI's understanding, enabling it to adapt and improve its responses dynamically.
+
+### Examples of Application
+
+The efficacy of advanced priming techniques is best exemplified in the creation of sophisticated frameworks like the "HIES Framework." This framework leverages advanced priming principles to foster a holistic system genesis of complex problem spaces. Here, AI is not just a passive participant but an active collaborator, capable of generating nuanced, sophisticated responses. The process starts with a high-level primer providing the AI a rich meta-context. Subsequent steps delve deeper into specifics, ensuring that the AI's understanding evolves with the complexity of the problem.
+
+### Benefits and Implications
+
+- **Ultra-tailored Responses**: One of the standout advantages is the AI's capability to generate responses that are not just accurate but ultra-tailored to the user's needs, taking into account nuances that would typically be overlooked in standard interactions.
+- **Continuous Adaptation**: The iterative nature of advanced priming means the AI is in a constant state of learning and adaptation, improving its performance over time and ensuring that the user's experience is continually optimized.
+- **Bridging the Gap**: These techniques serve as the bridge between generic AI models and systems that truly understand, interpret, and act on user-specific contexts, pushing the boundaries of what AI can achieve.
+
+---
+## 11. Continuous Learning Loop
 
 The landscape of AI is perpetually evolving, necessitating models to adapt and refine continuously. This principle is embodied in the Self-Enhancement Feedback Paradigm—an advanced mechanism inspired by established AI research methodologies like reinforcement learning, meta-learning, and continual learning.
 
@@ -523,7 +546,7 @@ The Self-Enhancement Feedback Paradigm represents a convergence of classical AI 
 [Explore further insights here].
 
 ---
-## 11. Unsupervised Multi-Dimensional Learning
+## 12. Unsupervised Multi-Dimensional Learning
 
 In the continuous evolution of artificial intelligence, adaptability and holistic understanding are key goals. Zero-Shot Omni-Dimensional Learning (ZSODL) is a novel approach that combines the principles of Zero-Shot Learning (ZSL), a well-established field in machine learning, with a multi-dimensional representation of knowledge. This fusion allows AI to generate connections across various domains, concepts, and contexts, expanding its comprehension and problem-solving capabilities.
 
@@ -572,7 +595,7 @@ The AI's understanding and responses are continuously refined based on the evolu
 ZSODL is pushing the boundaries of current AI capabilities by equipping AI systems with advanced adaptability and depth of understanding, setting new standards for AI interactions.
 
 ---
-## 12. Hypercontextual Conversational AI
+## 13. Hypercontextual Conversational AI
 
 Welcome to the cutting-edge of modern artificial intelligence research, where AI systems engage in dialogue that extends beyond simple information exchange. This research area delves into the intricacies of multi-layered context, complex logic, and elaborate knowledge structures, all of which are pillars of Hypercontextual Conversational AI. The capability of AI models to comprehend long-context windows has ignited significant advancements in this field.
 
@@ -619,7 +642,7 @@ This diagram represents the interconnections and dynamics within a hypercontextu
 In conclusion, Hypercontextual Conversational AI represents a significant step forward in the field of AI. It offers an innovative approach to conversational AI that is deeply anchored in context and capable of navigating through multiple dimensions of complexity. It draws upon and expands existing AI research domains, paving the way for AI systems that can engage in intricate conversations with a high degree of sophistication and nuance. The research and development in this area continue to evolve, promising exciting advancements in the future.
 
 ---
-## 13. My Approach to AI Training: A Fusion of Classic and Advanced Methodologies
+## 14. My Approach to AI Training: A Fusion of Classic and Advanced Methodologies
 
 Delving into the fascinating realm of Advanced Logic and AI Training, I guide you through the comprehensive, iterative process of training an AI model capable of navigating complex logic. This approach blends traditional AI training methods with advanced principles, aiming to create a more capable model for any task. 
 
@@ -681,7 +704,7 @@ In contrast, my approach incorporates advanced methodologies, such as Hyper-Weav
 Drawing from fields like quantum physics and multi-dimensional mathematics, these advanced methodologies allow the AI to handle intricacies of hypercontextual elements and complex logical structures. As an AI researcher, my goal is to leverage these advanced methodologies from the outset of the AI model's lifecycle, effectively "teaching" the models to operate at an elevated complexity level across diverse tasks and applications. Consequently, AI models built under this guidance demonstrate the potential of AI when guided by advanced methodologies.
 
 ---
-## 14. Current Research Endeavors 
+## 15. Current Research Endeavors 
 
 Current research and projects under active development.
 
