@@ -39,7 +39,8 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 </p>
 
 ## Table of Contents:
-### Completed Projects & Research
+
+### Successful Projects & Research
 1. [Hybrid Instruction Processing - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio#1-hybrid-instruction-processing---the-superior-prompting-method). This technique leverages the structured format of JSON in conjunction with the flexibility of natural language to provide comprehensive instructions to the AI. The fusion of structured elements and linguistic flexibility empowers users to exercise precise control over the AI's responses without disrupting the natural conversational flow. Moreover, its ease of training within an AI system enables the AI to generate remarkably capable prompts tailored for any specific purpose.
 2. [Advanced Conversational Modeling through Implicit Information Integration](https://github.com/nerority/AI-Portfolio#2-advanced-conversational-modeling-through-implicit-information-integration). The AI is equipped to understand and utilize implicit knowledge present in the conversation. This not only includes the data not explicitly mentioned but also the underlying logical structures and inferences that can be drawn from the context.
 3. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio#3-advanced-ai-methodologies). My approach involves integrating principles from diverse fields such as quantum physics and multi-dimensional mathematics to advance AI's capabilities with novel methodologies.
@@ -57,8 +58,9 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 15. [Current Research Endeavors](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors). Current Research & Projects under Development.
 
 ### Resources
-- [Guides and Cheat Sheets]
-- [Advanced Prompts]
+- [Advanced Prompt Templates](https://github.com/nerority/AI-Portfolio/blob/main/README.md#advanced-prompt-templates).
+- [Cheat Sheets](https://github.com/nerority/AI-Portfolio/blob/main/README.md#cheat-sheets)
+- [Guides](https://github.com/nerority/AI-Portfolio/blob/main/README.md#guides)
 
 ---
 # Successful Projects & Research
