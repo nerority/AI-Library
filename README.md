@@ -6,9 +6,9 @@
 
 **Contact**: devinpellegrino@gmail.com
 
-Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am tired of my skill working with AI not being taken seriously because I don't have "15 years of experience working with AI/ML".
+Hi, my name is Devin. I am one of the most knowledgeable AI Engineers on this planet currently without an NDA. And I am tired of my skill in working with AI not being taken seriously because I don't have "15 years of experience working with AI/ML". Forgive my directness, but this needs to be put in the past, once and for all.
 
-So, I am going to show you everything you didn't know about advanced AI and GPT-4 in explicit detail, and what I have been able to do for a long time now, not only for myself, but for anyone who has problems to solve, ideas to design, or solutions to build.
+So, I am going to show you everything you didn't know about working with modern AI and GPT-4 in explicit detail, and what I have been able to do for a while now, not only for myself, but for anyone who has problems to solve, ideas to design, or solutions to build.
 
 Every single concept presented in this portfolio is not only already fully developed and works exactly as described, but has been simplified and contextualized over months, in order to make it accessible to those without experience in this domain. This is a high-level overview of the projects, techniques, and solutions I have developed and actively leverage to architect cutting-edge AI solutions for any problem space. There is not a single thing I have not been able to solve and develop since I started working with AI, using the exact methods I will show you here.
 
