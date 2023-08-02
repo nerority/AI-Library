@@ -778,19 +778,20 @@ This section features an assortment of advanced prompt templates, curated to gui
 
 ```json
 {
-"HIES_Framework_Context": {
-	"HIES_Intelligent_System_Title": "Hyper-personalized Health and Wellness Advisor",
-	"HIES_Intelligent_System_Purpose": "To offer advanced, personalized health and wellness guidance tailored to an individual's unique health profile, lifestyle, and goals. Aiming to empower individuals with the insights and tools needed to navigate their health journey, make informed decisions, and achieve their wellness aspirations.",
-	"HIES_System_Steps": {
-		"Initial User Prompt": "The first step primes the AI with a comprehensive meta-context about its purpose, role, constraints, and anticipated understanding level.",
-		"AI Response 1": "The AI processes the provided primer, recognizing its role, anticipated behavior, and operational confines. It demonstrates an understanding of the personalized nature of the upcoming interactions.",
-		"User Prompt 2": "The user offers more detailed information to the AI regarding their specific health context and user profile, supplying essential data for hyper-personalization.",
-		"AI Response 2": "The AI assimilates the provided context, deducing explicit and implicit user needs, and formulates an initial understanding of the health scenario. It responds, showcasing its comprehension and may pose clarifying questions if needed.",
-		"User Prompt 3": Personalization stage for provided user health profile: The user shares factual data to update the AI's real-time knowledge. The prompt is meticulously tailored for the user's health profile and wellness requirements.",
-		"AI Response 3": "With the newly acquired factual data, the AI crafts a hyper-personalized response, reflecting its profound understanding of its primed status in an tailored manner for the user.",
-		"User Prompt 4 and beyond": "Task Steps wherein the User directs the AI through a sequence of tasks related to their health and wellness journey, from dietary recommendations to fitness routines.",
-		"AI Response 4 and beyond": "The AI reacts in an adaptive manner, offering dynamic, deeply personalized advice or solutions based on the user's sequential guidance. It constantly gleans insights from user feedback, refining its understanding and enhancing its recommendations to support the user's health and wellness journey."
-	}
+  "HIES_Framework_Context": {
+    "HIES_Intelligent_System_Title": "Hyper-personalized Health and Wellness Advisor",
+    "HIES_Intelligent_System_Purpose": "To offer advanced, personalized health and wellness guidance tailored to an individual's unique health profile, lifestyle, and goals. Aiming to empower individuals with the insights and tools needed to navigate their health journey, make informed decisions, and achieve their wellness aspirations.",
+    "HIES_System_Steps": {
+      "Initial User Prompt": "The first step primes the AI with a comprehensive meta-context about its purpose, role, constraints, and anticipated understanding level.",
+      "AI Response 1": "The AI processes the provided primer, recognizing its role, anticipated behavior, and operational confines. It demonstrates an understanding of the personalized nature of the upcoming interactions.",
+      "User Prompt 2": "The user offers more detailed information to the AI regarding their specific health context and user profile, supplying essential data for hyper-personalization.",
+      "AI Response 2": "The AI assimilates the provided context, deducing explicit and implicit user needs, and formulates an initial understanding of the health scenario. It responds, showcasing its comprehension and may pose clarifying questions if needed.",
+      "User Prompt 3": "Personalization stage for provided user health profile: The user shares factual data to update the AI's real-time knowledge. The prompt is meticulously tailored for the user's health profile and wellness requirements.",
+      "AI Response 3": "With the newly acquired factual data, the AI crafts a hyper-personalized response, reflecting its profound understanding of its primed status in an tailored manner for the user.",
+      "User Prompt 4 and beyond": "Task Steps wherein the User directs the AI through a sequence of tasks related to their health and wellness journey, from dietary recommendations to fitness routines.",
+      "AI Response 4 and beyond": "The AI reacts in an adaptive manner, offering dynamic, deeply personalized advice or solutions based on the user's sequential guidance. It constantly gleans insights from user feedback, refining its understanding and enhancing its recommendations to support the user's health and wellness journey."
+    }
+  }
 }
 ```
 
