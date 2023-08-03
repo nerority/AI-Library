@@ -29,7 +29,7 @@ The culmination of the information presented in this portfolio? Intelligent syst
 Cheers - Devin
 
 ---
-## Introducing the Hyper-Dimensional Conversational AI Architecture: Unleashing the Power of AI
+## Introducing the High-Dimensional Conversational AI Architecture:
 
 Welcome to my portfolio - a testament to the power of AI and my relentless pursuit to unravel its potential. This portfolio maps my journey in the realm of AI, where I delve into the complexities of semantic knowledge architectures, sophisticated AI modeling techniques, intricate problem-solving algorithms, and advanced system design frameworks. Here, I unveil the secrets of AI, as we traverse the hyper-dimensional landscape of advanced problem-solving.
 
