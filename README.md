@@ -250,9 +250,7 @@ This level requires the AI to infer user intent from the current context, prior 
     },
     {
       "role": "user",
-      "content": "
-
-The theme is 'The Impact of AI on Society'."
+      "content": "The theme is 'The Impact of AI on Society'."
     },
     {
       "role": "system",
