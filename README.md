@@ -1,40 +1,37 @@
 # AI Portfolio & Technical Showcase
 
-**Devin Pellegrino** | **AI Architect** | **Updated**: 08.01.23 (under dev)
+**Devin Pellegrino** | **AI Architect** | **Updated**: 08.03.23 (under dev)
 
-*AI System Architecture, Solution Design, Strategic Consulting, & Research*
+*Engineering Design, AI System Architecture, Solution Design, Strategic Consulting, & Research*
 
 **Contact**: devinpellegrino@gmail.com
 
-Hi, my name is Devin. I am currently one of the most capable AI Engineers on this planet without an NDA, and my expertise is unparalleled in the current landscape. Despite this, I am tired of constantly having my skills dismissed and time wasted due to not having the "15 years of experience in AI/ML" plaguing the market right now. Forgive my directness, but I intend to dismantle this absurd notion once and for all.
+Hi, my name is Devin. I am a mechanical engineer from Georgia Tech who has dedicated his career to developing innovative solutions across diverse fields. While the mainstream narrative views AI as merely a tool for automation or streamlining processes, my approach harnesses AI to tackle intricate and seemingly insurmountable challenges.
 
-To do this, I am going to show you everything you didn't know about modern AI and GPT-4 in explicit detail, and what I have been able to do for a while now. Not just for myself, but for anyone who has problems to solve, ideas to design, or solutions to build.
+My specialty lies in leveraging AI for complex problem-solving and creating customized solutions for a wide array of problem domains. While many professionals focus on developing AI for specific applications, my approach is distinct. Over the past year, I have embarked on a journey to master and innovate a unique set of techniques, frameworks, and methodologies. This intensive endeavor, driven by the goal of crafting optimal solutions, has empowered me to address any challenge, regardless of its domain or complexity.
 
-Every single concept presented in this portfolio is not only already fully developed and works exactly as described, but has been simplified and contextualized over months, in order to make it accessible to those without experience in this domain. This is a high-level overview of the research, projects, and methods I have developed and actively leverage to architect cutting-edge AI solutions for any problem space. There is not a single thing I have not been able to solve and develop since I started working with AI, using the exact methods I will show you here.
+My work pushes AI boundaries, but with a unique twist. Rather than merely focusing on advanced computation or data processing, my work is about engineering design. I aim to reshape how we perceive and interact with AI, transforming it from a simple tool to a robust and versatile companion in our quest to decipher and navigate complex problems.
 
-Let me give you a quick example.
+Each entry in this portfolio is not only fully developed and functional as described, but has also been simplified and contextualized over months to make it accessible even to those with little experience in this domain. This portfolio provides a high-level overview of the research, projects, and methods I have developed and actively use to architect state-of-the-art AI solutions for any problem space. Since I started working with AI, I have been able to solve and develop a solution for every challenge I have encountered using the exact methods showcased here.
 
-See here from not long ago:
-https://www.marktechpost.com/2023/07/26/microsoft-releases-typechat-an-ai-library-that-makes-it-easy-to-build-natural-language-interfaces-using-types/
+To illustrate, let's look at a recent example: [Microsoft's TypeChat AI Library](https://www.marktechpost.com/2023/07/26/microsoft-releases-typechat-an-ai-library-that-makes-it-easy-to-build-natural-language-interfaces-using-types/).
 
-![pic](https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)
+![Microsoft's TypeChat AI Library](https://github.com/nerority/AI-Portfolio/assets/80237923/9907f63d-b880-4b8a-bdb1-1c4a9c643972)
 
-Now as you review my portfolio, keep in mind the previously mentioned article text. As I have comprehensively solved every problem presented in the displayed text and have gone beyond by mastering prompt engineering before attempting to automate or limit its potential. While the creators of this natural language interface have a commendable approach to making prompt engineering more accessible, I have already accomplished a comprehensive solution that is more holistic, capable, and accessible to the average person. In fact, the solution I speak of is the very first technique I discovered in my journey to master AI, and is the first showcase in this portfolio below.
+As you browse my portfolio, bear in mind the article linked above. I have comprehensively solved every problem outlined in the article, and through mastering 'schema engineering', I have gone beyond simply automating or limiting its potential. The creators of this natural language interface have a commendable approach to making prompt engineering more accessible. Still, I have already developed a comprehensive, holistic, and accessible solution for the average person. This solution is, in fact, the first technique I discovered in my AI mastery journey and the first showcase in this portfolio.
 
-While the pursuit of user-friendly AI is commendable, it is crucial to recognize that the proficiency of an AI solution hinges largely on the caliber of its pre-constructed framework for its unique problem space or business needs. This pre-construction, or pre-framing, requires adept prompt design skills, delicately crafting the AI's operational context to deliver optimal results. The desire for Prompt Engineering (PE) to disappear is equivalent to the aspiration for achieving full Artificial General Intelligence (AGI). Only by attaining AGI can we surpass the need for PE without compromising the potential of the AI solution.
+While efforts to make AI user-friendly are laudable, it is essential to remember that the proficiency of an AI solution is largely dependent on its pre-constructed framework, tailored to its unique problem space or business needs. This pre-construction, or pre-framing, requires adept prompt design skills, delicately crafting the AI's operational context to deliver optimal results. The desire for Prompt Engineering (PE) to disappear is equivalent to the aspiration for achieving full Artificial General Intelligence (AGI). Only by attaining AGI can we surpass the need for PE without compromising the potential of the AI solution.
 
-Software engineering prowess, while undeniably valuable, cannot independently match the potential of a meticulously primed AI system. The dynamics of AI capability and complexity demand not just the architecture of algorithms, but also the insightful crafting of prompts. And I can do both.
+Software engineering prowess, while undeniably valuable, cannot independently match the potential of a meticulously primed AI system. The dynamics of AI capability and complexity demand not just the architecture of algorithms, but also the insightful crafting of prompts. I am adept at both.
 
-Enjoy the portfolio.
+The culmination of the information presented in this portfolio? Intelligent systems for any problem space, crafted with the perfect blend of engineering design and AI mastery.
 
-Cheers
-
-Devin
+Cheers - Devin
 
 ---
-## Introducing Hyper-Dimensional Conversational AI Architecture
+## Introducing the Hyper-Dimensional Conversational AI Architecture: Unleashing the Power of AI
 
-Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. Here, I present my explorations in the realms of intricate semantic knowledge architectures, sophisticated AI modeling techniques, complex problem-solving algorithms, and advanced system design frameworks. This is the crossroads where AI transcends the bounds of traditional paradigms and delves into hyper-dimensional complexity.
+Welcome to my portfolio - a testament to the power of AI and my relentless pursuit to unravel its potential. This portfolio maps my journey in the realm of AI, where I delve into the complexities of semantic knowledge architectures, sophisticated AI modeling techniques, intricate problem-solving algorithms, and advanced system design frameworks. Here, I unveil the secrets of AI, as we traverse the hyper-dimensional landscape of advanced problem-solving.
 
 <p align="center">
   <img width="500" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
@@ -43,27 +40,35 @@ Welcome to my portfolio, a showcase of cutting-edge AI research and innovation. 
 ## Table of Contents:
 
 ### Successful Projects & Research
-1. [Hybrid Instruction Processing - The Superior Prompting Method](https://github.com/nerority/AI-Portfolio#1-hybrid-instruction-processing---the-superior-prompting-method).
-2. [System Design Frameworks](https://github.com/nerority/AI-Portfolio/blob/main/README.md#2-system-design-frameworks)
-3. [Advanced Conversational Modeling through Implicit Information Integration](https://github.com/nerority/AI-Portfolio#2-advanced-conversational-modeling-through-implicit-information-integration).
-4. [Advanced AI Methodologies](https://github.com/nerority/AI-Portfolio#3-advanced-ai-methodologies).
-5. [Novel AI Algorithms](https://github.com/nerority/AI-Portfolio#5-novel-ai-algorithms).
-6. [Higher-Order Logic Processing & Advanced Information Encoding](https://github.com/nerority/AI-Portfolio#6-higher-order-logic-processing--advanced-information-encoding).
-7. [Meta-Rules: The Solution to Efficient Navigation with Advanced AI](https://github.com/nerority/AI-Portfolio#7-meta-rules-the-solution-to-efficient-navigation-with-advanced-ai).
-8. [Complexity Management](https://github.com/nerority/AI-Portfolio#8-complexity-advancement-navigation-and-control).
-9. [Information Modules: Discrete Tokens of Knowledge](https://github.com/nerority/AI-Portfolio#9-information-modules-discrete-tokens-of-knowledge).
-10. [Advanced Priming Techniques](https://github.com/nerority/AI-Portfolio#10-advanced-priming-techniques-in-ai-systems-design).
-11. [Continuous Learning Feedback Loop](https://github.com/nerority/AI-Portfolio#10-continuous-learning-loop).
-12. [Unsupervised Multi-Dimensional Learning](https://github.com/nerority/AI-Portfolio#11-unsupervised-multi-dimensional-learning).
-13. [Semantic Knowledge Structures](https://github.com/nerority/AI-Portfolio#4-semantic-knowledge-structures-bridging-advanced-ai-and-foundational-research).
-14. [Hypercontextual Conversational AI](https://github.com/nerority/AI-Portfolio#12-hypercontextual-conversational-ai).
-15. [My Approach to AI Training](https://github.com/nerority/AI-Portfolio#13-my-approach-to-ai-training-a-fusion-of-classic-and-advanced-methodologies).
-16. [Current Research Endeavors](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors).
+1. [Hybrid Instruction Processing: Reinventing AI Interaction](https://github.com/nerority/AI-Portfolio#1-hybrid-instruction-processing---the-superior-prompting-method)
+2. [System Design Frameworks: Crafting an AI Blueprint](https://github.com/nerority/AI-Portfolio/blob/main/README.md#2-system-design-frameworks)
+3. [Conversational Modeling: Harnessing Hidden Information](https://github.com/nerority/AI-Portfolio#2-advanced-conversational-modeling-through-implicit-information-integration)
+4. [AI Methodologies: A New Era of Intelligence](https://github.com/nerority/AI-Portfolio#3-advanced-ai-methodologies)
+5. [AI Algorithms: Powering Tomorrow's Solutions](https://github.com/nerority/AI-Portfolio#5-novel-ai-algorithms)
+6. [Logic Processing & Information Encoding: AI's Brainwork](https://github.com/nerority/AI-Portfolio#6-higher-order-logic-processing--advanced-information-encoding)
+7. [Meta-Rules: Navigating with Advanced AI](https://github.com/nerority/AI-Portfolio#7-meta-rules-the-solution-to-efficient-navigation-with-advanced-ai)
+8. [Complexity Management: Steering Through Chaos](https://github.com/nerority/AI-Portfolio#8-complexity-advancement-navigation-and-control)
+9. [Information Modules: Building Blocks of Knowledge](https://github.com/nerority/AI-Portfolio#9-information-modules-discrete-tokens-of-knowledge)
+10. [Priming Techniques: Setting the Stage for AI](https://github.com/nerority/AI-Portfolio#10-advanced-priming-techniques-in-ai-systems-design)
+11. [The Learning Loop: AI's Evolution](https://github.com/nerority/AI-Portfolio#10-continuous-learning-loop)
+12. [Unsupervised Learning: AI's Independent Study](https://github.com/nerority/AI-Portfolio#11-unsupervised-multi-dimensional-learning)
+13. [Semantic Structures: Bridging AI and Research](https://github.com/nerority/AI-Portfolio#4-semantic-knowledge-structures-bridging-advanced-ai-and-foundational-research)
+14. [Hypercontextual AI: A Conversation Revolution](https://github.com/nerority/AI-Portfolio#12-hypercontextual-conversational-ai)
+15. [My Training Approach: Merging Classic and Advanced Methodologies](https://github.com/nerority/AI-Portfolio#13-my-approach-to-ai-training-a-fusion-of-classic-and-advanced-methodologies)
+16. [Current Research Endeavors: A Glimpse into the Future](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors)
 
 ### Resources
-- [Advanced Prompt Templates](https://github.com/nerority/AI-Portfolio/blob/main/README.md#advanced-prompt-templates)
-- [Cheat Sheets](https://github.com/nerority/AI-Portfolio/blob/main/README.md#cheat-sheets)
-- [Guides](https://github.com/nerority/AI-Portfolio/blob/main/README.md#guides)
+- [Prompt Templates: Your AI Assistant](https://github.com/nerority/AI-Portfolio/blob/main/README.md#advanced-prompt-templates)
+- [Cheat Sheets: Your AI Handbook](https://github.com/nerority/AI-Portfolio/blob/main/README.md#cheat-sheets)
+- [Guides: Your Path to Mastering AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#guides)
+
+Throughout this portfolio, you'll find an array of meticulously designed and fully developed projects, each fulfilling a specific role in the grand tapestry of AI. The solutions encapsulated in this portfolio are not merely theoretical propositions; they are fully functional, tested, and vetted. They represent the culmination of countless hours of exploration, research, and refinement, all aimed at pushing the boundaries of what's possible with AI.
+
+Each solution has been crafted not only to perform its intended function but also to be understood and accessible to anyone, regardless of their background in AI. I believe that democratizing AI's potential is as important as developing it. Hence, each entry has been simplified and contextualized, allowing even those with little or no prior experience in AI to grasp its intricacies and appreciate its power.
+
+AI is an immensely powerful tool, but like all tools, its effectiveness lies in its application. The solutions in this portfolio underscore the importance of deftly applying AI in various contexts, whether by creating intricate semantic architectures to extract nuanced insights from data, developing novel algorithms to solve complex problems, or designing systems that evolve and learn from their experiences.
+
+So, whether you're an AI enthusiast keen on understanding the latest developments in the field, a professional exploring novel applications of AI, or a curious mind eager to understand what AI is capable of, this portfolio is for you. Join me on this journey as we unravel the power of AI together.
 
 ---
 # Successful Projects & Research
