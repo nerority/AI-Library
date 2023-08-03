@@ -75,10 +75,6 @@ So, whether you're an AI enthusiast keen on understanding the latest development
 
 Dive into the intricate world of Hybrid Instruction Processing, a novel approach that is set to redefine our interaction with AI. This method, which I developed over half a year ago, seamlessly marries the structural precision of JSON with the versatility of natural language. The result? An unprecedented level of control and sophistication in instructing AI models.
 
-<p align="center">
-  <img width="500" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
-</p>
-
 ## A Revolutionary Approach to AI Instruction
 
 Hybrid Instruction Processing stands as a testament to the power of creative problem solving in the field of AI. By melding the structured data format of JSON with the expressiveness and flexibility of natural language, this method consistently yields robust outcomes across a wide array of scenarios. This superior approach to AI instruction heralds a new era in the design and execution of AI solutions, serving as an unrivaled tool in the realm of AI interaction design.
