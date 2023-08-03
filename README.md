@@ -83,6 +83,9 @@ What sets Hybrid Instruction Processing apart is not just its lack of drawbacks,
 
 Integrating AI systems with Hybrid Instruction Processing is a smooth and seamless process. With the right training, AI models can utilize this method to generate intricate, situation-specific prompts for any scenario, effectively broadening the scope of AI applications and interactions.
 
+### Example of AI Integration
+![Hybrid Example 1](https://github.com/nerority/AI-Portfolio/assets/80237923/f5df33c8-5075-460d-9ed8-febb1ab6e39c)
+
 ## Cultivating Emergent Intelligence
 
 Hybrid Instruction Processing is not just a tool—it's a transformative framework that fosters emergent intelligence, leading to advanced AI solutions that go beyond conventional AI prompting. This emergent intelligence—higher-order intelligence that arises from the complex interplay of simpler tasks or functions—can lead to novel insights, solutions, or behaviors that redefine our understanding of AI's potential. Here's how it works:
@@ -103,8 +106,6 @@ In developing this method, I recognized the need for a framework that could capt
 Hybrid Instruction Processing is not a mere theoretical concept—it's a fully functional and tested method that is actively employed in the design of cutting-edge AI solutions. This method reflects the culmination of intensive research and development efforts, months of rigorous testing, and continuous refinement. Every aspect of this method, from its underlying principles to its practical implementation, has been meticulously crafted to ensure its effectiveness and robustness.
 
 Hybrid Instruction Processing opens up a new world of possibilities in the realm of AI. It brings us a step closer to realizing the true potential of AI as a tool for solving complex problems, enhancing our understanding of the world, and creating innovative solutions. As we continue to explore and refine this method, we can look forward to a future where AI is not just a tool, but a powerful ally in our quest for knowledge and progress.
-
-![Hybrid Prompting Example](https://github.com/nerority/AI-Portfolio/assets/80237923/f5df33c8-5075-460d-9ed8-febb1ab6e39c)
 
 ---
 ## 2. System Design Frameworks
