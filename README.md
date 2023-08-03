@@ -8,7 +8,7 @@
 
 Hi, my name is Devin. I am a mechanical engineer from Georgia Tech who has dedicated his career to developing innovative solutions across diverse fields. While the mainstream narrative views AI as merely a tool for automation or streamlining processes, my approach harnesses AI to tackle intricate and seemingly insurmountable challenges.
 
-My specialty lies in leveraging AI for complex problem-solving and creating customized solutions for a wide array of problem domains. While many professionals focus on developing AI for specific applications, my approach is distinct. Over the past year, I have embarked on a journey to master and innovate a unique set of techniques, frameworks, and methodologies. This intensive endeavor, driven by the goal of crafting optimal solutions, has empowered me to address any challenge, regardless of its domain or complexity.
+**My specialty lies in leveraging AI for complex problem-solving and creating customized solutions for a wide array of problem domains**. While many professionals focus on developing AI for specific applications, my approach is distinct. Over the past year, I have embarked on a journey to master and innovate a unique set of techniques, frameworks, and methodologies. This intensive endeavor, driven by the goal of crafting optimal solutions, has empowered me to address any challenge, regardless of its domain or complexity.
 
 My work pushes AI boundaries, but with a unique twist. Rather than merely focusing on advanced computation or data processing, my work is about engineering design. I aim to reshape how we perceive and interact with AI, transforming it from a simple tool to a robust and versatile companion in our quest to decipher and navigate complex problems.
 
