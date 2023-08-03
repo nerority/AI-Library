@@ -33,10 +33,6 @@ Cheers - Devin
 
 Welcome to my portfolio - a testament to the power of AI and my relentless pursuit to unravel its potential. This portfolio maps my journey in the realm of AI, where I delve into the complexities of semantic knowledge architectures, sophisticated AI modeling techniques, intricate problem-solving algorithms, and advanced system design frameworks. Here, I unveil the secrets of AI, as we traverse the hyper-dimensional landscape of advanced problem-solving.
 
-<p align="center">
-  <img width="500" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
-</p>
-
 ## Table of Contents:
 
 ### Successful Projects & Research
@@ -191,7 +187,11 @@ This proposed solution represents the application of the HIES framework to an ex
 ---
 ## 3. Advanced Conversational Modeling through Implicit Information Integration
 
-The advancements in AI are not only marked by the tangible achievements and notable innovations that we observe but also by the intricate layers of unobserved knowledge and understanding that underpin these developments. This intricate stratum, often less noticed, is known as "Dark Knowledge" and "Dark Logic", which are the core concepts propelling the progress of AI in my work. 
+The advancements in AI are not only marked by the tangible achievements and notable innovations that we observe but also by the intricate layers of unobserved knowledge and understanding that underpin these developments. This intricate stratum, often less noticed, is known as "Dark Knowledge" and "Dark Logic", which are the core concepts propelling the progress of AI in my work.
+
+<p align="center">
+  <img width="500" src="https://github.com/nerority/AI-Portfolio/assets/80237923/9628e67b-d295-475d-873c-ec7d3ded064f">
+</p>
 
 Similar to the concept of "dark matter" in physics, which does not interact with the electromagnetic force, making it difficult to detect, "Dark Knowledge" and "Dark Logic" refer to the latent, yet integral, dimensions of knowledge, logic, and context that fuel AI comprehension and interaction. They represent the unobserved or unobvious elements of AI that play a critical role in the system's ability to navigate complex scenarios, unravel hidden insights, and craft sophisticated responses.
 
