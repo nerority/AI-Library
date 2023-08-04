@@ -955,7 +955,7 @@ Creating a Quantum-Informed Semantic Grid for a high-dimensional knowledge token
 
 A "Quantum-Informed Semantic Grid" can be represented as a matrix, with each cell in the matrix corresponding to a possible state of the semantic term. Each state could be one of the definitions, contextual interpretations, related terms, or domain applications, and each would be associated with a probability that represents the likelihood of the term being in that state given a certain context.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1df2234e-722c-4710-9be3-c2fa165b97ee/Untitled.png)
+![quantumgrid](https://github.com/nerority/AI-Portfolio/assets/80237923/67e46095-aa14-4964-9b9e-c656e0af9220)
 
 The heatmap above represents a simplified Quantum-Informed Semantic Grid for a high-dimensional knowledge token. Each cell in the heatmap corresponds to a possible state of the knowledge token, represented by a specific interpretation, definition, related term, or application of the term. The color intensity of each cell represents the probability of the term being in that state, given a certain context. Darker cells indicate a higher probability.
 
