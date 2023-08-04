@@ -54,9 +54,9 @@ Welcome to my portfolio - a testament to the power of AI and my relentless pursu
 16. [Current Research Endeavors: A Glimpse into the Future](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors)
 
 ### Resources
-- [Prompt Templates: Your AI Assistant](https://github.com/nerority/AI-Portfolio/blob/main/README.md#advanced-prompt-templates)
-- [Cheat Sheets: Your AI Handbook](https://github.com/nerority/AI-Portfolio/blob/main/README.md#cheat-sheets)
-- [Guides: Your Path to Mastering AI](https://github.com/nerority/AI-Portfolio/blob/main/README.md#guides)
+- [Prompt Templates:](https://github.com/nerority/AI-Portfolio/blob/main/README.md#advanced-prompt-templates)
+- [Cheat Sheets:](https://github.com/nerority/AI-Portfolio/blob/main/README.md#cheat-sheets)
+- [Guides:](https://github.com/nerority/AI-Portfolio/blob/main/README.md#guides)
 
 Throughout this portfolio, you'll find an collection of designed and developed projects, each fulfilling a specific role in the world of AI. The solutions encapsulated in this portfolio are not theoretical propositions; they are fully functional, tested, and vetted. They represent the culmination of countless hours of exploration, research, and refinement, all aimed at pushing the boundaries of what's possible with AI.
 
