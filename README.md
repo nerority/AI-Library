@@ -50,9 +50,9 @@ Welcome to my portfolio - a testament to the power of AI and my relentless pursu
 12. [Dimensional Logic Fusion: Zero-Shot Learning Evolved](https://github.com/nerority/AI-Portfolio#11-unsupervised-multi-dimensional-learning)
 13. [Semantic Structures: Bridging AI and Research](https://github.com/nerority/AI-Portfolio#4-semantic-knowledge-structures-bridging-advanced-ai-and-foundational-research)
 14. [Hypercontextual AI: A Conversation Revolution](https://github.com/nerority/AI-Portfolio#12-hypercontextual-conversational-ai)
-15. [Quantum-Inspired AI: Tunneling Beyond Classical Boundaries]
+15. [Quantum-Inspired AI: Tunneling Beyond Classical Boundaries](https://github.com/nerority/AI-Portfolio#16-quantum-inspired-ai-a-leap-beyond-classical-boundaries)
 16. [My Training Approach: Merging Classic and Advanced Methodologies](https://github.com/nerority/AI-Portfolio#13-my-approach-to-ai-training-a-fusion-of-classic-and-advanced-methodologies)
-17. [Current Research Endeavors: A Glimpse into the Future](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors)
+17. [Current Research Endeavors](https://github.com/nerority/AI-Portfolio#14-current-research-endeavors)
 
 ### Resources
 - [Prompt Templates:](https://github.com/nerority/AI-Portfolio/blob/main/README.md#advanced-prompt-templates)
@@ -84,6 +84,8 @@ Throughout my portfolio, you'll notice references to quantum principles, such as
 * **Entanglement & Information Pairs:** Quantum entanglement speaks of particles that become interconnected, such that the state of one instantly affects the other, regardless of distance. In the AI context, this concept is metaphorically used to describe entangled pairs of information, where different pieces of data become intricately linked within our simulations.
   
 * **Intelligent Wave Function Collapse:** In quantum mechanics, observing a superimposed particle "collapses" its wave function, fixing it into a single state. Similarly, our AI systems can be viewed as intelligently collapsing their superimposed problem spaces for specific task execution, while still being able to revert to the original, expansive state when required.
+
+[Read more about how quantum inspsired AI takes shape in reality.](https://github.com/nerority/AI-Portfolio#16-quantum-inspired-ai-a-leap-beyond-classical-boundaries)
 
 ### The Ultimate Aim: Functional Efficacy
 
