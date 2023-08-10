@@ -1,6 +1,6 @@
 Hi, my name is Devin.
 
-This is how I achieved what no one else could.
+Here is how I achieved the framework that will align the future of AI. 
 
 ## **1. Advanced AI Conversational Architecture: Meta-Framework**
 
@@ -52,4 +52,4 @@ This is how I achieved what no one else could.
 
 ### **Conclusion: The Future of Advanced AI Conversational Systems**:
 
-The future will be human-in-the-loop systems that leverage emergent intellgience to push the boundaries of any field, in any direction. Just letting you know.
+The future will be human-in-the-loop systems that leverage emergent intelligence to push the boundaries of any field, in any direction. Just letting you know.
