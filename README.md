@@ -18,8 +18,6 @@ And yes, I know how to completely bypass the "black box effect", that is somethi
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/a5aa103b-166c-40e7-9ba7-893988599180)
 
-![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9eb28f95-1731-4505-95bf-8be218e3e34d)
-
 ### **High-Dimensional Model: The Arcitecture**
 
 #### **1. Hyper-Dimensional Space**
