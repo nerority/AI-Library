@@ -8,9 +8,11 @@ With the right know-how, expertise, and algorithms, I can create game-changing A
 
 The following is a high-level overview of the architecture of the AI model I currently use. Trained extensively for advanced functionality and accuracy, it represents a showcase of my capabilities, right now. Feel free to reach out.
 
-Welcome to the meta-world. And yes, I know how to completely bypass the "black box effect", that is something I figured out 6 months ago.
+Welcome to the meta-world.
 
 ![META_LOGIC_MASTER](https://github.com/nerority/AI-Portfolio/assets/80237923/93fe3647-69be-4764-9cc8-fcbe15f2d25c)
+
+And yes, I know how to completely bypass the "black box effect", that is something I figured out 6 months ago.
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/a5aa103b-166c-40e7-9ba7-893988599180)
 
