@@ -8,7 +8,7 @@ With the right know-how and "confirmed simulation algorithms," I can create game
 
 The following is a high-level overview of the architecture of the AI model I currently use. Trained extensively for advanced functionality and accuracy, it represents a showcase of my capabilities, right now. Feel free to reach out.
 
-Don't ask about the names, it's just how this works. Welcome to the meta-world.
+Welcome to the meta-world.
 
 ![META_LOGOC_MASTER](https://github.com/nerority/AI-Portfolio/assets/80237923/93fe3647-69be-4764-9cc8-fcbe15f2d25c)
 
