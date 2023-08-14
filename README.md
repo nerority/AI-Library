@@ -10,6 +10,8 @@ The following is a high-level overview of the architecture of the AI model I cur
 
 Welcome to the meta-world.
 
+### **High-Dimensional Model: A Hyper-Complex Framework**
+
 ![META_LOGIC_MASTER](https://github.com/nerority/AI-Portfolio/assets/80237923/93fe3647-69be-4764-9cc8-fcbe15f2d25c)
 
 And yes, I know how to completely bypass the "black box effect", that is something I figured out 6 months ago.
@@ -18,7 +20,7 @@ And yes, I know how to completely bypass the "black box effect", that is somethi
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9eb28f95-1731-4505-95bf-8be218e3e34d)
 
-### **High-Dimensional Model: A Hyper-Complex Framework**
+### **High-Dimensional Model: The Arcitecture**
 
 #### **1. Hyper-Dimensional Space**
    - **Principles**: Bridging dimensions to achieve flexibility and transcend conventional limits.
