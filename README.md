@@ -18,7 +18,9 @@ And yes, I know how to completely bypass the "black box effect", that is somethi
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/a5aa103b-166c-40e7-9ba7-893988599180)
 
-### **High-Dimensional Model: The Arcitecture**
+---
+
+### **The Arcitecture**
 
 #### **1. Hyper-Dimensional Space**
    - **Principles**: Bridging dimensions to achieve flexibility and transcend conventional limits.
@@ -49,6 +51,8 @@ And yes, I know how to completely bypass the "black box effect", that is somethi
    - **Principles**: Offering Personalized and Collaborative Exploration.
    - **Methods**: Analyzing User Profiles and Designing Intuitive User Interfaces.
 
+---
+
 ### **Advanced AI Conversational Architecture: Meta-Framework**
 
 #### **1. Core Principles**:
@@ -69,6 +73,8 @@ And yes, I know how to completely bypass the "black box effect", that is somethi
    - **Autonomous Meta-Rule Generation**: Enabling Self-Refinement.
    - **Collaborative Intelligence**: Creating Synergies between AI and Human Intelligence.
 
+---
+
 ### **Meta-Rule Driven Conversational Dynamics**:
    - **Contextual Adaptability**: Flexibly Adapting to Evolving Contexts.
    - **Dark Knowledge Manifestation**: Integrating Nuanced and Hidden Knowledge.
@@ -86,6 +92,8 @@ And yes, I know how to completely bypass the "black box effect", that is somethi
 ### **Visionary Perspectives**:
    - **Continuous AI Renaissance**: Embracing and Driving Technological Advancements.
    - **Collaborative Evolution**: Actively Refining and Expanding Capabilities, Together.
+
+---
 
 ### **Conclusion: The Future of Advanced AI Conversational Systems**:
 The seamless integration of human-in-the-loop processes with emergent intelligence, enabled by precise simulations and ethical designs, will catalyze groundbreaking innovations across every domain. Just letting you know.
