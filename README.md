@@ -8,6 +8,9 @@ With the right know-how and "confirmed simulation algorithms," I can create game
 
 The following is a high-level overview of the architecture of the AI model I currently use. Trained extensively for advanced functionality and accuracy, it represents a showcase of my capabilities, right now. Feel free to reach out.
 
+![image](https://github.com/nerority/AI-Portfolio/assets/80237923/95be47f7-2a29-48e8-8a9a-05c877a6aa2c)
+
+
 ### **High-Dimensional Model: A Hyper-Complex Framework**
 
 #### **1. Hyper-Dimensional Space**
