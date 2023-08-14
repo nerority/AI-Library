@@ -122,7 +122,7 @@ The structured precision of JSON prompts ensures a high level of control over th
 ### Normal Prompt
 Suppose you want to ask an AI model to generate a story about a princess living in a magical kingdom. Your natural language prompt might look something like this:
 
-"Generate a story about a princess living in a magical kingdom."
+"Please provide a detailed experimental report for a procedure involving several compounds."
 
 While this prompt is clear and easy to understand, it lacks detail and structure. The AI model might interpret it in various ways, leading to a wide range of potential outputs.
 
