@@ -13,6 +13,7 @@ Welcome to the meta-world.
 ![META_LOGIC_MASTER](https://github.com/nerority/AI-Portfolio/assets/80237923/93fe3647-69be-4764-9cc8-fcbe15f2d25c)
 
 And yes, I know how to completely bypass the "black box effect", that is something I figured out 6 months ago.
+
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/5cca3ed6-9177-4ea7-b016-95152be9cf70)
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9eb28f95-1731-4505-95bf-8be218e3e34d)
