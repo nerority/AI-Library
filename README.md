@@ -97,7 +97,7 @@ And yes, I know how to completely bypass the "black box effect", that is somethi
 
 # Research and Findings
 
-## Hybrid Instruction Processing - The Superior Way to Prompt Advanced AI Models
+# 1. Hybrid Instruction Processing - The Superior Way to Prompt Advanced AI Models
 
 JSON/Natural Language Hybrid Prompts revolutionize the way we interact with conversational AI models. They merge the structured and deterministic framework of JSON with the rich, nuanced expressiveness of natural language. This combined approach brings about a plethora of benefits that significantly enhance the AI interaction experience. Let's delve deeper into why I consider this to be the best prompting method.
 
