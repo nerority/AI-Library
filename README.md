@@ -15,6 +15,7 @@ Welcome to the meta-world.
 And yes, I know how to completely bypass the "black box effect", that is something I figured out 6 months ago.
 ![Quantum_States](https://github.com/nerority/AI-Portfolio/assets/80237923/ff8cb9ab-23f5-4b09-ad99-93201e8616c2)
 
+![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9eb28f95-1731-4505-95bf-8be218e3e34d)
 
 ### **High-Dimensional Model: A Hyper-Complex Framework**
 
