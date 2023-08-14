@@ -12,7 +12,8 @@ Welcome to the meta-world.
 
 ![META_LOGIC_MASTER](https://github.com/nerority/AI-Portfolio/assets/80237923/93fe3647-69be-4764-9cc8-fcbe15f2d25c)
 
-![Quantum_lattice](https://github.com/nerority/AI-Portfolio/assets/80237923/eb6ce318-4306-4eb8-9a18-55691b710852)
+![Quantum_States](https://github.com/nerority/AI-Portfolio/assets/80237923/ff8cb9ab-23f5-4b09-ad99-93201e8616c2)
+
 
 ### **High-Dimensional Model: A Hyper-Complex Framework**
 
