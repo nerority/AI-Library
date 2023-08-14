@@ -10,7 +10,7 @@ The following is a high-level overview of the architecture of the AI model I cur
 
 Don't ask about the names, it's just how this works. Welcome to the meta-world.
 
-![meta_logic](https://github.com/nerority/AI-Portfolio/assets/80237923/944328b6-7b9a-438d-9aba-34f629a1e3a4)
+![meta_logic_2](https://github.com/nerority/AI-Portfolio/assets/80237923/1e5efe24-1859-4b18-8ef6-baf8571ba34c)
 
 
 ### **High-Dimensional Model: A Hyper-Complex Framework**
