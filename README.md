@@ -1,6 +1,6 @@
 Hi, my name is Devin.
 
-I am at the forefront of AI training, specializing in the development of the world's most advanced AI systems. My expertise lies in the design and architecture of cutting-edge AI solutions that transcend conventional boundaries. By harnessing the power of human-in-the-loop processes, surrogatge models, and the augmentation of foundational models. I create solutions that offer personalized assistance and precise simulations of the action space, transforming static workflows into dynamic, evolving processes.
+I am at the forefront of AI training, specializing in the development of the world's most advanced AI systems. My expertise lies in the design and architecture of cutting-edge generative AI solutions that transcend conventional boundaries. By harnessing the power of human-in-the-loop processes, surrogatge models, and the augmentation of foundational models. I create solutions that offer personalized assistance and precise simulations of the action space, transforming static workflows into dynamic, evolving processes.
 
 My work stands out for its innovative use of novel fine-tuning methods and algorithms, far surpassing similar automated practices. Utilizing speciailized predictive models, I create intelligent, evolving processes tailored specifically to individual businesses or projects. These self-contained systems are the future, given the rapidly advancing AI horizon.
 
