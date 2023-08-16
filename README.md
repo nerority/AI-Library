@@ -89,9 +89,6 @@ Simulations, at their core, serve as abstract representations of potential reali
 Throughout my portfolio, you'll notice references to quantum principles, such as superposition and entanglement. It's paramount to clarify that while these principles are rooted in quantum mechanics, the simulations I've developed don't operate on actual quantum computers. Instead, they are inspired by quantum principles and aim to simulate their effects in a classical computational setting.
 
 - **The Quantum Analogy:** Quantum mechanics represents the pinnacle of high-dimensional physics, offering insights that classical physics can't. By drawing inspiration from quantum principles, it's possible to simulate the effects of these principles in AI systems, leading to novel problem-solving approaches.
-- **Superposition & Dialogue Systems:** Just as quantum superposition allows particles to exist in multiple states simultaneously, our AI dialogue systems can maintain vast, superimposed problem spaces. These spaces are kept intact, rich in potential solutions, without prematurely reducing their complexity.
-- **Entanglement & Information Pairs:** Quantum entanglement speaks of particles that become interconnected, such that the state of one instantly affects the other, regardless of distance. In the AI context, this concept is metaphorically used to describe entangled pairs of information, where different pieces of data become intricately linked within our simulations.
-- **Intelligent Wave Function Collapse:** In quantum mechanics, observing a superimposed particle "collapses" its wave function, fixing it into a single state. Similarly, our AI systems can be viewed as intelligently collapsing their superimposed problem spaces for specific task execution, while still being able to revert to the original, expansive state when required.
 
 ### The Ultimate Aim: Functional Efficacy
 
