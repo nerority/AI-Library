@@ -115,6 +115,8 @@ Welcome to the nexus where cutting-edge research melds with inventive brilliance
 - **Definition:** The dissection of human thought processes, learning curves, and behavioral manifestations.
 - **Relevance:** Bridging machine intelligence with human cognition, Cognitive Theory forges more instinctive and compassionate AI dialogues.
 
+[See The Comprhensive Structured Glossary Here.](https://github.com/nerority/AI-Portfolio/wiki/Part-I-%7C-The-Glossary)
+
 ---
 
 # Part II | Core AI Methodologies and Techniques
