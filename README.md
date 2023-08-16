@@ -210,9 +210,7 @@ Semantic anchoring ensures that the AI doesn't stray into alternate or broad int
 
 Key references in JSON/Natural Language Hybrid Prompts are a powerful feature that allows for enhanced functionality and sophisticated interactions with the AI model. This is accomplished by referencing key values from different sections of the JSON object, enabling you to trigger complex behaviors or combine different keys to unlock new functionalities.
 
-Think of each key-value pair in the JSON object as an individual instruction or piece of information. By referencing these keys, you can essentially "call
-
-" these instructions or pieces of information to be used in other parts of the prompt. This means you can build upon previously defined concepts or instructions, creating more complex and nuanced prompts without increasing the complexity of the language used.
+Think of each key-value pair in the JSON object as an individual instruction or piece of information. By referencing these keys, you can essentially "call" these instructions or pieces of information to be used in other parts of the prompt. This means you can build upon previously defined concepts or instructions, creating more complex and nuanced prompts without increasing the complexity of the language used.
 
 ```yaml
   "instructions": "Based on the completed procedure, please now detail new 'compounds' that could be added to the 'experiment', that would synergize with the existing elements."
