@@ -118,38 +118,6 @@ Advanced AI simulations strive to solve previously insurmountable problems. Emul
 - **Definition:** The scientific exploration of how humans process information, think, learn, and exhibit behavior.
 - **Relevance:** Cognitive Theory informs AI design by bridging the gap between machine intelligence and human cognition, enabling more intuitive and empathetic AI interactions.
 
-# Part I | Foundational Concepts & Principles
-
-### 1.1 Artificial Intelligence
-
-- The theory and development of computer systems able to perform tasks that normally require human intelligence.
-- AI forms the foundation for all advanced methodologies and projects in the portfolio.
-
-### 1.2 Machine Learning
-
-- A type of artificial intelligence that allows software applications to become more accurate in predicting outcomes without being explicitly programmed to do so.
-- Machine learning enables AI systems to improve their performance over time, a key aspect of many advanced AI methodologies and projects.
-
-### 1.3 Deep Learning
-
-- A subset of machine learning that mimics the workings of the human brain in processing data for use in decision making.
-- Deep learning enables AI systems to process data in complex ways, which is critical for many advanced AI methodologies and projects.
-
-### 1.4 Quantum Mechanics
-
-- A fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles.
-- Quantum mechanics offers potential for significant advancements in the performance and capabilities of AI systems.
-
-### 1.5 Information Theory
-
-- A scientific field concerned with the quantification, storage, and communication of information.
-- Information theory underpins many aspects of AI, from data encoding and processing to communication and decision-making.
-
-### 1.6 Cognitive Theory
-
-- A psychological approach attempting to explain human behavior by understanding the thought processes.
-- Cognitive theory provides valuable insights into how humans process information and make decisions, which can inform the design and implementation of AI systems.
-
 # Part II | Core AI Methodologies and Techniques
 
 ## 2.1. Hybrid Instruction Processing
@@ -160,9 +128,9 @@ JSON/Natural Language Hybrid Prompts, an innovation that emerged in the AI era, 
 
 One of the primary advantages of using JSON/Natural Language Hybrid Prompts is the deterministic starting point it provides for AI interactions. Think of it like a GPS system for the AI, where JSON serves as the precise coordinates. In traditional conversational AI models, the interpretation of natural language prompts can often lead to ambiguous interpretations, primarily due to the inherent flexibility and variability of natural language.
 
-However, the structured nature of JSON prompts significantly reduces this ambiguity. JSON prompts serve as a framework that guides the AI in processing the user's instructions. Each element in a JSON prompt is a key-value pair, offering a clear, machine-parsable instruction to the AI. This deterministic approach ensures that the AI starts from a clear, well-defined point, thereby reducing the scope for misinterpretation and enhancing the accuracy of the AI's responses.
+- The structured nature of JSON prompts significantly reduces this ambiguity. JSON prompts serve as a framework that guides the AI in processing the user's instructions. Each element in a JSON prompt is a key-value pair, offering a clear, machine-parsable instruction to the AI. This deterministic approach ensures that the AI starts from a clear, well-defined point, thereby reducing the scope for misinterpretation and enhancing the accuracy of the AI's responses.
 
-Moreover, the nested structure of JSON prompts allows for the projection of implicit logic, adding another layer of precision and depth to the AI's understanding. The deterministic nature of JSON prompts, combined with the nuance of natural language, provides a balanced blend of precision and flexibility, optimizing the AI's interpretive capabilities.
+- The nested structure of JSON prompts allows for the projection of implicit logic, adding another layer of precision and depth to the AI's understanding. The deterministic nature of JSON prompts, combined with the nuance of natural language, provides a balanced blend of precision and flexibility, optimizing the AI's interpretive capabilities.
 
 This deterministic starting point is particularly beneficial in tasks that require a high degree of precision and consistency, such as complex problem-solving tasks, detailed narrative generation, and intricate scenario simulations. By ensuring a deterministic starting point, JSON/Natural Language Hybrid Prompts lay a solid foundation for successful AI interactions, leading to improved outcomes and a more satisfying user experience.
 
