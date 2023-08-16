@@ -24,45 +24,45 @@ And yes, I know how to completely bypass the "black box effect", that is somethi
 
 ## Part I | Foundational Concepts & Principles
 
-1.1 Artificial Intelligence
-1.2 Machine Learning
-1.3 Deep Learning
-1.4 Quantum Mechanics
-1.5 Information Theory
-1.6 Cognitive Theory
+#### 1.1 Artificial Intelligence
+#### 1.2 Machine Learning
+#### 1.3 Deep Learning
+#### 1.4 Quantum Mechanics
+#### 1.5 Information Theory
+#### 1.6 Cognitive Theory
 
 ## Part II | Core AI Methodologies and Techniques
 
-2.1 Hybrid Instruction Processing
-2.2 System Design Frameworks
-2.3 Advanced Conversational Modeling
-2.4 Novel AI Methodologies
-2.5 Novel AI Algorithms
-2.6 Higher-Order Logic Processing and Advanced Information Encoding
-2.7 Meta-Rules for Efficient Navigation
+#### 2.1 Hybrid Instruction Processing
+#### 2.2 System Design Frameworks
+#### 2.3 Advanced Conversational Modeling
+#### 2.4 Novel AI Methodologies
+#### 2.5 Novel AI Algorithms
+#### 2.6 Higher-Order Logic Processing and Advanced Information Encoding
+#### 2.7 Meta-Rules for Efficient Navigation
 
 ## Part III | Specific Implementations and Projects
 
-3.1 AI for Natural Language Understanding
-3.2 AI for Quantum Computing
-3.3 AI for Knowledge Mining
-3.4 AI for Recursive Learning
-3.5 AI for Self-Improving Feedback Loops
-3.6 AI for Information Theory Applications
+#### 3.1 AI for Natural Language Understanding
+#### 3.2 AI for Quantum Computing
+#### 3.3 AI for Knowledge Mining
+#### 3.4 AI for Recursive Learning
+#### 3.5 AI for Self-Improving Feedback Loops
+#### 3.6 AI for Information Theory Applications
 
 ## Part IV | Meta-Concepts and Advanced Theories
 
-4.1 Continuous Learning Loop
-4.2 Dimensional Logic Fusion
-4.3 Semantic Knowledge Structures
-4.4 Hypercontextual Generative AI
+#### 4.1 Continuous Learning Loop
+#### 4.2 Dimensional Logic Fusion
+#### 4.3 Semantic Knowledge Structures
+#### 4.4 Hypercontextual Generative AI
 
 ## Part V | Cross-Cutting Themes
 
-5.1 Complexity Management
-5.2 Use of Information Modules
-5.3 Advanced Priming Techniques
-5.4 Application of Quantum Principles in AI
+#### 5.1 Complexity Management
+#### 5.2 Use of Information Modules
+#### 5.3 Advanced Priming Techniques
+#### 5.4 Application of Quantum Principles in AI
 
 ---
 
