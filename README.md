@@ -867,7 +867,7 @@ Dynamic Contextual Networks interlink information, logic, and contextual clues, 
 
 ### Visualization
 
-A graphical representation of the Contextual Logic Web would provide a visual understanding of how the nodes and links are interconnected. Unfortunately, due to the text-based interface, I cannot directly draw the graph here, but you can create it using diagramming tools.
+A graphical representation of the Contextual Logic Web would provide a visual understanding of how the nodes and links are interconnected.
 
 ![Untitled (4)](https://github.com/nerority/AI-Portfolio/assets/80237923/ac123e33-d314-40a4-8382-91c5078d7ce4)
 
