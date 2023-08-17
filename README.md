@@ -10,11 +10,11 @@ Below, I present a high-level overview of the architecture of the AI model I cur
 
 Welcome to the meta-world.
 
+# The Integrated Knowledge Graph
+
 ![META_LOGIC_MASTER](https://github.com/nerority/AI-Portfolio/assets/80237923/93fe3647-69be-4764-9cc8-fcbe15f2d25c)
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/a5aa103b-166c-40e7-9ba7-893988599180)
-
-# The Integrated Knowledge Graph
 
 ## Core Concepts
 
