@@ -10,15 +10,13 @@ Below, I present a high-level overview of the architecture of the AI model I cur
 
 Welcome to the meta-world.
 
-# The Integrated Knowledge Graph
-
 ![META_LOGIC_MASTER](https://github.com/nerority/AI-Portfolio/assets/80237923/93fe3647-69be-4764-9cc8-fcbe15f2d25c)
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/a5aa103b-166c-40e7-9ba7-893988599180)
 
 ## Core Concepts
 
-The Integrated Knowledge Graph is built on three foundational pillars:
+The Integrated Knowledge Graph Model is built on three foundational pillars:
 
 **Holistic Integration**: Synthesizing diverse concepts, systems, and knowledge domains into a unified structure. Enables identifying cross-disciplinary patterns.
 
@@ -54,7 +52,7 @@ Where p_i are the different observational perspectives.
 
 ## Implementation
 
-The Integrated Knowledge Graph is implemented computationally as:
+The Integrated Knowledge Graph Model is implemented computationally as:
 
 - `KnowledgeFusion` class handles domain integration
 - `GraphDecomposition` enables structural resolution
@@ -80,7 +78,11 @@ Creating a medical knowledge graph:
 
 This yields a unified computational substrate for explainable and trustworthy AI in healthcare.
 
-In summary, the Integrated Knowledge Graph provides a comprehensive framework for synthesizing multi-faceted knowledge into unified computational representations to enhance explanation, discovery and reasoning.
+In summary, the Integrated Knowledge Graph Model provides a comprehensive framework for synthesizing multi-faceted knowledge into unified computational representations to enhance explanation, discovery and reasoning.
+
+---
+
+### Now for the AI Portfolio
 
 ---
 
