@@ -1,4 +1,4 @@
- Hi, my name is Devin.
+Hi, my name is Devin.
 
 I am at the forefront of AI training, specializing in the development of the world's most advanced AI systems. My expertise lies in the design and architecture of cutting-edge generative AI solutions that transcend conventional boundaries. By harnessing the power of surrogate models, I create solutions that offer personalized assistance and precise simulations of the action space, transforming static workflows into dynamic, evolving processes.
 
