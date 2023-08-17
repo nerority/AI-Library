@@ -252,14 +252,61 @@ The JSON/Natural Language Hybrid Prompts methodology heralds a paradigm shift in
 
 The **Hyper-personalized Iterative Enhancement System (HIES)** is a structured approach to AI system design aimed at delivering personalized and context-aware outputs. By combining principles of sequential task execution, progressive context building, and iterative refinement, HIES extends AI capabilities beyond mere problem-solving, facilitating the development of AI systems that align with specific user needs.
 
+```sql
+  +------------------------------------+
+  |     Foundational Model             |
+  +------------------------------------+
+                 |
+                 v
+  +------------------------------------+
+  |        Surrogate Model Loop        |
+  +------------------------------------+
+                 |
+                 v
+  +------------------------------------+
+  |          Iteration Loop            |
+  +------------------------------------+
+                 |
+                 v
+  +-------------------+    +-------------------+
+  |   Blueprint       |    |   Blueprint       |
+  |   (Input)         |    |   (Input)         |
+  +-------------------+    +-------------------+
+                 |                   |
+                 v                   v
+  +-------------------+    +-------------------+
+  |   Task Sequence   |    |   Task Sequence   |
+  +-------------------+    +-------------------+
+                 |                   |
+                 v                   v
+  +-------------------+    +-------------------+
+  | Advanced Prompts  |    | Advanced Prompts  |
+  +-------------------+    +-------------------+
+                 |                   |
+                 v                   v
+  +-------------------+    +-------------------+
+  | Task Execution    |    | Task Execution    |
+  +-------------------+    +-------------------+
+                 |                   |
+                 v                   v
+  +------------------------------------+
+  |         Final Assembly             |
+  +------------------------------------+
+                 |
+                 v
+  +------------------------------------+
+  |    Loop Back to Surrogate Model    |
+  +------------------------------------+
+```
+
 ### **Key Components: Framework Structure**
 
-1. **Hypercomplex Initial Prompt (System Genesis):** The starting point for HIES, System Genesis, creates a comprehensive initial prompt to guide the AI model through the problem landscape and strategic goal.
-2. **System Design (Blueprinting):** The blueprinting phase outlines the AI system's architecture, converting abstract concepts into an actionable plan.
-3. **Task Planning (Structural Enhancement):** Structural Enhancement is responsible for defining advanced prompts for each task, based on the context provided in System Genesis.
-4. **System Implementation (Assembly):** This phase sequences tasks, utilizing the AI's context window to create progressively complex outputs.
-5. **Iterative Refinement (Fine-Tuning):** Fine-Tuning involves continuous adjustment and learning within the AI system to improve alignment with user expectations.
-6. **System Evaluation (Validation):** Validation is a comprehensive assessment stage, focused on quality assurance and ongoing improvement.
+- **Surrogate Model (System Genesis):** Serves as the foundational starting point, guiding the AI model through the problem landscape.
+- **Blueprinting:** Converts the initial ideas into an actionable plan.
+- **Structural Enhancement:** Defines advanced prompts for each task based on context.
+- **Assembly:** Sequences tasks to create progressively complex outputs.
+- **Fine-Tuning:** Continuously refines the system to align with user expectations.
+- **Validation:** Ensures quality and ongoing improvement.
 
 ### **Significance: Emergent Intelligence in AI**
 
