@@ -309,7 +309,7 @@ Implementing HIES demands profound expertise in language models, natural languag
 
 **Summary Card (HIES):**
 
-- **Framework**:** HIES (Hyper-personalized Iterative Enhancement System)
+- **Framework**: HIES (Hyper-personalized Iterative Enhancement System)
 - **Purpose:** Transforming AI design through specialization, adaptability, and continuous learning.
 - **Application Domains:** Healthcare, Material Science, Personalized Learning, Strategic Management, and more.
 - **Core Components:** Foundational Model (LLM), Surrogate Model, Task Management
