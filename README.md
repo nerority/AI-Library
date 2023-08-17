@@ -12,9 +12,7 @@ Welcome to the meta-world.
 
 # Pioneering High-Dimensional Generative AI
 
-## Introduction
-
-Welcome to the frontiers of advanced AI research, where we push boundaries to unlock new potentials through sophisticated generative architectures, knowledge representations, and algorithms.
+Welcome to the frontiers of advanced AI research, where we walk through how to unlock new potentials through sophisticated generative architectures, knowledge representations, and algorithms.
 
 ## Core Concepts
 
