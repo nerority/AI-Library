@@ -95,8 +95,8 @@ Welcome to the meta-world.
 
 ## Part VI | Showcase
 
-- 6.1 UKF-IMF
-- 6.2 The Arcitecture
+- 6.1 Unified Holistic Framework (UHF-IKM)
+- 6.2 The Architecture
 
 ### Resources
 
