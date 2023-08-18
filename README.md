@@ -200,8 +200,6 @@ The inherent geometry of JSON shapes the success of this hybrid approach:
 
 The structured precision of JSON enriches the AI's responses with accuracy, relevance, and sophistication.
 
-![image](https://github.com/nerority/AI-Portfolio/assets/80237923/3f4a233b-9fc7-4f0e-a58a-727c2d820dc5)
-
 ### Example: Crafting Precision with Hybrid Prompts
 
 Consider the difference between a vague natural language prompt and a precise JSON/Natural Language Hybrid Prompt:
