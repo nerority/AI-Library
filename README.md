@@ -1146,21 +1146,21 @@ This fusion of quantum and classical AI represents an exciting new direction. Qu
 
 - **Hyper-Dimensional Matrix**: Represents semantic relationships and attributes in a hyper-dimensional space: where d_i are the different dimensions encoding relationships, attributes, contexts, etc.
     
-    $$
-    HDM = HDM_{d_1, d_2, \ldots, d_n}
-    $$
+$$
+HDM = HDM_{d_1, d_2, \ldots, d_n}
+$$
     
 - **Holistic Integration**: Union of knowledge domains and semantic relationships: where S_i are knowledge domains, I_i are inter-domain interactions, M_i are integrative metrics, and HDM_i are hyper-dimensional matrices.
     
-    $$
-    KG = \bigcup\limits_{i=1}^n (S_i, I_i, M_i, HDM_i)
-    $$
+$$
+KG = \bigcup\limits_{i=1}^n (S_i, I_i, M_i, HDM_i)
+$$
     
 - **Structural Decomposition**: Graph representation with vertices for components:
     
-    $$
-    G = (V, E, C, HDM)
-    $$
+$$
+G = (V, E, C, HDM)
+$$
     
 
 ### Implementation
