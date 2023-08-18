@@ -184,10 +184,14 @@ See the full structured glossary [here.](https://github.com/nerority/AI-Portfoli
 - **Definition:** The confluence of disciplines that breathes life into machines, enabling them to emulate tasks traditionally demanding human intelligence.
 - **Relevance:** The keystone of this portfolio, AI fuels all innovation, from mundane automation to the enigmas of complex problem-solving.
 
+![23fcdfd8-b021-465c-a679-f56d95399474](https://github.com/nerority/AI-Portfolio/assets/80237923/945a13cf-0419-42af-bda9-fa9290486640)
+
 ### **1.2 Machine Learning**
 
 - **Definition:** AI's dynamic offspring that harnesses algorithms to continually refine predictions, learning from data.
 - **Relevance:** A flexible core of avant-garde methodologies, Machine Learning empowers AI to evolve and thrive.
+
+![d8a09ac8-aa32-4acb-ad3d-b1b46ff1c055](https://github.com/nerority/AI-Portfolio/assets/80237923/b129f972-fb1a-4488-aa76-0335388ebb55)
 
 ### **1.3 Deep Learning**
 
