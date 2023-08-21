@@ -10,7 +10,13 @@ Below, I present a high-level overview of the architecture of the AI model I cur
 
 Welcome to the meta-world.
 
-# Pioneering High-Dimensional Generative AI
+![hdmod3](https://github.com/nerority/AI-Portfolio/assets/80237923/acf99ee4-0874-4e9b-beed-1555d4955140)
+
+![image](https://github.com/nerority/AI-Portfolio/assets/80237923/09b6f314-f66f-4fbf-ab7e-f5b8532faa2d)
+
+---
+
+# High-Dimensional Generative AI
 
 Welcome to the frontiers of advanced AI research, where we walk through how to unlock new potentials through sophisticated generative architectures, knowledge representations, and algorithms.
 
@@ -38,12 +44,6 @@ I design custom high-dimensional architectures to tackle unique challenges, movi
 - Explainable generative reasoning
 - Multimodal knowledge integration
 - Composable component systems
-
-Welcome to the meta-world.
-
-![hdmod3](https://github.com/nerority/AI-Portfolio/assets/80237923/acf99ee4-0874-4e9b-beed-1555d4955140)
-
-![image](https://github.com/nerority/AI-Portfolio/assets/80237923/09b6f314-f66f-4fbf-ab7e-f5b8532faa2d)
 
 ---
 
