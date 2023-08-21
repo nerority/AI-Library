@@ -41,9 +41,9 @@ I design custom high-dimensional architectures to tackle unique challenges, movi
 
 Welcome to the meta-world.
 
-![META_LOGIC_MASTER](https://github.com/nerority/AI-Portfolio/assets/80237923/93fe3647-69be-4764-9cc8-fcbe15f2d25c)
+![image](https://github.com/nerority/AI-Portfolio/assets/80237923/98272d3c-ac97-4fad-9481-cbd9e67384d6)
 
-![image](https://github.com/nerority/AI-Portfolio/assets/80237923/a5aa103b-166c-40e7-9ba7-893988599180)
+![image](https://github.com/nerority/AI-Portfolio/assets/80237923/09b6f314-f66f-4fbf-ab7e-f5b8532faa2d)
 
 ---
 
