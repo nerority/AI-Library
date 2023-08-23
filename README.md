@@ -6,8 +6,6 @@ My work stands out for its innovative use of novel fine-tuning methods and algor
 
 With an arsenal of know-how, unparalleled expertise, and carefully curated algorithms, I have the capability to create game-changing AI solutions.
 
-Below, I present a high-level overview of the architecture of the AI model I currently employ. Trained rigorously for precision, advanced functionality, and accuracy, this model exemplifies my capabilities, here and now.
-
 Welcome to the meta-world.
 
 ![hdmod3](https://github.com/nerority/AI-Portfolio/assets/80237923/acf99ee4-0874-4e9b-beed-1555d4955140)
