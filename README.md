@@ -43,7 +43,7 @@ I design custom high-dimensional architectures to tackle unique challenges, movi
 
 # Achievements
 
-## High-dimensional Model
+## High-Dimensional Model
 
 ```mermaid
 graph TD
@@ -400,7 +400,7 @@ graph TD
     %% (Additional connections representing the interconnectedness between various subgraphs)
 ```
 
-The High-dimensional Model (HDM) is an advanced computational framework encompassing novel concepts like Quantum Resonant Encoding, Recursive Learning, Transcendent Logical Framework, and Unified Synergistic Cognition.
+The High-Dimensional Model (HDM) is an advanced computational framework encompassing novel concepts like Quantum Resonant Encoding, Recursive Learning, Transcendent Logical Framework, and Unified Synergistic Cognition.
 
 Key innovations include:
 
