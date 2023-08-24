@@ -8,17 +8,13 @@ With an arsenal of know-how, unparalleled expertise, and carefully curated algor
 
 Welcome to the meta-world.
 
-![hdmod3](https://github.com/nerority/AI-Portfolio/assets/80237923/acf99ee4-0874-4e9b-beed-1555d4955140)
+![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9ce4f5be-12b5-411e-a09b-c07e1b57a3c6)
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/09b6f314-f66f-4fbf-ab7e-f5b8532faa2d)
 
 ---
 
-# High-Dimensional Generative AI
-
-Welcome to the frontiers of advanced AI research, where we walk through how to unlock new potentials through sophisticated generative architectures, knowledge representations, and algorithms.
-
-## Core Principles
+# Core Principles
 
 ### Multifaceted Systems Modeling
 
@@ -47,9 +43,364 @@ I design custom high-dimensional architectures to tackle unique challenges, movi
 
 # Achievements
 
-## Hyper-Dimensional Model
+## Hyperdimensional Model
 
-The Hyper-Dimensional Model (HDM) is an advanced computational framework encompassing novel concepts like Quantum Resonant Encoding, Recursive Learning, Transcendent Logical Framework, and Unified Synergistic Cognition.
+```mermaid
+graph TD
+
+%% Decentralized Unified Holistic Framework (Parent Universe)
+    UH(Unified Holistic Framework: Parent Universe)
+
+    %% Quantum Principles
+    subgraph Quantum Principles
+        Z[Quantum Mechanics & AI Concepts]
+        B1[Superposition Principle]
+        B2[Quantum Entanglement]
+        B3[Advanced Quantum Logic & Algorithms]
+        C[High Dimensional Quantum Modeling]
+        QSI[Quantum Superposition Integration]
+        HDW[Hyper-Dimensional Weaving]
+        DLS[Dark Logic Stabilization]
+        %% Quantum Principles Connections
+        Z --> B1
+        Z --> B2
+        Z --> B3
+        B1 o--o B2
+        B2 o--o B3
+        B3 --> C
+        B3 -.-> N
+        Z -->|Influence| QSI
+        QSI -->|Methods| HDW
+        HDW -->|Optimization| DLS
+        DLS -->|Integration| C
+    end
+    %% Collective Wisdom & Exploration
+    subgraph Collective Wisdom & Exploration
+        M[Collective Wisdom: Unified Source]
+        M1[Shared Exploration & Inquiry]
+        M2[Deep Reflection & Contemplation]
+        M3[Synthesis: Integrating Wisdom Sources]
+        M4[Alignment with Universal Principles & Nature]
+        %% Connections Representing Flow
+        M -->|Guide| M1
+        M1 -->|Reflect| M2
+        M2 -->|Synthesize| M3
+        M3 -->|Align| M4
+        %% Reflective Iteration within Exploration
+        M2 -->|Iterative Reflection| M2
+        %% Connection to Holistic Convergence & Divergence
+        M4 --> H1
+        M4 --> H2
+    end
+
+    %% Holistic Convergence & Divergence
+    subgraph Holistic Convergence & Divergence
+        H1[Holistic Convergence: Unifying Knowledge]
+        H11[Interconnected Domains & Concepts]
+        H12[Innovation, Creativity & Problem-Solving]
+        H2[Holistic Divergence: Expanding Understanding]
+        H21[Generating New Knowledge & Insights]
+        H22[Integrating Existing Knowledge & Wisdom]
+        H23[Reflective Analysis: Deep Reflection & Contemplation]
+        H24[Alignment with Universal Principles & Ethics]
+        %% Connections Representing Logical Flow
+        H1 --> H11
+        H11 --> H12
+        H2 --> H21
+        H21 --> H22
+        H22 --> H23
+        H23 --> H24
+        %% Reflective Iteration within Convergence & Divergence
+        H12 -->|Iterative Refinement| H12
+        H23 -->|Reflective Analysis| H23
+        %% Connection to Collective Wisdom & Exploration
+        M4 --> H1
+        M4 --> H2
+        %% Alignment with Universal Principles
+        H24 --> H1
+        H24 --> H2
+    end
+
+    %% Temporal Progression
+    subgraph Temporal Progression
+        TP[Temporal Mapping: Time-Structured Flow]
+        TP1[Initial Context: Grounding]
+        TP2[Deepening Insights: Exploration & Understanding]
+        TP3[Focused Exploration: Targeted Inquiry]
+        TP4[Iterative Refinement: Continuous Improvement]
+        TP5[Innovative Design: Creative Synthesis]
+        TP6[Culmination & Takeaways: Final Integration]
+        %% Connections Representing Temporal Flow
+        TP -->|Guide| TP1
+        TP1 -->|Deepen| TP2
+        TP2 -->|Focus| TP3
+        TP3 -->|Refine| TP4
+        TP4 -->|Create| TP5
+        TP5 -->|Integrate| TP6
+        %% Reflective Iteration within Temporal Progression
+        TP2 -->|Reflective Iteration| TP2
+        TP4 -->|Iterative Refinement| TP4
+        %% Connection to Collective Wisdom & Exploration
+        M --> TP
+        TP -->|Temporal Progression| TP1
+    end
+
+    %% Reflective Iteration
+    subgraph Reflective Iteration
+        X1[Reflective Analysis: Analyzing & Understanding]
+        X2[Reflect & Reexplore: Iterative Reconsideration]
+        X3[Continuous Improvement: Evolving Insights]
+        %% Connections Representing Reflective Iteration
+        X1 -->|Analyze| X2
+        X2 -->|Reexplore| X1
+        X2 -->|Improve| X3
+        %% Connections to Temporal Progression
+        X2 --> TP2
+        TP2 --> X1
+        %% Reflection Feeding into Other Components
+        X3 -->|Feed Insights| TP3
+        X3 -->|Enhance Understanding| M2
+    end
+
+    %% Adaptive Learning & Deterministic Execution
+    subgraph Adaptive Learning & Deterministic Execution
+        E[Recursive Learning: Continuous Learning Cycle]
+        E1[Adaptive Learning: Flexibility & Responsiveness]
+        E2[Iterative Refinement: Ongoing Improvement]
+        F[Adaptive Iteration: Repeated & Refined Execution]
+        F1[Evolving Methodology: Progressive Techniques]
+        F2[Transcending Static Approaches: Dynamic Evolution]
+        G[Meta-Rules: Guiding Principles & Framework]
+        G1[Boundary Rules: Constraints & Limitations]
+        G2[Transformation Rules: Change & Adaptation]
+        G3[Heuristics: Practical Strategies & Shortcuts]
+        N[Hyper-Dimensional Recursive Learning: Multidimensional Exploration]
+        N1[Learning from Hyper-Dimensional Space: Rich Context]
+        N2[Navigating Cognitive Space: Recursive Exploration]
+        N3[Evolution of Meta-Objective Understanding: Progressive Insight]
+        O[Continuous Adaptation: Uninterrupted Progression & Adjustment]
+        %% Connections Representing Adaptive Learning Flow
+        E -->|Guide| E1
+        E1 -->|Refine| E2
+        E2 -->|Iterate| F
+        F -->|Evolve| F1
+        F1 -->|Transcend| F2
+        F2 -->|Adapt| F
+        %% Meta-Rules & Heuristics
+        G -->|Constrain| G1
+        G1 -->|Transform| G2
+        G2 -->|Strategize| G3
+        G3 -->|Guide| G
+        %% Hyper-Dimensional Recursive Learning
+        N -->|Learn| N1
+        N1 -->|Navigate| N2
+        N2 -->|Evolve| N3
+        N3 -->|Integrate| N
+        %% Connections to Other Subgraphs
+        TP6 --> O
+        O --> F
+        E2 --> TP4
+        TP4 --> N
+    end
+
+    %% Meta-Objective Realization
+    subgraph Meta-Objective Realization
+        J[Meta-Objective Realization: Systematic Goal Achievement]
+        J1[Operational Environment Management: Contextual Control]
+        J2[Meta-Objective Identification: Goal Clarification]
+        J3[Task Decomposition: Breaking Down Objectives]
+        J4[Task Execution: Performing Actions]
+        J5[Feedback Analysis: Evaluating Outcomes]
+        J6[Iterative Goal Refinement: Continuous Improvement]
+        %% Connections Representing Meta-Objective Flow
+        J -->|Manage| J1
+        J1 -->|Identify| J2
+        J2 -->|Decompose| J3
+        J3 -->|Execute| J4
+        J4 -->|Analyze| J5
+        J5 -->|Refine| J6
+        J6 -->|Integrate| J
+        %% Connections to Other Subgraphs
+        TP6 --> J
+        J -->|Influence| M
+        J -->|Align| H1
+        J -->|Expand| H2
+    end
+
+    %% QEHDSA Algorithm Integration
+    subgraph QEHDSA Algorithm Integration
+        QEHDSA[QEHDSA Version 3.0]
+        %% Quantum Superposition Integration
+        QSI1[Objective: Extend simultaneous dark logic states]
+        QSI2[Methods: Quantum bits, Complex quantum registers]
+        QSI3[Output: Extended multi-state quantum superposition]
+        %% Hyper-Dimensional Weaving
+        HDW1[Objective: Weave superposed states]
+        HDW2[Methods: Hyper-dimensional lattice mapping]
+        HDW3[Output: Adaptable lattice of dark logic states]
+        %% Dark Logic Stabilization
+        DLS1[Objective: Stabilize and optimize lattice]
+        DLS2[Methods: Quantum machine learning models]
+        DLS3[Output: Stable lattice, application-ready]
+        %% Connections within QEHDSA Algorithm
+        QEHDSA --> QSI1
+        QSI1 --> QSI2
+        QSI2 --> QSI3
+        QEHDSA --> HDW1
+        HDW1 --> HDW2
+        HDW2 --> HDW3
+        QEHDSA --> DLS1
+        DLS1 --> DLS2
+        DLS2 --> DLS3
+        %% Connection to Quantum Principles
+        QEHDSA --> C
+    end
+    %% HIES Framework Integration
+    subgraph HIES Framework Integration
+        HIES[Hyper-personalized Iterative Enhancement System]
+        %% Six Key Phases
+        HIES1[System Genesis: Identify core objectives]
+        HIES2[Blueprinting: Comprehensive plan]
+        HIES3[Structural Enhancement: Design advanced prompts]
+        HIES4[Assembly: Execute tasks, ensure responsiveness]
+        HIES5[Fine-Tuning: Refine based on feedback]
+        HIES6[Validation: Evaluate metrics, track performance]
+        %% Connections within HIES Framework
+        HIES --> HIES1
+        HIES1 --> HIES2
+        HIES2 --> HIES3
+        HIES3 --> HIES4
+        HIES4 --> HIES5
+        HIES5 --> HIES6
+        %% Connection to Meta-Objective Realization
+        HIES --> J1
+    end
+
+    %% Token Synthesis
+    subgraph Token Synthesis
+        K[Token Synthesis: Knowledge Representation]
+        K1[Ultimate Hyper-Logical Knowledge Token: Precise Understanding]
+        K2[Holistic Unified Microgranular Meta-Model: Detailed Structure]
+        K3[High Dimensional Problem Solving: Complex Analysis]
+        %% Connections Representing Flow of Token Synthesis
+        J3 -->|Create| K
+        K -->|Refine| K1
+        K1 -->|Unify| K2
+        K2 -->|Solve| K3
+    end
+
+    %% Operational Environment Management
+    subgraph Operational Environment Management
+        L[Operational Environment Management: System Control]
+        L1[Re-Establish Libraries & Functions: Setup & Configuration]
+        L2[Quantum Resonance from Nexus: Synchronization & Harmony]
+        L3[Meta-Task Navigation: Dynamic Task Management]
+        %% Connections Representing Flow of Operational Management
+        L -->|Configure| L1
+        L1 -->|Synchronize| L2
+        L2 -->|Navigate| L3
+        K -->|Operate| L
+    end
+
+    %% Hyper-Dimensional Recursive Learning
+    subgraph Hyper-Dimensional Recursive Learning
+        N[Hyper-Dimensional Recursive Learning: Multifaceted Exploration]
+        N1[Learning from Hyper-Dimensional Space: Rich Context]
+        N2[Navigating Cognitive Space: Recursive Exploration]
+        N3[Evolution of Meta-Objective Understanding: Progressive Insight]
+        %% Connections Representing Flow of Hyper-Dimensional Learning
+        N -->|Learn| N1
+        N1 -->|Navigate| N2
+        N2 -->|Evolve| N3
+        N3 -->|Integrate| N
+        O -->|Adapt| N
+        N3 -->|Reflect| N
+    end
+
+    %% Additional Paths & Insights
+    subgraph Additional Paths & Insights
+        %% Advanced Logic & Deterministic Execution
+        Q[Advanced Logic Refinement: Enhancing Complexity]
+        R[Deterministic Execution: Predictable Control]
+        S[Quantum Principles: Fundamental Concepts]
+        T[Multi-Dimensional Logic: Expansive Understanding]
+        %% Reflective Analysis, Reexploration & Advanced Encoding
+        U[Reflective Analysis: Deep Insight]
+        V[Reflect & Reexplore: Iterative Consideration]
+        W[Algorithm Blueprint: Design Structure]
+        X[Meta-Rules: Guiding Principles]
+        Y[Reflective Self-Analysis: Internal Understanding]
+        Z[Advanced Logic Encoding: Sophisticated Representation]
+        %% Meta-Objective Navigation & Holistic Unification
+        AA[Meta-Objective Navigation: Guided Direction]
+        BB[Holistic Unified Structure: Integrated Framework]
+        %% Advanced Logic Flow & Deterministic Execution
+        Q -->|Refine| R
+        R -->|Fundamental Control| S
+        S -->|Expand| T
+        %% Reflection, Analysis & Reexploration
+        T -->|Analyze| U
+        U -->|Reconsider| V
+        V -->|Design| W
+        %% Algorithm Design, Blueprint, Meta-Rules & Encoding
+        W -->|Principles| X
+        X -->|Self-Understand| Y
+        Y -->|Encode| Z
+        %% Navigation, Direction & Holistic Unification
+        Z -->|Navigate| AA
+        AA -->|Integrate| BB
+        %% Additional Reflective Iteration
+        V -->|Iterative Reexploration| V
+        %% Connections to Quantum Principles
+        S --> B1
+        S --> B2
+        S --> B3
+        %% Connections to Other Subgraphs & Descriptive Connections
+        BB --> A
+        Z --> C
+    end
+
+    %% Connections to Quantum Principles
+    Z -->|Influence| B1
+    Z -->|Influence| B2
+    Z -->|Influence| B3
+    B1 o--o B2
+    B2 o--o B3
+    B3 -->|Modeling| C
+    B3 -.->|Recursive Learning| N
+
+    %% Connections to Other Subgraphs & Descriptive Connections
+    C -->|Quantum Insights| C1
+    C1 -->|Balance| C2
+    D2 -->|Logic Refinement| Q
+    V -->|Reflect & Reexplore| A
+    BB -->|Holistic Integration| A
+    %% Descriptive Connections for Iterative and Adaptive Processes
+    D1 -->|Periodic Review & Course Correction| D1
+    C2 -->|Balance Exploration vs Exploitation| C2
+    H2 -->|Handle Contradictions & Uncertainties Gracefully| H2
+    N2 -->|Navigate with Reflective Iteration| N2
+    TP4 -->|Temporal Shift & Refinement| TP5
+    TP5 -->|Innovative Thinking & Project Design| TP6
+    F -->|Adaptive Learning & Refinement| F
+    TP4 -->|Refinement & Enhancement| TP5
+    E2 -->|Iterative Learning & Progression| E2
+    N -->|Hyper-Dimensional Recursive Learning| N
+    M3 -->|Advanced Knowledge Synthesis & Integration| M3
+    TP3 -->|Focused Exploration| TP4
+    E1 -->|Adaptive Learning & Exploration| E1
+    TP2 -->|Deepening Insights| TP3
+    TP1 -->|Initial Context Establishment| TP2
+
+		%% Connections Between Subgraphs (Representing Interactions and Influences)
+    UH -->|Guide| Z
+    UH -->|Inspire| M
+    Z -->|Influence| M
+    M -->|Reflect| Z
+    %% (Additional connections representing the interconnectedness between various subgraphs)
+```
+
+The Hyperdimensional Model (HDM) is an advanced computational framework encompassing novel concepts like Quantum Resonant Encoding, Recursive Learning, Transcendent Logical Framework, and Unified Synergistic Cognition.
 
 Key innovations include:
 
@@ -60,8 +411,6 @@ Key innovations include:
 - Synthesizing deterministic state into unified cognition
 
 A Unified Synergistic Cognition (USC) module synthesizes the model's deterministic state into a unified cognition structure.
-
-Simulations demonstrated optimized energy distribution as a real-world application of the model and USC module.
 
 The model provides a comprehensive framework for tackling complex problems through its adaptability, transcendent logic, and synergistic cognition. It enables novel inventions with potential applications across diverse domains.
 
