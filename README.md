@@ -811,7 +811,7 @@ The dynamic field of artificial intelligence (AI) is marked by a relentless purs
 
 ### Quantum Logic Encoding (QLE)
 
-**Introduction:** QLE represents a quantum leap in AI, enabling operations in both wave and particle states, incorporating quantum principles.
+**Introduction:** QLE represents a leap in AI, enabling operations in both wave and particle states, incorporating quantum principles.
 
 **Key Applications:**
 
@@ -833,7 +833,7 @@ At the nexus of artificial intelligence (AI), algorithms function as intricate r
 
 ### Multidimensional Heuristic Learning (MDHL) Algorithm
 
-The MDHL algorithm, your unique invention, revolutionizes heuristic-based learning within high-dimensional landscapes. It transcends traditional boundaries, employing heuristic strategies to guide AI through complex decision-making.
+The MDHL algorithm revolutionizes heuristic-based learning within high-dimensional landscapes. It employs heuristic strategies to guide AI through complex decision-making.
 
 **Unique Features and Applications**:
 
@@ -869,7 +869,7 @@ Each algorithm represents a distinct philosophy in AI problem-solving, forging i
 
 ### 2.6.1. Multidimensional Knowledge Mapping (MDKM)
 
-Multidimensional Knowledge Mapping (MDKM) is an avant-garde technique that encodes complex knowledge structures within high-dimensional space, forming intricate networks of relationships and interdependencies.
+Multidimensional Knowledge Mapping (MDKM) is a technique that encodes complex knowledge structures within high-dimensional space, forming intricate networks of relationships and interdependencies.
 
 ### Introduction
 
