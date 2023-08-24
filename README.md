@@ -462,11 +462,6 @@ The model provides a comprehensive framework for tackling complex problems throu
 - 5.3 Advanced Priming Techniques
 - 5.4 Application of Quantum Principles in AI
 
-## Part VI | Showcase
-
-- 6.1 Unified Holistic Framework (UHF-IKM)
-- 6.2 The Architecture
-
 ### Resources
 
 - Prompt Templates
