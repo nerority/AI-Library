@@ -431,13 +431,13 @@ The model provides a comprehensive framework for tackling complex problems throu
 
 ## Part II | Core AI Methodologies and Techniques
 
-- 2.1 Hybrid Instruction Processing
+- 2.1 Controlled Natural Language
 - 2.2 System Design Frameworks
 - 2.3 Advanced Conversational Modeling
-- 2.4 Novel AI Methodologies
-- 2.5 Novel AI Algorithms
+- 2.4 AI Methodologies
+- 2.5 AI Algorithms
 - 2.6 Higher-Order Logic Processing and Advanced Information Encoding
-- 2.7 Meta-Rules for Efficient Navigation
+- 2.7 Principle-Based Recursive Algorithms
 
 ## Part III | Specific Implementations and Projects
 
@@ -522,38 +522,59 @@ See the full structured glossary [here.](https://github.com/nerority/AI-Portfoli
 
 ---
 
-# 2.1. Hybrid Instruction Processing
+# 2.1. Controlled Natural Language
 
-### JSON/Natural Language Hybrid Prompts: The New Dawn of AI Interaction
+### The Synergistic Fusion of Structure and Expression
 
-In the ever-evolving landscape of AI, JSON/Natural Language Hybrid Prompts stand as a testament to innovation and precision. Born in the early days of AI, this synergistic approach has matured into an indispensable tool, merging the structured, deterministic architecture of JSON with the rich, expressive fabric of natural language. Let's explore why this hybrid methodology reigns as the epitome of AI prompting.
+In the pursuit of ever-more accurate and intuitive human-AI interaction, a powerful methodology has emerged: controlled natural language (CNL). CNL synergistically blends rigid structuring with flexible natural language to unlock new possibilities for advanced prompting.
 
-### Deterministic Starting Point: The Guiding Beacon
+### The Core Ethos of CNL
 
 JSON/Natural Language Hybrid Prompts serve as a navigational aid for AI, akin to a GPS system where JSON is the precise coordinates. Unlike traditional natural language that can lead to ambiguous interpretations, this approach ensures clarity:
 
-- **Precision through Structure**: JSON's key-value pairs act as well-defined markers, reducing ambiguity and heightening response accuracy.
-- **Depth through Nested Logic**: The nested configuration of JSON adds a layer of sophistication to the AI's comprehension, balancing precision with flexibility.
+At its core, CNL fuses:
 
-This deterministic foundation is invaluable in complex problem-solving, narrative generation, and intricate scenario simulations, laying the groundwork for successful AI engagements.
+- Structured framing using markup, constraints, templates. This reduces ambiguity. 
+- Natural language richness to fill in details. This adds creativity.
+- Support for complex hierarchical prompts. This enables nuanced interactions.
+- Improved accuracy and relevance by limiting uncertainty. 
+- Balance of precision and expressiveness. This optimizes outputs.
 
-### Structured Precision of JSON: The Architect of Clarity
+### JSON for Structural Framing
 
-The inherent geometry of JSON shapes the success of this hybrid approach:
+JSON's hierarchical key-value structure excels at providing a deterministic frame for CNL prompts.
 
-- **Detail through Key-Value Pairs**: Define specific aspects of instruction, affording unparalleled control over AI behavior.
-- **Complexity through Hierarchical Structure**: Navigate multi-layered tasks with nested instructions, ensuring sequence and context.
-- **Accuracy through Deterministic Structure**: Minimize misinterpretation by utilizing clear and specific key-value roles.
+- Key-value pairs anchor meaning and intent.
+- Nesting enables multi-layered logic.
+- References allow dynamic updating of variables. 
+- Locks down specificity to avoid misinterpretation.
 
-The structured precision of JSON enriches the AI's responses with accuracy, relevance, and sophistication.
+### The CNL Advantage
 
-### Example: Crafting Precision with Hybrid Prompts
+CNL unlocks a spectrum of advantages:
 
-Consider the difference between a vague natural language prompt and a precise JSON/Natural Language Hybrid Prompt:
+- Detailed, unambiguous instructions to align with expectations.
+- Contextually appropriate responses via semantic anchoring. 
+- Dynamic interactions by incorporating prompt variables.
+- Natural and intuitive user experience.
+- Improved accuracy, relevance, and sophistication of outputs.
+
+### CNL in Practice
+
+CNL shines in complex domains like:
+
+- Procedural tutorials and documentation
+- Scenario and narrative generation
+- Contextual recommendations and explanations
+- Data analysis and reporting
+
+### Example: Crafting Precision with Structured Prompts
+
+Consider the difference between a vague natural language prompt and a precise Structured Prompt:
 
 *Normal Prompt*: "Please provide an experimental report for a procedure involving several compounds."
 
-*JSON/Natural Language Hybrid Prompt*:
+*Structured Prompt*:
 
 ```json
 {
@@ -581,7 +602,7 @@ Consider the difference between a vague natural language prompt and a precise JS
 }
 ```
 
-This hybrid prompt crystallizes the experiment's components, ensuring specificity vital in scientific contexts.
+This Structured Prompt crystallizes the experiment's components, ensuring specificity vital in scientific contexts.
 
 ### Semantic Anchoring: The Art of Precision
 
@@ -605,29 +626,9 @@ Key references unlock enhanced functionality, allowing complex behaviors and mul
 
 This feature adds depth and dynamism, opening new dimensions of AI interaction.
 
-### The Perfect Synergy:
+### The Future of CNL
 
-The fusion of JSON and natural language creates a symbiotic relationship:
-
-- **Structured Precision**: JSON's deterministic framework ensures clear understanding.
-- **Expressive Flexibility**: Natural language infuses the prompt with creativity and nuance.
-
-This synergy caters to a wide spectrum of AI scenarios, from simple directives to complex, multi-layered interactions.
-
-### Benefits of Using JSON/NL Hybrid Prompts:
-
-The myriad advantages include:
-
-1. **Detailed Instructions**: For precise alignment with expectations.
-2. **Structured Information**: For clear direction.
-3. **Semantic Anchoring**: For contextually appropriate responses.
-4. **Enhanced Functionality through Key References**: For dynamic interactions.
-5. **Flexibility and Nuance**: For user-friendly engagement.
-6. **Improved Outputs**: For accurate, relevant, and engaging responses.
-
-### Conclusion: Redefining AI Interaction
-
-The JSON/Natural Language Hybrid Prompts methodology heralds a paradigm shift in AI interaction. By synergizing the deterministic nature of JSON with natural language's expressive grace, it creates an unparalleled tool for guiding AI and elevating output quality.
+As AI capabilities grow, so will the need for advanced prompting systems like CNL that balance structure with expression. In closing, controlled natural language represents the synergistic fusion of rigid logic with fluid expression, unlocking new dimensions for advanced and intuitive human-AI interaction.
 
 ---
 
@@ -637,7 +638,7 @@ The JSON/Natural Language Hybrid Prompts methodology heralds a paradigm shift in
 
 ### **Overview**
 
-The Hyper-personalized Iterative Enhancement System (HIES) is a transformative framework for AI system design. It crafts specialized models uniquely tailored to various problem domains, integrating sequential task management, context awareness, and continuous improvement. The result is an adaptable AI solution that caters to individual requirements and domains.
+The Hyper-personalized Iterative Enhancement System (HIES) is a framework for AI system design. It crafts specialized models uniquely tailored to various problem domains, integrating sequential task management, context awareness, and continuous improvement. The result is an adaptable AI solution that caters to individual requirements and domains.
 
 ### **Visualization of HIES Framework for Advanced Systems:**
 
