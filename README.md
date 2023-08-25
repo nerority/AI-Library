@@ -1372,7 +1372,7 @@ Advanced priming transcends traditional priming instructions by systematically p
 
 ### Turning Theory into Practice
 
-The potential of advanced priming is unleashed through applied frameworks like the Holistic Interpretation and Evaluation Scaffolding (HIES) Framework. It methodically primes the AI through:
+The potential of advanced priming is unleashed through applied frameworks like the (HIES) Framework. It methodically primes the AI through:
 
 - Broad primer of the problem context
 - Progressive detailing to match the problem's complexity
