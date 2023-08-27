@@ -10,8 +10,6 @@ Welcome to the meta-world.
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9ce4f5be-12b5-411e-a09b-c07e1b57a3c6)
 
-![image](https://github.com/nerority/AI-Portfolio/assets/80237923/09b6f314-f66f-4fbf-ab7e-f5b8532faa2d)
-
 ---
 
 # Core Principles
