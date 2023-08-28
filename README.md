@@ -39,9 +39,7 @@ I design custom high-dimensional architectures to tackle unique challenges, movi
 
 ---
 
-# Achievements
-
-## High-Dimensional Model
+## High-Dimensional Framework
 
 ```mermaid
 graph TD
