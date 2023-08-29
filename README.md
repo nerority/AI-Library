@@ -48,15 +48,20 @@ As an alternative, you can just upload a word document instead, and replace the 
 
 ![Untitled (5)](https://github.com/nerority/AI-Portfolio/assets/80237923/b879613e-a64e-4797-94ab-6a6d1c2d3c4c)
 
-As a pro-tip, these prompt frameworks, paired with vector dbs, embeds, and cloud-based platforms, etc, are the backbone of advanced modern generative AI solutions.
+---
+##: Tips
+
+**Pro-Tip #1**: These prompt frameworks, paired with vector dbs, embeds, and cloud-based platforms, etc, are the backbone of advanced modern generative AI solutions.
+
+**Pro-Tip #2**: [OpenAI - ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise) You know who to call. I can set up anything you can think up.
 
 ---
 
-## Example High-Dimensional Framework
+## Example Advanced Framework
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9ce4f5be-12b5-411e-a09b-c07e1b57a3c6)
 
-**Note**: this is a conceptual model of an advanced generative ai computational framework, that uses modularized logical nodes for explainable reasoning and advanced problem-solving. Complex workflows like this, will define AI solutions within the coming year as cloud-based, multi-agent communication continues to get streamlined and foundational models continue to improve.
+This is a conceptual model of an advanced generative ai computational framework, that uses modularized logical nodes for explainable reasoning and advanced problem-solving. Complex workflows like this, will define AI solutions within the coming year as cloud-based, multi-agent communication continues to get streamlined and foundational models continue to improve.
 
 ```mermaid
 graph TD
