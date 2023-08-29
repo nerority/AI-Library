@@ -41,14 +41,14 @@ How to Use:
 Requirements: GPT-4
 
 1. Open Link, Hit Continue
-2. Replace my information with other data.
-3. Use services with “key” calls. “1.” etc.
+2. Replace my information with other data in the 3rd user input.
+3. Use services with “key” calls. “1.” etc. Chain them out, leverage the context window.
 
 As an alternative, you can just upload a word document instead, and replace the text with the document name.
 
 ![Untitled (5)](https://github.com/nerority/AI-Portfolio/assets/80237923/b879613e-a64e-4797-94ab-6a6d1c2d3c4c)
 
-As a pro-tip, these frameworks, paired with vector dbs, embeds, and cloud-based platforms, etc, are the backbone of advanced modern generative AI solutions.
+As a pro-tip, these prompt frameworks, paired with vector dbs, embeds, and cloud-based platforms, etc, are the backbone of advanced modern generative AI solutions.
 
 ---
 
