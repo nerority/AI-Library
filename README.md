@@ -1,12 +1,8 @@
 Hi, my name is Devin.
 
-My expertise lies in the design and architecture of cutting-edge generative AI solutions. By harnessing the power of surrogate models, I create solutions that offer personalized assistance and precise simulations of the action space, transforming static workflows into dynamic, evolving processes.
+My expertise lies in the design and architecture of modern generative AI solutions. By harnessing the power of surrogate models and cutting-edge techniques, I create solutions that offer personalized assistance and precise simulations of the action space, transforming static workflows into dynamic, evolving processes.
 
 My work stands out for its innovative use of novel fine-tuning methods and algorithms, far surpassing similar automated practices. Utilizing specialized predictive models, I create intelligent, evolving processes tailored specifically to individual businesses or projects. These self-contained ecosystems are the future, given the rapidly advancing AI horizon.
-
-Think LangChain, a decentralized, abstracted, moduled framework for AI system design. Except not restricted to LangChain, when you truely master prompt engineering, there are way better ways to get things done.
-
-With an arsenal of know-how, design expertise, and carefully curated algorithms, I have the capability to create game-changing AI solutions.
 
 ---
 
@@ -14,37 +10,51 @@ With an arsenal of know-how, design expertise, and carefully curated algorithms,
 
 - Predictive modeling using novel fine-tuning methods to create customized solutions for businesses and projects
 - Conversational interfaces enabling accessible interactions with complex models
-- Continuous adaptation through real-time validation for evolving systems
+- Advanced knowledge management and workflow design
 
 ## Core Expertise 
 
 - Machine learning
 - Advanced neural algorithms and deep learning
-- Knowledge architectures using semantic graphs  
+- Knowledge architectures using semantic graphs
 - Quantum-inspired interaction paradigms
-- Simulation of complex phenomena
 
 ## Innovations
 
 - Explainable generative reasoning using composable modules
 - Multimodal knowledge integration through hybrid techniques
 - High-dimensional architectures for unique challenges
-- Focus on model functionality over physical resemblance 
-
-## Vision
-
-- Moving beyond incremental advances through unified knowledge
-- Enabling fluid intelligence using contextual, symbolic representations
-- Synthesizing scenarios and content using deep generative modeling
-- Integrating physics and engineering foundations with reasoning
+- Focus on model functionality over physical resemblance
 
 ---
 
-Welcome to the meta-world.
+Let me give you a quick example of what I can do, in about an hour:
+
+## Career Growth Agent:
+
+**Bonus**: Scanning my resume through AI for you 🙂 also a personal career agent, primed with advanced techniques to offer tailored assistance for any user info entered in the last step. (Scroll to bottom)
+
+[Link to Conversation](https://chat.openai.com/share/f1121dfc-9c6b-436c-a876-60980723c11d)
+
+How to Use:
+
+Requirements: GPT-4
+
+1. Open Link, Hit Continue
+2. Replace my information with other data.
+3. Use services with “key” calls. “1.” etc.
+
+As an alternative, you can just upload a word document instead, and replace the text with the document name.
+
+![Untitled (5)](https://github.com/nerority/AI-Portfolio/assets/80237923/b879613e-a64e-4797-94ab-6a6d1c2d3c4c)
+
+As a pro-tip, these frameworks, paired with vector dbs, embeds, and cloud-based platforms, etc, are the backbone of advanced modern generative AI solutions.
+
+---
+
+## Example High-Dimensional Framework
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9ce4f5be-12b5-411e-a09b-c07e1b57a3c6)
-
-## High-Dimensional Framework
 
 ```mermaid
 graph TD
@@ -398,18 +408,17 @@ graph TD
     UH -->|Inspire| M
     Z -->|Influence| M
     M -->|Reflect| Z
-    %% (Additional connections representing the interconnectedness between various subgraphs)
 ```
 
-The High-Dimensional Model (HDM) is an advanced computational framework for advanced problem-solving and simulation.
+The High-Dimensional Framework (HDM) is an advanced computational framework for advanced problem-solving and simulation.
 
 Key innovations include:
 
 - Mathematical modeling of high-dimensional spaces
 - Encoding information using quantum principles
 - Adaptive learning through recursive algorithms
-- Transcendent logic for deterministic control
-- Synthesizing deterministic state into unified cognition
+-  logic for deterministic control
+- Synthesizing deterministic state into unified cognition module
 
 A Unified Synergistic Cognition Module (USCM) synthesizes the model's deterministic state into a unified cognition structure.
 
@@ -737,7 +746,7 @@ My approach leverages hyperdimensional representations and techniques to enable 
 
 **Multidimensional Knowledge Encoding**
 
-- **High-Dimensional Vector Space**: Advanced knowledge graphs that capture conceptual connections between entities, enabling dynamic mapping of semantic relationships. Like embeddings, but taken to an advanced level.
+- **High-Dimensional Vector Space**: Advanced knowledge graphs that capture conceptual connections between entities, enabling dynamic mapping of semantic relationships.
 - Modular networks combine specialized reasoning, planning, and interaction capabilities. Integrative principles facilitate synergy between otherwise disconnected modules. 
 - Memory architectures store conversation histories, context, and experiences to leverage for contextual understanding. Encoding methods enable efficient storage and retrieval.
 
@@ -760,7 +769,7 @@ The techniques help tackle key challenges:
 
 ---
 
-# 2.5 Novel AI Algorithms: Pushing the Boundaries 
+# 2.5 Novel AI Algorithms:
 
 At the core of artificial intelligence are intricate algorithms that steer decision-making and learning. Advances in AI are often powered by pioneering new algorithms that unlock unprecedented capabilities. This section highlights three novel algorithms I have developed, blending mathematical rigor, human-inspired heuristics, and quantum principles to achieve new frontiers in AI.
 
