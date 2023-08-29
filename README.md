@@ -36,9 +36,9 @@ Let me give you a quick example of what I can do, in about an hour:
 
 [Link to Conversation](https://chat.openai.com/share/f1121dfc-9c6b-436c-a876-60980723c11d)
 
-How to Use:
-
 Requirements: GPT-4
+
+How to Use:
 
 1. Open Link, Hit Continue
 2. Replace my information with other data in the 3rd user input.
