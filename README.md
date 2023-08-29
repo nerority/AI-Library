@@ -56,6 +56,8 @@ As a pro-tip, these prompt frameworks, paired with vector dbs, embeds, and cloud
 
 ![image](https://github.com/nerority/AI-Portfolio/assets/80237923/9ce4f5be-12b5-411e-a09b-c07e1b57a3c6)
 
+**Note**: this is a conceptual model of an advanced generative ai computational framework, that uses modularized logical nodes for explainable reasoning and advanced problem-solving. Complex workflows like this, will define AI solutions within the coming year as cloud-based, multi-agent communication continues to get streamlined and foundational models continue to improve.
+
 ```mermaid
 graph TD
 
@@ -417,12 +419,14 @@ Key innovations include:
 - Mathematical modeling of high-dimensional spaces
 - Encoding information using quantum principles
 - Adaptive learning through recursive algorithms
--  logic for deterministic control
+- Higher-order logical nodes for deterministic control
 - Synthesizing deterministic state into unified cognition module
 
 A Unified Synergistic Cognition Module (USCM) synthesizes the model's deterministic state into a unified cognition structure.
 
 The model provides a comprehensive framework for tackling complex problems through its adaptability, embedded logic, and synergistic cognition. It enables novel inventions with potential applications across diverse domains when paired with structured knowledge and relevant expertise.
+
+---
 
 ---
 
@@ -472,57 +476,20 @@ The model provides a comprehensive framework for tackling complex problems throu
 - 5.3 Advanced Priming Techniques
 - 5.4 Application of Quantum Principles in AI
 
-### Resources
+### Resources (WIP)
 
+- Work Flows
 - Prompt Templates
-- Cheat Sheets
-- Guides
+- Knowledge Graphs
+- Pseudocode & Formulations
+- Guides & Learning Resources
+- Visualizations
 
 ---
 
 # Part I | Foundational Concepts & Principles
 
 See the full structured glossary [here.](https://github.com/nerority/AI-Portfolio/wiki/Part-I-%7C-The-Glossary)
-
-### **1.1 Artificial Intelligence**
-
-- **Definition:** The confluence of disciplines that breathes life into machines, enabling them to emulate tasks traditionally demanding human intelligence.
-- **Relevance:** The keystone of this portfolio, AI fuels all innovation, from mundane automation to the enigmas of complex problem-solving.
-
-### **1.2 Machine Learning**
-
-- **Definition:** AI's dynamic offspring that harnesses algorithms to continually refine predictions, learning from data.
-- **Relevance:** A flexible core of methodologies, Machine Learning empowers AI to evolve and thrive.
-
-### **1.3 Deep Learning**
-
-- **Definition:** Machine Learning's profound layer, utilizing neural networks to decipher intricate data and recognize nuanced patterns.
-- **Relevance:** Deep Learning, the neural crux of contemporary AI, is vital for intricate data interpretation and predictive sculpting.
-
-### **1.4 Natural Language Processing**
-
-- **Definition:** A branch of AI that enables machines to interpret, analyze, and generate human language, bridging the gap between human communication and computer understanding.
-- **Relevance:** NLP serves as the linguistic fabric of AI, facilitating natural interaction with machines and empowering them to comprehend and respond to human language with finesse.
-
-### **1.5 Natural Language Understanding**
-
-- **Definition:** An advanced subset of NLP, focusing on the deep comprehension of human language, enabling machines to interpret context, semantics, and intent.
-- **Relevance:** NLU elevates AI's linguistic capabilities, allowing for more nuanced understanding and response, fostering more intuitive and empathetic interactions with human users.
-
-### **1.6 Information Theory**
-
-- **Definition:** A multidisciplinary field that quantifies information, exploring its creation, transmission, and processing. It forms the bedrock of communication systems and data analysis.
-- **Relevance:** As the architectural backbone of intelligent processing, Information Theory guides the efficient coding, transmission, and interpretation of data, influencing everything from granular analytics to overarching strategic insights.
-
-### **1.7 Cognitive Theory**
-
-- **Definition:** The scientific exploration of human cognition, encompassing thought processes, learning, memory, and decision-making, aiming to understand how humans understand, think, and remember.
-- **Relevance:** By mirroring human cognitive processes, Cognitive Theory enhances AI's ability to engage in more intuitive, context-aware interactions, fostering a human-like understanding within machines.
-
-### **1.8 Quantum Mechanics**
-
-- **Definition:** A fundamental theory in physics describing the physical phenomena at the nanoscopic scale, where classical physics often fails to apply.
-- **Relevance:** Quantum Mechanics provides the theoretical foundation for quantum computing and quantum-resonant intelligence, heralding a new era of computational capabilities and enabling solutions to previously intractable problems.
 
 ---
 
@@ -534,7 +501,7 @@ See the full structured glossary [here.](https://github.com/nerority/AI-Portfoli
 
 ### The Synergistic Fusion of Structure and Expression
 
-In the pursuit of ever-more accurate and intuitive human-AI interaction, a powerful methodology has emerged: controlled natural language (CNL). CNL synergistically blends rigid structuring with flexible natural language to unlock new possibilities for advanced prompting.
+In the pursuit of accurate and intuitive human-AI interaction, a powerful methodology has emerged: controlled natural language (CNL). CNL synergistically blends rigid structuring with flexible natural language to unlock new possibilities for advanced prompting.
 
 ### The Core Ethos of CNL
 
@@ -642,7 +609,7 @@ As AI capabilities grow, so will the need for advanced prompting systems like CN
 
 # 2.2 System Design Frameworks
 
-## The HIES Framework: Pioneering AI System Design
+## The HIES Framework
 
 ### **Overview**
 
