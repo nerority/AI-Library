@@ -49,7 +49,8 @@ As an alternative, you can just upload a word document instead, and replace the 
 ![Untitled (5)](https://github.com/nerority/AI-Portfolio/assets/80237923/b879613e-a64e-4797-94ab-6a6d1c2d3c4c)
 
 ---
-##: Tips
+
+## Tips
 
 **Pro-Tip #1**: These prompt frameworks, paired with vector dbs, embeds, and cloud-based platforms, etc, are the backbone of advanced modern generative AI solutions.
 
