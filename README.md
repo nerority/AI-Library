@@ -2,7 +2,7 @@ Hi, my name is Devin.
 
 My expertise with AI lies in the design and architecture of modern generative AI solutions. By harnessing the power of surrogate models and cutting-edge techniques, I create solutions that offer personalized assistance and precise simulations of the action space, transforming static workflows into dynamic, evolving processes.
 
-My work stands out for its innovative use of novel fine-tuning methods and algorithms, surpassing similar automated practices. Utilizing specialized predictive models, I create intelligent, evolving processes tailored specifically to individual businesses or projects. These self-contained ecosystems are the future, given the rapidly advancing AI horizon.
+I create intelligent, evolving processes tailored specifically to individual businesses or projects. These self-contained ecosystems are the future, given the rapidly advancing AI horizon.
 
 ---
 
