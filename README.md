@@ -37,9 +37,9 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [Part IV | Cross‐Cutting Themes](https://github.com/nerority/AI-Portfolio/wiki/Part-IV-%7C-Cross%E2%80%90Cutting-Themes)
 
-• [Part V | Applications](https://github.com/nerority/AI-Portfolio/wiki/Part-V-%7C-Applications)
+### Agents
 
-## Resources
+• [A | Task Domain Agents](https://github.com/nerority/AI-Portfolio/wiki/A%E2%80%90TD-%7C-Task-Domain-Agents)
 
 ### Prompt Templates & Schemas
 
