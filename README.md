@@ -27,7 +27,7 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 ---
 
-## Research and Projects
+## Research, Projects, and Advanced Resources
 
 • [Part I | Foundations](https://github.com/nerority/AI-Portfolio/wiki/Part-I-%7C-The-Glossary)
 
@@ -41,40 +41,54 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [Deterministic Meta‐Knowledge Clustering and Categorization Framework (DMKCCF)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Deterministic-Meta%E2%80%90Knowledge-Clustering-and-Categorization-Framework-(DMKCCF))
 
-• [Natural Language Query Optimization Framework (NLQO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Natural-Language-Query-Optimization-Framework-(NLQO))
+• [GPT‐4 Industry‐Specific Prompt Engineering Framework (GISPE)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-GPT%E2%80%904-Industry%E2%80%90Specific-Prompt-Engineering-Framework-(GISPE))
 
 • [Holistic Productivity Optimization Framework (HPO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Holistic-Productivity-Optimization-Framework-(HPO))
 
-• [GPT‐4 Industry‐Specific Prompt Engineering Framework (GISPE)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-GPT%E2%80%904-Industry%E2%80%90Specific-Prompt-Engineering-Framework-(GISPE))
+• [Natural Language Query Optimization Framework (NLQO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Natural-Language-Query-Optimization-Framework-(NLQO))
 
 ### Agents
 
-• [A | Task Domain Agents](https://github.com/nerority/AI-Portfolio/wiki/A%E2%80%90TD-%7C-Task-Domain-Agents)
+• [Task Domain Agents](https://github.com/nerority/AI-Portfolio/wiki/A%E2%80%90TD-%7C-Task-Domain-Agents)
 
 ### Prompt Templates & Schemas
 
-• [PT | Priming Agents](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Priming-Agents)
+• [Priming Agents](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Priming-Agents)
 
-• [PT | Prompt Generators](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Prompt-Generators)
+• [Prompt Generators](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Prompt-Generators)
 
-• [PT | Meta‐Prompt Generators](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Meta%E2%80%90Prompt-Generators)
+• [Meta‐Prompt Generators](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Meta%E2%80%90Prompt-Generators)
 
-• [PT | Prompt Analysis](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Prompt-Analysis)
+• [Prompt Analysis](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Prompt-Analysis)
 
-• [PT | Prompt Refinement](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Prompt-Refinement)
+• [Prompt Refinement](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Prompt-Refinement)
 
-• [R‐PD | Starting Template Design](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90PD-%7C-Starting-Template-Design)
+• [Starting Template Design](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90PD-%7C-Starting-Template-Design)
 
-• [R‐FW | Adv. Conversation Framework](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90FW-%7C-Adv.-Conversation-Framework)
+• [Adv. Conversation Framework](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90FW-%7C-Adv.-Conversation-Framework)
 
-### Cheat Sheets & Knowledge Graphs
+### Cheat Sheets
 
-• [R‐CS | Ult. Cheat Sheets](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Ultimate-Cheat-Sheets)
+• [Ult. Cheat Sheets](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Ultimate-Cheat-Sheets)
 
-• [R‐CS | Prompt Engineering](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Prompt-Engineering)
+• [Prompt Engineering](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Prompt-Engineering)
+
+• [Prompt Characteristics](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%E2%80%90-Prompt-Characteristics)
+
+• [Meta-Query Types](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%E2%80%90-Meta%E2%80%90Query-Types)
+
+• [AI Services](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-AI-Services)
+
+• [AI Functionalities](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-AI-Functionalities)
+
+• [Programming Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Programming)
+
+• [Task Specific Automations](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Task-Specific-Automations)
+
+• [Knowledge Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Knowledge-Management)
 
 ### Work Flows
 
-• [R‐WF | AI Model Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-AI-Model-Related)
+• [AI Model Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-AI-Model-Related)
 
-• [R‐WF | Hierarchy Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-Hierarchy-Management)
+• [Hierarchy Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-Hierarchy-Management)
