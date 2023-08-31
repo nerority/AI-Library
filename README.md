@@ -39,11 +39,13 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 ### Frameworks
 
-• [FW | Natural Language Query Optimization Framework (NLQO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Natural-Language-Query-Optimization-Framework-(NLQO))
+• [Deterministic Meta‐Knowledge Clustering and Categorization Framework (DMKCCF)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Deterministic-Meta%E2%80%90Knowledge-Clustering-and-Categorization-Framework-(DMKCCF))
 
-• [FW | Holistic Productivity Optimization Framework (HPO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Holistic-Productivity-Optimization-Framework-(HPO))
+• [Natural Language Query Optimization Framework (NLQO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Natural-Language-Query-Optimization-Framework-(NLQO))
 
-• [FW | GPT‐4 Industry‐Specific Prompt Engineering Framework (GISPE)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-GPT%E2%80%904-Industry%E2%80%90Specific-Prompt-Engineering-Framework-(GISPE))
+• [Holistic Productivity Optimization Framework (HPO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Holistic-Productivity-Optimization-Framework-(HPO))
+
+• [GPT‐4 Industry‐Specific Prompt Engineering Framework (GISPE)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-GPT%E2%80%904-Industry%E2%80%90Specific-Prompt-Engineering-Framework-(GISPE))
 
 ### Agents
 
