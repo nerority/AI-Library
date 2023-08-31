@@ -37,6 +37,10 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [Part IV | Cross‐Cutting Themes](https://github.com/nerority/AI-Portfolio/wiki/Part-IV-%7C-Cross%E2%80%90Cutting-Themes)
 
+### Frameworks
+
+• [FW | Natural Language Query Optimization Framework (NLQO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Natural-Language-Query-Optimization-Framework-(NLQO))
+
 ### Agents
 
 • [A | Task Domain Agents](https://github.com/nerority/AI-Portfolio/wiki/A%E2%80%90TD-%7C-Task-Domain-Agents)
