@@ -41,6 +41,10 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [FW | Natural Language Query Optimization Framework (NLQO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Natural-Language-Query-Optimization-Framework-(NLQO))
 
+• [FW | Holistic Productivity Optimization Framework (HPO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Holistic-Productivity-Optimization-Framework-(HPO))
+
+• [FW | GPT‐4 Industry‐Specific Prompt Engineering Framework (GISPE)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-GPT%E2%80%904-Industry%E2%80%90Specific-Prompt-Engineering-Framework-(GISPE))
+
 ### Agents
 
 • [A | Task Domain Agents](https://github.com/nerority/AI-Portfolio/wiki/A%E2%80%90TD-%7C-Task-Domain-Agents)
