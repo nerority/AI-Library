@@ -31,9 +31,9 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [Part I | Foundations](https://github.com/nerority/AI-Portfolio/wiki/1.-Foundational-Concepts-&-Principles)
 
-• [Part II | Core AI Methodologies]([https://github.com/nerority/AI-Portfolio/wiki/Part-II-%7C-Core-AI-Methodologies](https://github.com/nerority/AI-Portfolio/wiki/2.-Core-AI-Methodologies))
+• [Part II | Core AI Methodologies](https://github.com/nerority/AI-Portfolio/wiki/2.-Core-AI-Methodologies))
 
-• [Part III | Meta‐Concepts and Advanced](https://github.com/nerority/AI-Portfolio/wiki/Part-III-%7C-Meta%E2%80%90Concepts-and-Advanced)
+• [Part III | Meta‐Concepts and Advanced](https://github.com/nerority/AI-Portfolio/wiki/3.-Meta%E2%80%90Concepts-and-Advanced)
 
 • [Part IV | Cross‐Cutting Themes](https://github.com/nerority/AI-Portfolio/wiki/Part-IV-%7C-Cross%E2%80%90Cutting-Themes)
 
