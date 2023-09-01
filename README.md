@@ -29,7 +29,7 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 ## Research, Projects, and Advanced Resources
 
-• [Part I | Foundations](https://github.com/nerority/AI-Portfolio/wiki/Part-I-%7C-The-Glossary)
+• [Part I | Foundations](https://github.com/nerority/AI-Portfolio/wiki/1.-Foundational-Concepts-&-Principles)
 
 • [Part II | Core AI Methodologies](https://github.com/nerority/AI-Portfolio/wiki/Part-II-%7C-Core-AI-Methodologies)
 
