@@ -51,6 +51,10 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [Task Domain Agents](https://github.com/nerority/AI-Portfolio/wiki/A%E2%80%90TD-%7C-Task-Domain-Agents)
 
+### Guides
+
+• [AI Markdown Guide - Advanced Formatting](https://github.com/nerority/AI-Portfolio/wiki/G-%7C-AI-Markdown-Formatting-Guide-(AMDG))
+
 ### Prompt Templates & Schemas
 
 • [Priming Agents](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Priming-Agents)
