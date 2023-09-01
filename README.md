@@ -39,9 +39,9 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 ### Frameworks
 
-• [Deterministic Meta‐Knowledge Clustering and Categorization Framework (DMKCCF)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Deterministic-Meta%E2%80%90Knowledge-Clustering-and-Categorization-Framework-(DMKCCF))
+• [Dynamic Prompt Mastery Framework (DPMF)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Dynamic-Prompt-Mastery-Framework-(DPMF))
 
-• [GPT‐4 Industry‐Specific Prompt Engineering Framework (GISPE)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-GPT%E2%80%904-Industry%E2%80%90Specific-Prompt-Engineering-Framework-(GISPE))
+• [Deterministic Meta‐Knowledge Clustering and Categorization Framework (DMKCCF)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Deterministic-Meta%E2%80%90Knowledge-Clustering-and-Categorization-Framework-(DMKCCF))
 
 • [Holistic Productivity Optimization Framework (HPO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Holistic-Productivity-Optimization-Framework-(HPO))
 
@@ -65,7 +65,7 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [Starting Template Design](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90PD-%7C-Starting-Template-Design)
 
-• [Adv. Conversation Framework](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90FW-%7C-Adv.-Conversation-Framework)
+• [Adv. Conversational Template Framework](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90PD-%7C-Advanced-Conversational-Template-Framework-(ACTF))
 
 ### Cheat Sheets
 
@@ -91,4 +91,4 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [AI Model Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-AI-Model-Related)
 
-• [Hierarchy Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-Hierarchy-Management)
+• [Hierarchy Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-Hierarchical-Representation-Construction)
