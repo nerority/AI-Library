@@ -63,7 +63,7 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [Prompt Refinement](https://github.com/nerority/AI-Portfolio/wiki/PT-%7C-Prompt-Refinement)
 
-• [Starting Template Design](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90PD-%7C-Starting-Template-Design)
+• [NLP Framework for Prompt Templates and Schemas](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90PD-%7C-NLP-Framework-for-Prompt-Templates-and-Schemas)
 
 • [Adv. Conversational Template Framework](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90PD-%7C-Advanced-Conversational-Template-Framework-(ACTF))
 
@@ -86,6 +86,12 @@ I create intelligent, evolving processes tailored specifically to individual bus
 • [Task Specific Automations](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Task-Specific-Automations)
 
 • [Knowledge Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Knowledge-Management)
+
+### Work Flows
+
+• [AI Model Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-AI-Model-Related)
+
+• [Hierarchy Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-Hierarchical-Representation-Construction)
 
 ### Work Flows
 
