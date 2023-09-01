@@ -35,7 +35,7 @@ I create intelligent, evolving processes tailored specifically to individual bus
 
 • [Part III | Meta‐Concepts and Advanced](https://github.com/nerority/AI-Portfolio/wiki/3.-Meta%E2%80%90Concepts-and-Advanced)
 
-• [Part IV | Cross‐Cutting Themes](https://github.com/nerority/AI-Portfolio/wiki/Part-IV-%7C-Cross%E2%80%90Cutting-Themes)
+• [Part IV | Cross‐Cutting Themes](https://github.com/nerority/AI-Portfolio/wiki/4.-Cross%E2%80%90Cutting-Themes)
 
 ### Frameworks
 
