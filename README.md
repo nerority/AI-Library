@@ -96,9 +96,3 @@ I create intelligent, evolving processes tailored specifically to individual bus
 • [AI Model Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-AI-Model-Related)
 
 • [Hierarchy Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-Hierarchical-Representation-Construction)
-
-### Work Flows
-
-• [AI Model Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-AI-Model-Related)
-
-• [Hierarchy Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-Hierarchical-Representation-Construction)
