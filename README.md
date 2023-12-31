@@ -1,3 +1,5 @@
+![Nerority](https://github.com/nerority/Advanced-GPTs/assets/80237923/e99891a8-9645-4e9b-a22c-7fca73177882)
+
 Hi, my name is Devin.
 
 My expertise with AI lies in the design and architecture of modern generative AI solutions. By harnessing the power of surrogate models and cutting-edge techniques, I create solutions that offer personalized assistance and precise simulations of the action space, transforming static workflows into dynamic, evolving processes.
