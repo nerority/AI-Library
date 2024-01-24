@@ -11,11 +11,6 @@ My expertise with AI lies in the design and architecture of modern generative AI
 - Predictive modeling using novel fine-tuning methods to create customized solutions for businesses and projects
 - Conversational interfaces enabling accessible interactions with complex models
 - Advanced knowledge management and workflow design
-
-### Core Expertise 
-
-- Machine learning
-- Advanced neural algorithms and deep learning
 - Knowledge architectures using semantic graphs
 
 ### Innovations
