@@ -27,39 +27,6 @@ My expertise with AI lies in the design and architecture of modern generative AI
 
 ---
 
-## Research
-
-- [Part I | Foundations](https://github.com/nerority/AI-Portfolio/wiki/1.-Foundational-Concepts-&-Principles)
-- [Part II | Core AI Methodologies](https://github.com/nerority/AI-Portfolio/wiki/2.-Core-AI-Methodologies)
-- [Part III | Meta‐Concepts and Advanced](https://github.com/nerority/AI-Portfolio/wiki/3.-Meta%E2%80%90Concepts-and-Advanced)
-- [Part IV | Cross‐Cutting Themes](https://github.com/nerority/AI-Portfolio/wiki/4.-Cross%E2%80%90Cutting-Themes)
-
-## Code Samples
-
-### Reinforcement Learning Algorithms
-- [Q-Learning Agent](https://github.com/nerority/AI-Portfolio/wiki/5.1-%E2%80%90-Q%E2%80%90Learning-Agent#reinforcement-learning-algorithms)
-- [Multi-Armed Bandit Solver](https://github.com/nerority/AI-Portfolio/wiki/5.2-%E2%80%90-Multi%E2%80%90Armed-Bandit-Solver#multi-armed-bandit-solver)
-- [Hierarchical Policy Gradient Methods](https://github.com/nerority/AI-Portfolio/wiki/5.3-%E2%80%90-Hierarchical-Policy-Gradient-Methods#hierarchical-policy-gradient-methods)
-
-### Unsupervised Learning
-- [K-means Clustering](https://github.com/nerority/AI-Portfolio/wiki/6.1-%E2%80%90-K%E2%80%90means-Clustering#k-means-clustering)
-- [Advanced Autoencoders](https://github.com/nerority/AI-Portfolio/wiki/6.2-%E2%80%90-Advanced-Autoencoders#advanced-autoencoders)
-- [Real-time Anomaly Detection](https://github.com/nerority/AI-Portfolio/wiki/6.3-%E2%80%90-Real%E2%80%90time-Anomaly-Detection#real-time-anomaly-detection)
-
-### NLP Algorithms
-- [NLP Text Classification Algorithm](https://github.com/nerority/AI-Portfolio/wiki/7.1-%E2%80%90-NLP-Text-Classification-Algorithm#nlp-text-classification-algorithm)
-- [Multi-Label Text Classification with Advanced Attention](https://github.com/nerority/AI-Portfolio/wiki/7.2-%E2%80%90-Multi%E2%80%90Label-Text-Classification-with-Advanced-Attention#multi-label-text-classification-with-advanced-attention)
-- [End-to-End Named Entity Recognition](https://github.com/nerority/AI-Portfolio/wiki/7.3-%E2%80%90-End%E2%80%90to%E2%80%90End-Named-Entity-Recognition#end-to-end-named-entity-recognition)
-- [Sentiment Analysis Model](https://github.com/nerority/AI-Portfolio/wiki/7.4-%E2%80%90-Sentiment-Analysis-Model#sentiment-analysis-model)
-- [Image Segmentation with Attention U-Net](https://github.com/nerority/AI-Portfolio/wiki/7.5-%E2%80%90-Image-Segmentation-with-Attention-U%E2%80%90Net#image-segmentation-with-attention-u-net)
-
-### Navigation and Path Selection
-- [A Pathfinding Algorithm](https://github.com/nerority/AI-Portfolio/wiki/8.1-%E2%80%90-A*-Pathfinding-Algorithm#a-pathfinding-algorithm)
-
-### Computer Vision
-- [Generative Adversarial Network for Image Synthesis](https://github.com/nerority/AI-Portfolio/wiki/9.1-%E2%80%90-Generative-Adversarial-Network-for-Image-Synthesis#generative-adversarial-network-for-image-synthesis)
-- [Real-time Object Detection](https://github.com/nerority/AI-Portfolio/wiki/9.2-%E2%80%90-Real%E2%80%90time-Object-Detection#real-time-object-detection)
-
 ## Advanced Resources
 
 ### Frameworks
@@ -68,12 +35,9 @@ My expertise with AI lies in the design and architecture of modern generative AI
 - [Deterministic Meta‐Knowledge Clustering and Categorization Framework (DMKCCF)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Deterministic-Meta%E2%80%90Knowledge-Clustering-and-Categorization-Framework-(DMKCCF))
 - [Holistic Productivity Optimization Framework (HPO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Holistic-Productivity-Optimization-Framework-(HPO))
 - [Natural Language Query Optimization Framework (NLQO)](https://github.com/nerority/AI-Portfolio/wiki/FW-%7C-Natural-Language-Query-Optimization-Framework-(NLQO))
-
-### Agents
-
 - [Task Domain Agents](https://github.com/nerority/AI-Portfolio/wiki/A%E2%80%90TD-%7C-Task-Domain-Agents)
 
-### Guides
+### Training Prompts
 
 - [AI Markdown Guide - Advanced Formatting](https://github.com/nerority/AI-Portfolio/wiki/G-%7C-AI-Markdown-Formatting-Guide-(AMDG))
 
@@ -98,8 +62,3 @@ My expertise with AI lies in the design and architecture of modern generative AI
 - [Programming Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Programming)
 - [Task Specific Automations](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Task-Specific-Automations)
 - [Knowledge Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Knowledge-Management)
-
-### Work Flows
-
-- [AI Model Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-AI-Model-Related)
-- [Hierarchy Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90WF-%7C-Hierarchical-Representation-Construction)
