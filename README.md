@@ -72,3 +72,12 @@ My expertise with AI lies in the design and architecture of modern generative AI
 - [Programming Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Programming)
 - [Task Specific Automations](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Task-Specific-Automations)
 - [Knowledge Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Knowledge-Management)
+
+---
+
+## Contact Me or Get Involved
+
+- [Website](https://www.nerority.com/)
+- [Discord](https://discord.gg/jBKjsqA6pb)
+- [LinkedIn](https://www.linkedin.com/company/nerority/)
+- [Patreon](https://www.patreon.com/Nerority)
