@@ -38,21 +38,11 @@ My expertise with AI lies in the design and architecture of modern generative AI
 
 ---
 
-## Advanced Resources
+## Advanced Resources (Under Construction)
 
-// Placeholder for Template Library
+### Wireframes
 
-### Cheat Sheets
-
-- [Ult. Cheat Sheets](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Ultimate-Cheat-Sheets)
-- [Prompt Engineering](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Prompt-Engineering)
-- [Prompt Characteristics](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%E2%80%90-Prompt-Characteristics)
-- [Meta-Query Types](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%E2%80%90-Meta%E2%80%90Query-Types)
-- [AI Services](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-AI-Services)
-- [AI Functionalities](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-AI-Functionalities)
-- [Programming Related](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Programming)
-- [Task Specific Automations](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Task-Specific-Automations)
-- [Knowledge Management](https://github.com/nerority/AI-Portfolio/wiki/R%E2%80%90CS-%7C-Knowledge-Management)
+[Official Nerority Prompt Wireframes](https://github.com/nerority/AI-Library/wiki/WF1-%E2%80%90-Nerority-Prompt-Wireframes)
 
 ---
 
