@@ -4,7 +4,7 @@
   <a href="https://nerority.com"><kbd>🟢 Website</kbd></a>
   <a href="https://www.linkedin.com/in/devin-pellegrino-gt/"><kbd>🔵 LinkedIn </kbd></a>
   <a href="https://www.patreon.com/Nerority"><kbd> 🔴 Patreon </kbd></a>
-  <a href="https://discord.gg/jBKjsqA6pb"><kbd> ⚪ Discord </kbd></a>
+  <a href="https://discord.gg/PbEuXjB6pN"><kbd> ⚪ Discord </kbd></a>
   <br>
   <a href="https://github.com/nerority/Prompt-Engineering-Mastery"><kbd>Prompt Engineering</kbd></a>
   <a href="https://github.com/nerority/Advanced-GPTs"><kbd>Advanced GPTs</kbd></a>
@@ -87,7 +87,7 @@ I will run a bonus with this release: If you are to fully realize a solution pre
 
 ## For Contact, Feedback, or to Join Our Community
 
-Please join the [discord](https://discord.gg/jBKjsqA6pb) or email me at devinpellegrino@gmail.com.
+Please join the [discord](https://discord.gg/PbEuXjB6pN) or email me at devinpellegrino@gmail.com.
 
 ---
 
@@ -95,7 +95,7 @@ Please join the [discord](https://discord.gg/jBKjsqA6pb) or email me at devinpel
   <a href="https://nerority.com"><kbd>🟢 Website</kbd></a>
   <a href="https://www.linkedin.com/in/devin-pellegrino-gt/"><kbd>🔵 LinkedIn </kbd></a>
   <a href="https://www.patreon.com/Nerority"><kbd> 🔴 Patreon </kbd></a>
-  <a href="https://discord.gg/jBKjsqA6pb"><kbd> ⚪ Discord </kbd></a>
+  <a href="https://discord.gg/PbEuXjB6pN"><kbd> ⚪ Discord </kbd></a>
   <br>
   <a href="https://github.com/nerority/Prompt-Engineering-Mastery"><kbd>Prompt Engineering</kbd></a>
   <a href="https://github.com/nerority/Advanced-GPTs"><kbd>Advanced GPTs</kbd></a>
